@@ -1,12 +1,12 @@
 ### Hi there, [Elder Moraes][website] here. 👋
 
-[![Website](https://img.shields.io/website?label=eldermoraes.com&style=for-the-badge&url=https%3A%2F%2Feldermoraes.com)](https://eldermoraes)
+[![Website](https://img.shields.io/website?label=eldermoraes.com&style=for-the-badge&url=https%3A%2F%2Feldermoraes.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/elderjava?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feldermoraes&screen_name=elderjava)
 
 ### I help Java developers to build and deliver secure, available and fast server-side applications, so they can work on the best projects.
 
-- 📖 [Jakarta EE Cookbook][jakartaeecookbook]
-- 🏆 [Java Champion][javachampions]
+- 📖  [Jakarta EE Cookbook][jakartaeecookbook]
+- 🏆  [Java Champion][javachampions]
 - 🎸 Fun fact: I'm a guitar player!
 
 ### Connect with me:
