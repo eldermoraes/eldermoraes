@@ -47,7 +47,7 @@
 
 [website]: https://eldermoraes.com
 [twitter]: https://twitter.com/elderjava
-[youtube]: https://youtube.eldermoraes.com
+[youtube]: http://youtube.eldermoraes.com
 [instagram]: https://instagram.com/eldermoraes
 [linkedin]: https://linkedin.com/in/eldermoraes
 [jakartaeecookbook]: http://book.eldermoraes.com
