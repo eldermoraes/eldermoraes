@@ -1,7 +1,7 @@
 ### Hi there, [Elder Moraes][website] here. 👋
 
 [![Website](https://img.shields.io/website?label=eldermoraes.com&style=for-the-badge&url=https%3A%2F%2Feldermoraes.com)](https://eldermoraes)
-[![Twitter Follow](https://img.shields.io/twitter/follow/elderjava?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feldermoraes&screen_name=eldermoraes)
+[![Twitter Follow](https://img.shields.io/twitter/follow/elderjava?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feldermoraes&screen_name=elderjava)
 
 ### I help Java developers to build and deliver secure, available and fast server-side applications, so they can work on the best projects.
 
@@ -46,7 +46,7 @@
 
 ### ℹ️ GitHub Stats
 
-[![Elder Moraes' github stats](https://github-readme-stats.vercel.app/api?username=eldermoraes)](https://github.com/anuraghazra/github-readme-stats)
+[![Elder Moraes' github stats](https://github-readme-stats.vercel.app/api?username=eldermoraes)]
 
 ---
 
