@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Getting ready for live streaming | #coding #live #livestreaming](https://www.youtube.com/watch?v=HFrZ-VI1lL0)
 - [COMO UM DEV INICIANTE PODE SE DESTACAR? | #career #carreira](https://www.youtube.com/watch?v=YwnHv5ceb6I)
 - [Java é ruim pra carreira? É legado? É difícil de aprender? | #java #carreira](https://www.youtube.com/watch?v=uNO1u9X6xKM)
 - [#boraescovarbit - Java challenges - Feat. Rafael Del Nero | #java](https://www.youtube.com/watch?v=ofFNq9YW860)
 - [Como definir o foco na carreira de desenvolvedor | #carreira #foco](https://www.youtube.com/watch?v=AvUKwMA_znc)
-- [You don't need microservices | #microservices](https://www.youtube.com/watch?v=jmyLDVbc8Ws)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
