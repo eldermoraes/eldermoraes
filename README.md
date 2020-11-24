@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java 9 ao Java 16: Uma retrospectiva das recentes mudanças na JDK](https://www.youtube.com/watch?v=wHAYUamOiSA)
 - [AGORA O JAVA MORRE? | #java #tiobeindex](https://www.youtube.com/watch?v=iW3YyeNxhMI)
 - [Getting ready for live streaming | #coding #live #livestreaming](https://www.youtube.com/watch?v=HFrZ-VI1lL0)
 - [COMO UM DEV INICIANTE PODE SE DESTACAR? | #career #carreira](https://www.youtube.com/watch?v=YwnHv5ceb6I)
 - [Java é ruim pra carreira? É legado? É difícil de aprender? | #java #carreira](https://www.youtube.com/watch?v=uNO1u9X6xKM)
-- [#boraescovarbit - Java challenges - Feat. Rafael Del Nero | #java](https://www.youtube.com/watch?v=ofFNq9YW860)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
