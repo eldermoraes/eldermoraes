@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PERGUNTAS E RESPOSTAS SOBRE CARREIRA E MERCADO DE TRABALHO | SECOMP PUC MINAS 2020](https://www.youtube.com/watch?v=jSHH69IvfXg)
 - [Java 9 ao Java 16: Uma retrospectiva das recentes mudanças na JDK](https://www.youtube.com/watch?v=wHAYUamOiSA)
 - [AGORA O JAVA MORRE? | #java #tiobeindex](https://www.youtube.com/watch?v=iW3YyeNxhMI)
 - [Getting ready for live streaming | #coding #live #livestreaming](https://www.youtube.com/watch?v=HFrZ-VI1lL0)
 - [COMO UM DEV INICIANTE PODE SE DESTACAR? | #career #carreira](https://www.youtube.com/watch?v=YwnHv5ceb6I)
-- [Java é ruim pra carreira? É legado? É difícil de aprender? | #java #carreira](https://www.youtube.com/watch?v=uNO1u9X6xKM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
