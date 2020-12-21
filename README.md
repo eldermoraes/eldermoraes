@@ -22,7 +22,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [ELE IDEALIZOU OS JAVA CHAMPIONS E O CONCEITO DE JUG | JAVA CHAMPIONS BRASUCAS C/ BRUNO SOUZA | EP #2](https://www.youtube.com/watch?v=2vhKbLgaaDQ)
+- [ELE FUNDOU OS JAVA CHAMPIONS | JAVA CHAMPIONS BRASUCAS C/ BRUNO "JAVAMAN" SOUZA | EP #2](https://www.youtube.com/watch?v=2vhKbLgaaDQ)
 - [UM DOS JAVA CHAMPIONS MAIS PREMIADOS | JAVA CHAMPIONS BRASUCAS C/ OTÁVIO SANTANA | EP #1](https://www.youtube.com/watch?v=miAKDVmOJ8k)
 - [PERGUNTAS E RESPOSTAS SOBRE CARREIRA E MERCADO DE TRABALHO | SECOMP PUC MINAS 2020](https://www.youtube.com/watch?v=jSHH69IvfXg)
 - [Java 9 ao Java 16: Uma retrospectiva das recentes mudanças na JDK](https://www.youtube.com/watch?v=wHAYUamOiSA)
