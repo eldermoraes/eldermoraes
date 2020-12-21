@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [BIG JAVA COM JAVA? SIM OU CLARO QUE SIM? | JAVA CHAMPIONS BRASUCAS C/ FABIANE NARDON | EP #5](https://www.youtube.com/watch?v=BF5g_deZMJA)
+- [NA LUTA PELO JAVA EMBARCADO | JAVA CHAMPIONS BRASUCAS C/ LEONARDO LIMA | EP #4](https://www.youtube.com/watch?v=bWpCzJaaTcQ)
 - [ELE ACUMULOU 6 MILHÕES DE MILHAS DANDO PALESTRAS | JAVA CHAMPIONS BRASUCAS C/ EDSON YANAGA | EP #3](https://www.youtube.com/watch?v=aSYmfT5aRn4)
 - [ELE FUNDOU OS JAVA CHAMPIONS | JAVA CHAMPIONS BRASUCAS C/ BRUNO "JAVAMAN" SOUZA | EP #2](https://www.youtube.com/watch?v=2vhKbLgaaDQ)
 - [UM DOS JAVA CHAMPIONS MAIS PREMIADOS | JAVA CHAMPIONS BRASUCAS C/ OTÁVIO SANTANA | EP #1](https://www.youtube.com/watch?v=miAKDVmOJ8k)
-- [PERGUNTAS E RESPOSTAS SOBRE CARREIRA E MERCADO DE TRABALHO | SECOMP PUC MINAS 2020](https://www.youtube.com/watch?v=jSHH69IvfXg)
-- [Java 9 ao Java 16: Uma retrospectiva das recentes mudanças na JDK](https://www.youtube.com/watch?v=wHAYUamOiSA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
