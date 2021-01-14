@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TEMPO É UMA QUESTÃO DE ESCOLHA | #carreira](https://www.youtube.com/watch?v=0KmwuFEuD-k)
 - [SER ESPECIALISTA TE DÁ ACESSO ÀS MELHORES VAGAS DO MERCADO | #java](https://www.youtube.com/watch?v=p-HS2Am5HQs)
 - [COMO SE TORNAR UM JAVA CHAMPION ATRAVÉS DO OPEN SOURCE  | #java](https://www.youtube.com/watch?v=U5KY-a3l1Do)
 - [UM DOS JAVA CHAMPIONS MAIS PREMIADOS | JAVA CHAMPIONS BRASUCAS C/ OTÁVIO SANTANA | EP #1](https://www.youtube.com/watch?v=miAKDVmOJ8k)
 - [DO INTERIOR À MAIOR EMPRESA DE OSS DO MUNDO | JAVA CHAMPIONS BRASUCAS C/ EDER IGNATOWICZ | EP #7](https://www.youtube.com/watch?v=4OMqHuACKb8)
-- [DE ENGENHEIRO DE SOFTWARE A EMPREENDEDOR | JAVA CHAMPIONS BRASUCAS C/ FERNANDO BABADOPULOS | EP #6](https://www.youtube.com/watch?v=hlFIN4FmBgk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
