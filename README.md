@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ELE FEZ CARREIRA INTERNACIONAL ATRAVÉS DO JAVA | JAVA CHAMPIONS BRASUCAS C/ BRUNO BORGES | EP #9](https://www.youtube.com/watch?v=Fl7hcddQ844)
+- [MAIS DE 100K SEGUIDORES NO YOUTUBE E 8 LIVROS PUBLICADOS | JAVA CHAMPIONS BRASUCAS C/ LOIANE GRONER](https://www.youtube.com/watch?v=HLn4Igh0zDU)
 - [TIVE QUE ENFRENTAR O MEDO DE ME COMUNICAR EM INGLÊS | #carreira](https://www.youtube.com/watch?v=NxreCsZICcc)
 - [TEMPO É UMA QUESTÃO DE ESCOLHA | #carreira](https://www.youtube.com/watch?v=0KmwuFEuD-k)
 - [SER ESPECIALISTA TE DÁ ACESSO ÀS MELHORES VAGAS DO MERCADO | #java](https://www.youtube.com/watch?v=p-HS2Am5HQs)
-- [COMO SE TORNAR UM JAVA CHAMPION ATRAVÉS DO OPEN SOURCE  | #java](https://www.youtube.com/watch?v=U5KY-a3l1Do)
-- [UM DOS JAVA CHAMPIONS MAIS PREMIADOS | JAVA CHAMPIONS BRASUCAS C/ OTÁVIO SANTANA | EP #1](https://www.youtube.com/watch?v=miAKDVmOJ8k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
