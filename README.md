@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [RECUSEI UMA PROPOSTA PORQUE O RESTAURANTE DA ENTREVISTA ERA RUIM | #carreira](https://www.youtube.com/watch?v=1sXugyUrIQk)
 - [COMO SE TORNAR UM ESPECIALISTA E FUGIR DAS MODINHAS | #carreira](https://www.youtube.com/watch?v=ZhBxB38Uxqc)
 - [COMO COMEÇAR A CONTRIBUIR EM PROJETOS OPEN SOURCE | #carreira](https://www.youtube.com/watch?v=hfr8_jN9u3Q)
 - [ELE FUNDOU OS JAVA CHAMPIONS | JAVA CHAMPIONS BRASUCAS C/ BRUNO "JAVAMAN" SOUZA | EP #2](https://www.youtube.com/watch?v=2vhKbLgaaDQ)
 - [ELE FEZ CARREIRA INTERNACIONAL ATRAVÉS DO JAVA | JAVA CHAMPIONS BRASUCAS C/ BRUNO BORGES | EP #9](https://www.youtube.com/watch?v=Fl7hcddQ844)
-- [MAIS DE 100K SEGUIDORES NO YOUTUBE E 8 LIVROS PUBLICADOS | JAVA CHAMPIONS BRASUCAS C/ LOIANE GRONER](https://www.youtube.com/watch?v=HLn4Igh0zDU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
