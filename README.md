@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [COMO SURGIU O PROGRAMA JAVA CHAMPIONS | #carreira](https://www.youtube.com/watch?v=E3Kd6DQORck)
 - [COMO VENCI A SÍNDROME DO IMPOSTOR | #carreira](https://www.youtube.com/watch?v=6CSfdYSAuco)
 - [RECUSEI UMA PROPOSTA PORQUE O RESTAURANTE DA ENTREVISTA ERA RUIM | #carreira](https://www.youtube.com/watch?v=1sXugyUrIQk)
 - [COMO SE TORNAR UM ESPECIALISTA E FUGIR DAS MODINHAS | #carreira](https://www.youtube.com/watch?v=ZhBxB38Uxqc)
 - [COMO COMEÇAR A CONTRIBUIR EM PROJETOS OPEN SOURCE | #carreira](https://www.youtube.com/watch?v=hfr8_jN9u3Q)
-- [ELE FUNDOU OS JAVA CHAMPIONS | JAVA CHAMPIONS BRASUCAS C/ BRUNO "JAVAMAN" SOUZA | EP #2](https://www.youtube.com/watch?v=2vhKbLgaaDQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
