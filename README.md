@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [COMUNIDADES TRAZEM MAIS CLAREZA E INDEPENDÊNCIA À TECNOLOGIA | #carreira](https://www.youtube.com/watch?v=n6dSgqTYhPs)
 - [NA LUTA PELO JAVA EMBARCADO | JAVA CHAMPIONS BRASUCAS C/ LEONARDO LIMA | EP #4](https://www.youtube.com/watch?v=bWpCzJaaTcQ)
 - [COMO O JAVA SE TORNOU OPEN SOURCE (E PORQUE ISSO IMPORTA) | #carreira](https://www.youtube.com/watch?v=Uf7FZuLP7MY)
 - [PRA QUE SERVE UM JAVA CHAMPION? | #carreira](https://www.youtube.com/watch?v=_uklsi9B2Y0)
 - [ELE ACUMULOU 6 MILHÕES DE MILHAS DANDO PALESTRAS | JAVA CHAMPIONS BRASUCAS C/ EDSON YANAGA | EP #3](https://www.youtube.com/watch?v=aSYmfT5aRn4)
-- [COMO SURGIU O PROGRAMA JAVA CHAMPIONS | #carreira](https://www.youtube.com/watch?v=E3Kd6DQORck)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
