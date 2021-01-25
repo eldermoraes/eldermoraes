@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AFINAL, JAVA É GRATUITO OU NÃO? | #carreira](https://www.youtube.com/watch?v=AKuD5KfplrM)
 - [O QUE LEVOU O JAVAMAN A INVESTIR DA CARREIRA DE OUTROS PROFISSIONAIS | #carreira](https://www.youtube.com/watch?v=gnoaNxeCaTM)
 - [COMUNIDADES TRAZEM MAIS CLAREZA E INDEPENDÊNCIA À TECNOLOGIA | #carreira](https://www.youtube.com/watch?v=n6dSgqTYhPs)
 - [JAVA DE PONTA A PONTA (DO DEVICE AO DATACENTER)| JAVA CHAMPIONS BRASUCAS C/ LEONARDO LIMA | EP #4](https://www.youtube.com/watch?v=bWpCzJaaTcQ)
 - [COMO O JAVA SE TORNOU OPEN SOURCE (E PORQUE ISSO IMPORTA) | #carreira](https://www.youtube.com/watch?v=Uf7FZuLP7MY)
-- [PRA QUE SERVE UM JAVA CHAMPION? | #carreira](https://www.youtube.com/watch?v=_uklsi9B2Y0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
