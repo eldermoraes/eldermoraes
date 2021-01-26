@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [FOCO É O PROBLEMA QUE VOCÊ RESOLVE, E NÃO A TECNOLOGIA QUE VOCÊ DOMINA | #carreira](https://www.youtube.com/watch?v=-Y_qn38jqio)
 - [DOS PRIMÓRDIOS DO JAVA A EMPREENDEDOR DE SAAS | JAVA CHAMPIONS BRASUCAS C/ BRUNO GHISI | EP #12](https://www.youtube.com/watch?v=3WPw9sZ-PbY)
 - [SEU CÓDIGO LIVRE DE BUGS | JAVA CHAMPIONS BRASUCAS C/ RAFAEL DEL NERO | EP #11](https://www.youtube.com/watch?v=9sdCGA0S2kk)
 - [ELA CRIOU O MAIOR EVENTO DE DEVELOPERS DO BRASIL | JAVA CHAMPIONS BRASUCAS C/ YARA SENGER | EP #10](https://www.youtube.com/watch?v=TwgDXsOotww)
 - [AFINAL, JAVA É GRATUITO OU NÃO? | #carreira](https://www.youtube.com/watch?v=AKuD5KfplrM)
-- [O QUE LEVOU O JAVAMAN A INVESTIR DA CARREIRA DE OUTROS PROFISSIONAIS | #carreira](https://www.youtube.com/watch?v=gnoaNxeCaTM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
