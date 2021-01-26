@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DOS PRIMÓRDIOS DO JAVA A EMPREENDEDOR DE SAAS | JAVA CHAMPIONS BRASUCAS C/ BRUNO GHISI | EP #12](https://www.youtube.com/watch?v=3WPw9sZ-PbY)
+- [SEU CÓDIGO LIVRE DE BUGS | JAVA CHAMPIONS BRASUCAS C/ RAFAEL DEL NERO | EP #11](https://www.youtube.com/watch?v=9sdCGA0S2kk)
+- [ELA CRIOU O MAIOR EVENTO DE DEVELOPERS DO BRASIL | JAVA CHAMPIONS BRASUCAS C/ YARA SENGER | EP #10](https://www.youtube.com/watch?v=TwgDXsOotww)
 - [AFINAL, JAVA É GRATUITO OU NÃO? | #carreira](https://www.youtube.com/watch?v=AKuD5KfplrM)
 - [O QUE LEVOU O JAVAMAN A INVESTIR DA CARREIRA DE OUTROS PROFISSIONAIS | #carreira](https://www.youtube.com/watch?v=gnoaNxeCaTM)
-- [COMUNIDADES TRAZEM MAIS CLAREZA E INDEPENDÊNCIA À TECNOLOGIA | #carreira](https://www.youtube.com/watch?v=n6dSgqTYhPs)
-- [JAVA DE PONTA A PONTA (DO DEVICE AO DATACENTER)| JAVA CHAMPIONS BRASUCAS C/ LEONARDO LIMA | EP #4](https://www.youtube.com/watch?v=bWpCzJaaTcQ)
-- [COMO O JAVA SE TORNOU OPEN SOURCE (E PORQUE ISSO IMPORTA) | #carreira](https://www.youtube.com/watch?v=Uf7FZuLP7MY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
