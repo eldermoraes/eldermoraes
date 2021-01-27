@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O SEU IMPACTO VAI ALÉM DO QUE VOCÊ IMAGINA | #carreira](https://www.youtube.com/watch?v=Lsix4bguRbI)
 - [Why you should attend to Devnexus 2021](https://www.youtube.com/watch?v=j8BBEfFFhKY)
 - [FOCO É O PROBLEMA QUE VOCÊ RESOLVE, E NÃO A TECNOLOGIA QUE VOCÊ DOMINA | #carreira](https://www.youtube.com/watch?v=-Y_qn38jqio)
 - [DOS PRIMÓRDIOS DO JAVA A EMPREENDEDOR DE SAAS | JAVA CHAMPIONS BRASUCAS C/ BRUNO GHISI | EP #12](https://www.youtube.com/watch?v=3WPw9sZ-PbY)
 - [SEU CÓDIGO LIVRE DE BUGS | JAVA CHAMPIONS BRASUCAS C/ RAFAEL DEL NERO | EP #11](https://www.youtube.com/watch?v=9sdCGA0S2kk)
-- [ELA CRIOU O MAIOR EVENTO DE DEVELOPERS DO BRASIL | JAVA CHAMPIONS BRASUCAS C/ YARA SENGER | EP #10](https://www.youtube.com/watch?v=TwgDXsOotww)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
