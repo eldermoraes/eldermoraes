@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [QUANTO TEMPO LEVA ATÉ ALGUÉM SE TORNAR JAVA CHAMPION? | #carreira](https://www.youtube.com/watch?v=Jbl9Z77aQRU)
 - [PORQUE COMPARTILHAR CONHECIMENTO? | #carreira](https://www.youtube.com/watch?v=RYM6uePG_Iw)
 - [COMO DETONAR NO CALL FOR PAPERS (SESSÃO PRÁTICA) | #carreira](https://www.youtube.com/watch?v=O5gF_7p8lBk)
 - [O SEU IMPACTO VAI ALÉM DO QUE VOCÊ IMAGINA | #carreira](https://www.youtube.com/watch?v=Lsix4bguRbI)
 - [Why you should attend to Devnexus 2021](https://www.youtube.com/watch?v=j8BBEfFFhKY)
-- [FOCO É O PROBLEMA QUE VOCÊ RESOLVE, E NÃO A TECNOLOGIA QUE VOCÊ DOMINA | #carreira](https://www.youtube.com/watch?v=-Y_qn38jqio)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
