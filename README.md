@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DE ENGENHEIRO DE SOFTWARE A EMPREENDEDOR | JAVA CHAMPIONS BRASUCAS C/ FERNANDO BABADOPULOS | EP #6](https://www.youtube.com/watch?v=hlFIN4FmBgk)
 - [PORQUE PALESTRAR É IMPORTANTE (PARA MIM E PARA O OUTRO) | #carreira](https://www.youtube.com/watch?v=yHnbEh1Qwnk)
 - [MINHA JORNADA RUMO AO JAVA CHAMPIONS | #carreira](https://www.youtube.com/watch?v=y--Qd99qPQI)
 - [AS MAIORES FRIAS DE QUEM VIAJA A TRABALHO | #carreira](https://www.youtube.com/watch?v=udtB5TuwH0k)
 - [BIG DATA, JAVA E EMPREENDEDORISMO | JAVA CHAMPIONS BRASUCAS C/ FABIANE NARDON | EP #5](https://www.youtube.com/watch?v=BF5g_deZMJA)
-- [QUANTO TEMPO LEVA ATÉ ALGUÉM SE TORNAR JAVA CHAMPION? | #carreira](https://www.youtube.com/watch?v=Jbl9Z77aQRU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
