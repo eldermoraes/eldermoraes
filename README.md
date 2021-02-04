@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [COMO DETONAR NO CALL FOR PAPERS (SESSÃO PRÁTICA) | #carreira](https://www.youtube.com/watch?v=O5gF_7p8lBk)
 - [NÃO DEIXE O MEDO TE IMPEDIR DE TENTAR | #carreira](https://www.youtube.com/watch?v=aixN5VinE5s)
 - [A PRIMEIRA PESSOA NO MUNDO A SER JAVA CHAMPION E MICROSOFT MVP | #carreira](https://www.youtube.com/watch?v=6cmT4fPG9XU)
 - [DE ENGENHEIRO DE SOFTWARE A EMPREENDEDOR | JAVA CHAMPIONS BRASUCAS C/ FERNANDO BABADOPULOS | EP #6](https://www.youtube.com/watch?v=hlFIN4FmBgk)
 - [PORQUE PALESTRAR É IMPORTANTE (PARA MIM E PARA O OUTRO) | #carreira](https://www.youtube.com/watch?v=yHnbEh1Qwnk)
-- [MINHA JORNADA RUMO AO JAVA CHAMPIONS | #carreira](https://www.youtube.com/watch?v=y--Qd99qPQI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
