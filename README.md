@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DO INTERIOR À MAIOR EMPRESA DE OSS DO MUNDO | JAVA CHAMPIONS BRASUCAS C/ EDER IGNATOWICZ | EP #7](https://www.youtube.com/watch?v=4OMqHuACKb8)
 - [CERTIFICAÇÃO É IMPORTANTE? COMO FAZ PRA IR BEM NA PROVA? | #carreira](https://www.youtube.com/watch?v=0G1YEYDclZA)
 - [BRASILEIRO É MAIS EXIGENTE COM INGLÊS DO QUE OS NATIVOS | #carreira](https://www.youtube.com/watch?v=VmB_S-xpAZM)
 - [COMO DETONAR NO CALL FOR PAPERS (SESSÃO PRÁTICA) | #carreira](https://www.youtube.com/watch?v=O5gF_7p8lBk)
 - [NÃO DEIXE O MEDO TE IMPEDIR DE TENTAR | #carreira](https://www.youtube.com/watch?v=aixN5VinE5s)
-- [A PRIMEIRA PESSOA NO MUNDO A SER JAVA CHAMPION E MICROSOFT MVP | #carreira](https://www.youtube.com/watch?v=6cmT4fPG9XU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
