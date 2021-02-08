@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [COMO É USAR MICROPROFILE EM PRODUÇÃO | #carreira](https://www.youtube.com/watch?v=5-geFGrqnEs)
 - [KOTLIN VAI SUBSTITUIR O JAVA? | #carreira](https://www.youtube.com/watch?v=04Hm8OHEbj4)
 - [QUANTO VIAJA UM DOS PALESTRANTES MAIS REQUISITADOS DO MUNDO? | #carreira](https://www.youtube.com/watch?v=hz5NUmrpoWg)
 - [DO INTERIOR À MAIOR EMPRESA DE OSS DO MUNDO | JAVA CHAMPIONS BRASUCAS C/ EDER IGNATOWICZ | EP #7](https://www.youtube.com/watch?v=4OMqHuACKb8)
 - [CERTIFICAÇÃO É IMPORTANTE? COMO FAZ PRA IR BEM NA PROVA? | #carreira](https://www.youtube.com/watch?v=0G1YEYDclZA)
-- [BRASILEIRO É MAIS EXIGENTE COM INGLÊS DO QUE OS NATIVOS | #carreira](https://www.youtube.com/watch?v=VmB_S-xpAZM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
