@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HADOOP MORREU? | #carreira](https://www.youtube.com/watch?v=awHwashi4sM)
 - [DO JAVA AO BLOCKCHAIN | JAVA CHAMPIONS BRASUCAS C/ MAGNO CAVALCANTE | EP #16](https://www.youtube.com/watch?v=TJ56K2qyMWE)
 - [SOBRE COLABORAÇÃO, CONHECIMENTO E RESPEITO MÚTUO | JAVA CHAMPIONS BRASUCAS C/ BRUNO BORGES | EP #15](https://www.youtube.com/watch?v=-ZZTWq1wNb4)
 - [ELE FOI PALESTRANTE DO JAVAONE AOS 21 ANOS | JAVA CHAMPIONS BRASUCAS C/ BRUNO BORGES | EP #14](https://www.youtube.com/watch?v=aY7Z14fer5Q)
 - [DO OPEN EDUCATION AO IOT | JAVA CHAMPIONS BRASUCAS C/ VINÍCIUS SENGER | EP #13](https://www.youtube.com/watch?v=POpnmZhpT_g)
-- [ELE FEZ CARREIRA INTERNACIONAL ATRAVÉS DO JAVA | JAVA CHAMPIONS BRASUCAS C/ BRUNO BORGES | EP #9](https://www.youtube.com/watch?v=Fl7hcddQ844)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
