@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SOBRE COLABORAÇÃO, CONHECIMENTO E RESPEITO MÚTUO | JAVA CHAMPIONS BRASUCAS C/ BRUNO BORGES | EP #15](https://www.youtube.com/watch?v=-ZZTWq1wNb4)
 - [ELE FOI PALESTRANTE DO JAVAONE AOS 21 ANOS | JAVA CHAMPIONS BRASUCAS C/ BRUNO BORGES | EP #9](https://www.youtube.com/watch?v=aY7Z14fer5Q)
 - [DO OPEN EDUCATION AO IOT | JAVA CHAMPIONS BRASUCAS C/ VINÍCIUS SENGER | EP #13](https://www.youtube.com/watch?v=POpnmZhpT_g)
 - [ELE FEZ CARREIRA INTERNACIONAL ATRAVÉS DO JAVA | JAVA CHAMPIONS BRASUCAS C/ BRUNO BORGES | EP #9](https://www.youtube.com/watch?v=Fl7hcddQ844)
 - [COMO UM DESENVOLVEDOR PODE TRABALHAR COM SISTEMAS EMBARCADOS | #carreira](https://www.youtube.com/watch?v=ujM-VTQftaI)
-- [DÁ PRA USAR JAVA COM BIG DATA E MACHINE LEARNING | #carreira](https://www.youtube.com/watch?v=7pkBQKY7phI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
