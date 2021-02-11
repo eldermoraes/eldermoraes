@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ELE FOI PALESTRANTE DO JAVAONE AOS 21 ANOS | JAVA CHAMPIONS BRASUCAS C/ BRUNO BORGES | EP #9](https://www.youtube.com/watch?v=aY7Z14fer5Q)
+- [DO OPEN EDUCATION AO IOT | JAVA CHAMPIONS BRASUCAS C/ VINÍCIUS SENGER | EP #13](https://www.youtube.com/watch?v=POpnmZhpT_g)
 - [ELE FEZ CARREIRA INTERNACIONAL ATRAVÉS DO JAVA | JAVA CHAMPIONS BRASUCAS C/ BRUNO BORGES | EP #9](https://www.youtube.com/watch?v=Fl7hcddQ844)
 - [COMO UM DESENVOLVEDOR PODE TRABALHAR COM SISTEMAS EMBARCADOS | #carreira](https://www.youtube.com/watch?v=ujM-VTQftaI)
 - [DÁ PRA USAR JAVA COM BIG DATA E MACHINE LEARNING | #carreira](https://www.youtube.com/watch?v=7pkBQKY7phI)
-- [MAIS DE 100K SEGUIDORES E 8 LIVROS PUBLICADOS | JAVA CHAMPIONS BRASUCAS C/ LOIANE GRONER | EP #8](https://www.youtube.com/watch?v=HLn4Igh0zDU)
-- [COMO É USAR MICROPROFILE EM PRODUÇÃO | #carreira](https://www.youtube.com/watch?v=5-geFGrqnEs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
