@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [COMO RESOLVER TODOS OS PROBLEMAS DE NEGÓCIO COM UMA ÚNICA LINGUAGEM | #carreira](https://www.youtube.com/watch?v=hXKY9c-lwxo)
+- [Sacadas de Carreira #1 | Live aberta para perguntas e respostas | #carreira](https://www.youtube.com/watch?v=2BdOAZbNME0)
 - [HADOOP MORREU? | #carreira](https://www.youtube.com/watch?v=awHwashi4sM)
 - [DO JAVA AO BLOCKCHAIN | JAVA CHAMPIONS BRASUCAS C/ MAGNO CAVALCANTE | EP #16](https://www.youtube.com/watch?v=TJ56K2qyMWE)
-- [SOBRE COLABORAÇÃO, CONHECIMENTO E RESPEITO MÚTUO | JAVA CHAMPIONS BRASUCAS C/ BRUNO BORGES | EP #15](https://www.youtube.com/watch?v=-ZZTWq1wNb4)
-- [ELE FOI PALESTRANTE DO JAVAONE AOS 21 ANOS | JAVA CHAMPIONS BRASUCAS C/ BRUNO BORGES | EP #14](https://www.youtube.com/watch?v=aY7Z14fer5Q)
-- [DO OPEN EDUCATION AO IOT | JAVA CHAMPIONS BRASUCAS C/ VINÍCIUS SENGER | EP #13](https://www.youtube.com/watch?v=POpnmZhpT_g)
+- [SOBRE COLABORAÇÃO, CONHECIMENTO E RESPEITO | JAVA CHAMPIONS BRASUCAS C/ FERNANDO ANSELMO | EP #15](https://www.youtube.com/watch?v=-ZZTWq1wNb4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
