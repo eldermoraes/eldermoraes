@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [COMO SE TORNAR UM PROFISSIONAL DE BIG DATA E MACHINE LEARNING | #carreira](https://www.youtube.com/watch?v=eg1vBbMxRtA)
 - [Sacadas de Carreira #1 | Respondendo perguntas ao vivo | #carreira](https://www.youtube.com/watch?v=2BdOAZbNME0)
 - [COMO RESOLVER TODOS OS PROBLEMAS DE NEGÓCIO COM UMA ÚNICA LINGUAGEM | #carreira](https://www.youtube.com/watch?v=hXKY9c-lwxo)
 - [HADOOP MORREU? | #carreira](https://www.youtube.com/watch?v=awHwashi4sM)
 - [DO JAVA AO BLOCKCHAIN | JAVA CHAMPIONS BRASUCAS C/ MAGNO CAVALCANTE | EP #16](https://www.youtube.com/watch?v=TJ56K2qyMWE)
-- [SOBRE COLABORAÇÃO, CONHECIMENTO E RESPEITO | JAVA CHAMPIONS BRASUCAS C/ FERNANDO ANSELMO | EP #15](https://www.youtube.com/watch?v=-ZZTWq1wNb4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
