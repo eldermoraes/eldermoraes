@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A JORNADA DE CARREIRA DE FABIANE NARDON | #carreira](https://www.youtube.com/watch?v=D0YbAEocY4Y)
 - [COMO FUNCIONA O PROCESSO DE ESPECIFICAÇÃO DO JAVA | #carreira](https://www.youtube.com/watch?v=x9Q4p7aY3Vg)
 - [QUAL O IMPACTO DA LGPD NA ENGENHARIA DE DADOS? | #carreira](https://www.youtube.com/watch?v=P6hNFAZBNXg)
 - [COMO É SER PARTE DA ESPECIFICAÇÃO DE UMA TECNOLOGIA | #carreira](https://www.youtube.com/watch?v=_dhg65xSShw)
 - [COMO SE TORNAR UM PROFISSIONAL DE BIG DATA E MACHINE LEARNING | #carreira](https://www.youtube.com/watch?v=eg1vBbMxRtA)
-- [Sacadas de Carreira #1 | Respondendo perguntas ao vivo | #carreira](https://www.youtube.com/watch?v=2BdOAZbNME0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
