@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ELA CRIOU O MAIOR EVENTO DE DEVELOPERS DO BRASIL | JAVA CHAMPIONS BRASUCAS C/ YARA SENGER | EP #10](https://www.youtube.com/watch?v=TwgDXsOotww)
 - [COMO MIGRAR DE JUNIOR PARA PLENO? CERTIFICAÇÃO AJUDA? | #carreira](https://www.youtube.com/watch?v=wlpVPqL3WFg)
 - [COMO TIRAR O MELHOR PROVEITO DE UM EVENTO DE DESENVOLVEDORES | #carreira](https://www.youtube.com/watch?v=uVTE1LwTcGs)
 - [A JORNADA DE CARREIRA DE FABIANE NARDON | #carreira](https://www.youtube.com/watch?v=D0YbAEocY4Y)
 - [COMO FUNCIONA O PROCESSO DE ESPECIFICAÇÃO DO JAVA | #carreira](https://www.youtube.com/watch?v=x9Q4p7aY3Vg)
-- [QUAL O IMPACTO DA LGPD NA ENGENHARIA DE DADOS? | #carreira](https://www.youtube.com/watch?v=P6hNFAZBNXg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
