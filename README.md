@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O QUE NÃO PODE FALTAR PRA QUEM ESTÁ COMEÇANDO NA ÁREA DE DESENVOLVIMENTO? | #carreira](https://www.youtube.com/watch?v=0LzNAGCe9BU)
 - [DESAFIOS CULTURAIS PARA UM BRASILEIRO QUE TRABALHA NO EXTERIOR | #carreira](https://www.youtube.com/watch?v=cOxCk6kQeJQ)
 - [SEU CÓDIGO LIVRE DE BUGS | JAVA CHAMPIONS BRASUCAS C/ RAFAEL DEL NERO | EP #11](https://www.youtube.com/watch?v=9sdCGA0S2kk)
 - [ESTAMOS EM UMA BOLHA NO MERCADO DE TI? | #carreira](https://www.youtube.com/watch?v=IiR_XxIUS_k)
 - [O QUE VOCÊ MUDARIA NA SUA CARREIRA? | #carreira](https://www.youtube.com/watch?v=RrvOZkqz00k)
-- [COMO É A JORNADA DO DESENVOLVEDOR ATÉ O EMPREENDEDORISMO | #carreira](https://www.youtube.com/watch?v=j_bBMvXkZUU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
