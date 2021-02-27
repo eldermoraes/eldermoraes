@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PORQUE UTILIZAR UMA ÚNICA LINGUAGEM AO INVÉS DE VÁRIAS | #carreira](https://www.youtube.com/watch?v=9MfSjT_R_kU)
 - [QUAL O ROADMAP DE ESTUDO PARA UM FULLSTACK DEVELOPER? | #carreira](https://www.youtube.com/watch?v=Z3xYgAJWsew)
 - [DOS PRIMÓRDIOS DO JAVA A EMPREENDEDOR DE SAAS | JAVA CHAMPIONS BRASUCAS C/ BRUNO GHISI | EP #12](https://www.youtube.com/watch?v=3WPw9sZ-PbY)
 - [O QUE NÃO PODE FALTAR PRA QUEM ESTÁ COMEÇANDO NA ÁREA DE DESENVOLVIMENTO? | #carreira](https://www.youtube.com/watch?v=0LzNAGCe9BU)
 - [DESAFIOS CULTURAIS PARA UM BRASILEIRO QUE TRABALHA NO EXTERIOR | #carreira](https://www.youtube.com/watch?v=cOxCk6kQeJQ)
-- [SEU CÓDIGO LIVRE DE BUGS | JAVA CHAMPIONS BRASUCAS C/ RAFAEL DEL NERO | EP #11](https://www.youtube.com/watch?v=9sdCGA0S2kk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
