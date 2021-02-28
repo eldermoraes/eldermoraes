@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A JORNADA DE LOIANE GRONER ATÉ SE TORNAR UMA JAVA CHAMPION | #carreira](https://www.youtube.com/watch?v=WK5m0GZaCj8)
 - [COMO UM DEV PODE SE TORNAR ARQUITETO? | #carreira](https://www.youtube.com/watch?v=rR3l97QMsjY)
 - [COMO CRIAR UM BOM CONTEÚDO PARA DESENVOLVEDORES? | #carreira](https://www.youtube.com/watch?v=hcqpxomWgsU)
 - [PORQUE UTILIZAR UMA ÚNICA LINGUAGEM AO INVÉS DE VÁRIAS | #carreira](https://www.youtube.com/watch?v=9MfSjT_R_kU)
 - [QUAL O ROADMAP DE ESTUDO PARA UM FULLSTACK DEVELOPER? | #carreira](https://www.youtube.com/watch?v=Z3xYgAJWsew)
-- [DOS PRIMÓRDIOS DO JAVA A EMPREENDEDOR DE SAAS | JAVA CHAMPIONS BRASUCAS C/ BRUNO GHISI | EP #12](https://www.youtube.com/watch?v=3WPw9sZ-PbY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
