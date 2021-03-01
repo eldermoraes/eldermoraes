@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DO OPEN EDUCATION AO IOT | JAVA CHAMPIONS BRASUCAS C/ VINÍCIUS SENGER | EP #13](https://www.youtube.com/watch?v=eyDwTrvIDsI)
 - [VALE A PENA SER DEV FORA DO BRASIL? | #carreira](https://www.youtube.com/watch?v=Y6wIgZ-wHfo)
 - [A JORNADA DE LOIANE GRONER ATÉ SE TORNAR UMA JAVA CHAMPION | #carreira](https://www.youtube.com/watch?v=WK5m0GZaCj8)
 - [COMO UM DEV PODE SE TORNAR ARQUITETO? | #carreira](https://www.youtube.com/watch?v=rR3l97QMsjY)
 - [COMO CRIAR UM BOM CONTEÚDO PARA DESENVOLVEDORES? | #carreira](https://www.youtube.com/watch?v=hcqpxomWgsU)
-- [PORQUE UTILIZAR UMA ÚNICA LINGUAGEM AO INVÉS DE VÁRIAS | #carreira](https://www.youtube.com/watch?v=9MfSjT_R_kU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
