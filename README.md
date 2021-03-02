@@ -24,9 +24,9 @@
 <!-- YOUTUBE:START -->
 - [COMO CONCILIAR O TRABALHO DE COMUNIDADE COM AS OBRIGAÇÕES PROFISSIONAIS | #carreira](https://www.youtube.com/watch?v=PVcSA5VcRm4)
 - [DO OPEN EDUCATION AO IOT | JAVA CHAMPIONS BRASUCAS C/ VINÍCIUS SENGER | EP #13](https://www.youtube.com/watch?v=POpnmZhpT_g)
-- [DO OPEN EDUCATION AO IOT | JAVA CHAMPIONS BRASUCAS C/ VINÍCIUS SENGER | EP #13](https://www.youtube.com/watch?v=eyDwTrvIDsI)
 - [VALE A PENA SER DEV FORA DO BRASIL? | #carreira](https://www.youtube.com/watch?v=Y6wIgZ-wHfo)
 - [A JORNADA DE LOIANE GRONER ATÉ SE TORNAR UMA JAVA CHAMPION | #carreira](https://www.youtube.com/watch?v=WK5m0GZaCj8)
+- [COMO UM DEV PODE SE TORNAR ARQUITETO? | #carreira](https://www.youtube.com/watch?v=rR3l97QMsjY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
