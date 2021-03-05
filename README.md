@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [QUAL O PRÓXIMO PASSO PARA QUEM JÁ ESTÁ NO TOPO? | #carreira](https://www.youtube.com/watch?v=mYJqrBxPtCE)
 - [COMO A TAIL TROUXE UM DUKE CHOICE AWARDS PARA O BRASIL | #carreira](https://www.youtube.com/watch?v=40QUg3K9rDU)
 - [QUAL A DICA PARA CONSEGUIR O PRIMEIRO EMPREGO? | #carreira](https://www.youtube.com/watch?v=I_NeljcV410)
 - [A IMPORTÂNCIA DE COMBINAR CONHECIMENTOS DE INFRA E DESENVOLVIMENTO | #carreira](https://www.youtube.com/watch?v=OMmeIcglvBc)
 - [COMO CONCILIAR O TRABALHO DE COMUNIDADE COM AS OBRIGAÇÕES PROFISSIONAIS | #carreira](https://www.youtube.com/watch?v=PVcSA5VcRm4)
-- [DO OPEN EDUCATION AO IOT | JAVA CHAMPIONS BRASUCAS C/ VINÍCIUS SENGER | EP #13](https://www.youtube.com/watch?v=POpnmZhpT_g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
