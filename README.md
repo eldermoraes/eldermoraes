@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [FUNDAR UMA EMPRESA E VENDER DEPOIS: SIM OU NÃO? | #carreira](https://www.youtube.com/watch?v=n5Zvs4D6OYw)
 - [ELE FOI PALESTRANTE DO JAVAONE AOS 21 ANOS | JAVA CHAMPIONS BRASUCAS C/ MICHAEL NASCIMENTO | EP #14](https://www.youtube.com/watch?v=aY7Z14fer5Q)
 - [QUAL O PRÓXIMO PASSO PARA QUEM JÁ ESTÁ NO TOPO? | #carreira](https://www.youtube.com/watch?v=mYJqrBxPtCE)
 - [COMO A TAIL TROUXE UM DUKE CHOICE AWARDS PARA O BRASIL | #carreira](https://www.youtube.com/watch?v=40QUg3K9rDU)
 - [QUAL A DICA PARA CONSEGUIR O PRIMEIRO EMPREGO? | #carreira](https://www.youtube.com/watch?v=I_NeljcV410)
-- [A IMPORTÂNCIA DE COMBINAR CONHECIMENTOS DE INFRA E DESENVOLVIMENTO | #carreira](https://www.youtube.com/watch?v=OMmeIcglvBc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
