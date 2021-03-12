@@ -24,9 +24,9 @@
 <!-- YOUTUBE:START -->
 - [APRENDER TRAPÉZIO VOLANTE PODE AJUDAR NA CARREIRA? | #carreira](https://www.youtube.com/watch?v=RzeIlBjmfu8)
 - [O QUE FAZ UM VOLUNTÁRIO NOS GRANDES EVENTOS DE TECNOLOGIA | #carreira](https://www.youtube.com/watch?v=-VTZRkNRxFw)
-- [SACADAS DE CARREIRA #2 | Q&A AO VIVO | #carreira](https://www.youtube.com/watch?v=MBWSgQLEkfY)
 - [SOBRE COMUNIDADES E COLABORAÇÃO | JAVA CHAMPIONS BRASUCAS C/ FERNANDO ANSELMO | EP #15](https://www.youtube.com/watch?v=-ZZTWq1wNb4)
 - [COMO DAR CONTA DE ESCREVER 5 LIVROS COBRINDO FRONTEND E BACKEND | #carreira](https://www.youtube.com/watch?v=qDoJppR_ZR0)
+- [FUNDAR UMA EMPRESA E VENDER DEPOIS: SIM OU NÃO? | #carreira](https://www.youtube.com/watch?v=n5Zvs4D6OYw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
