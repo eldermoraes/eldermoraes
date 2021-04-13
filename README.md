@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [QUERO ENTRAR NA TI AOS 40 ANOS: JÁ ESTOU VELHO? | #carreira](https://www.youtube.com/watch?v=GtBafdjLTWc)
+- [COMO UM BRASILEIRO PODE REGISTRAR UMA PATENTE NOS EUA? | #carreira](https://www.youtube.com/watch?v=0zdSS9cUAxM)
+- [COMO ESCALAR UMA INFRA SEM INTERVENÇÃO MANUAL | #carreira](https://www.youtube.com/watch?v=0xV67Z6PiGg)
 - [SACADAS DE CARREIRA #2 | Q&A AO VIVO | #carreira](https://www.youtube.com/watch?v=MBWSgQLEkfY)
 - [COMO EQUILIBRAR VIDA PROFISSIONAL E PESSOAL | #carreira](https://www.youtube.com/watch?v=9KngCt-Cov0)
-- [APRENDER TRAPÉZIO VOLANTE PODE AJUDAR NA CARREIRA? | #carreira](https://www.youtube.com/watch?v=RzeIlBjmfu8)
-- [O QUE FAZ UM VOLUNTÁRIO NOS GRANDES EVENTOS DE TECNOLOGIA | #carreira](https://www.youtube.com/watch?v=-VTZRkNRxFw)
-- [SOBRE COMUNIDADES E COLABORAÇÃO | JAVA CHAMPIONS BRASUCAS C/ FERNANDO ANSELMO | EP #15](https://www.youtube.com/watch?v=-ZZTWq1wNb4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
