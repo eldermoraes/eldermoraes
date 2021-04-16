@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [UM LEGADO SEM FRONTEIRAS | JAVA CHAMPIONS BRASUCAS | HOMENAGEM AO DANIEL DEOLIVEIRA](https://www.youtube.com/watch?v=NtVfxObVOlc)
 - [QUERO ENTRAR NA TI AOS 40 ANOS: JÁ ESTOU VELHO? | #carreira](https://www.youtube.com/watch?v=GtBafdjLTWc)
 - [COMO UM BRASILEIRO PODE REGISTRAR UMA PATENTE NOS EUA? | #carreira](https://www.youtube.com/watch?v=0zdSS9cUAxM)
 - [COMO ESCALAR UMA INFRA SEM INTERVENÇÃO MANUAL | #carreira](https://www.youtube.com/watch?v=0xV67Z6PiGg)
 - [SACADAS DE CARREIRA #2 | Q&A AO VIVO | #carreira](https://www.youtube.com/watch?v=MBWSgQLEkfY)
-- [COMO EQUILIBRAR VIDA PROFISSIONAL E PESSOAL | #carreira](https://www.youtube.com/watch?v=9KngCt-Cov0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
