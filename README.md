@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [PERGUNTA AÍ! | EP. #3 | #carreira #developers](https://www.youtube.com/watch?v=J0JqB8fr6Vw)
 - [EMPREENDENDO COM JAVA NO MUNDO DE BIG DATA | #carreira](https://www.youtube.com/watch?v=hCnp33MV51Y)
 - [A JORNADA DE EDER IGNATOWICZ ATÉ SE TORNAR UM JAVA CHAMPION | #carreira](https://www.youtube.com/watch?v=sXCIdeKRvOI)
 - [COMO TRANSFORMAR FOCO EM RESULTADOS | JAVA CHAMPIONS BRASUCAS C/ ELDER MORAES | EP #18](https://www.youtube.com/watch?v=KWsXbU_IXNY)
 - [DO JAVA AO BLOCKCHAIN | JAVA CHAMPIONS BRASUCAS C/ MAGNO CAVALCANTE | EP #17](https://www.youtube.com/watch?v=TJ56K2qyMWE)
+- [UM LEGADO SEM FRONTEIRAS | JAVA CHAMPIONS BRASUCAS | HOMENAGEM AO DANIEL DEOLIVEIRA | EP #16](https://www.youtube.com/watch?v=NtVfxObVOlc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
