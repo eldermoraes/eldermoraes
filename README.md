@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Não invista em curso algum sem antes considerar isto | #shorts](https://www.youtube.com/watch?v=fzeryt7EIbQ)
 - [CERTIFICAÇÃO, SOFT SKILLS, CARREIRA DEV DEPOIS DOS 40 E MUITO MAIS | #carreira #developers](https://www.youtube.com/watch?v=J0JqB8fr6Vw)
 - [PERGUNTA AÍ! | EP. #4 | #carreira #developers](https://www.youtube.com/watch?v=c0IIOHzHRGc)
 - [EMPREENDENDO COM JAVA NO MUNDO DE BIG DATA | #carreira](https://www.youtube.com/watch?v=hCnp33MV51Y)
 - [A JORNADA DE EDER IGNATOWICZ ATÉ SE TORNAR UM JAVA CHAMPION | #carreira](https://www.youtube.com/watch?v=sXCIdeKRvOI)
-- [COMO TRANSFORMAR FOCO EM RESULTADOS | JAVA CHAMPIONS BRASUCAS C/ ELDER MORAES | EP #18](https://www.youtube.com/watch?v=KWsXbU_IXNY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
