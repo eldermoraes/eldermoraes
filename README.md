@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Todo mundo aprende fazendo #shorts](https://www.youtube.com/watch?v=YAuncW1T1ys)
 - [Certificação vale a pena? Depende! #shorts](https://www.youtube.com/watch?v=oQPKtRXqm78)
 - [Não invista em curso algum sem antes considerar isto | #shorts](https://www.youtube.com/watch?v=fzeryt7EIbQ)
 - [CERTIFICAÇÃO, SOFT SKILLS, CARREIRA DEV DEPOIS DOS 40 E MUITO MAIS | #carreira #developers](https://www.youtube.com/watch?v=J0JqB8fr6Vw)
 - [PERGUNTA AÍ! | EP. #4 | #carreira #developers](https://www.youtube.com/watch?v=c0IIOHzHRGc)
-- [EMPREENDENDO COM JAVA NO MUNDO DE BIG DATA | #carreira](https://www.youtube.com/watch?v=hCnp33MV51Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
