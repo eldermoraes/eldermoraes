@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Carreira internacional? Inglês é o de menos! #shorts](https://www.youtube.com/watch?v=BmuucPj1P-M)
 - [PERGUNTA AÍ! EP. #5 | #carreira #developers](https://www.youtube.com/watch?v=S5Jg5xl-kHA)
 - [Sempre escolha o que vai te libertar, e não o que vai te prender #shorts](https://www.youtube.com/watch?v=xZZejmswLiQ)
 - [Todo mundo aprende fazendo #shorts](https://www.youtube.com/watch?v=YAuncW1T1ys)
 - [Certificação vale a pena? Depende! #shorts](https://www.youtube.com/watch?v=oQPKtRXqm78)
-- [Não invista em curso algum sem antes considerar isto | #shorts](https://www.youtube.com/watch?v=fzeryt7EIbQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
