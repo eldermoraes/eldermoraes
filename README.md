@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 passos para uma carreira fantástica como dev | #shorts](https://www.youtube.com/watch?v=r4F8zSNp3so)
 - [Foco é uma questão de escolha | #shorts](https://www.youtube.com/watch?v=19v-7VQKisg)
 - [TRANSIÇÃO DE CARREIRA, COMUNIDADES TECH E MEU NOVO LIVRO | #carreira #developers](https://www.youtube.com/watch?v=c0IIOHzHRGc)
 - [Carreira internacional? Inglês é o de menos! #shorts](https://www.youtube.com/watch?v=BmuucPj1P-M)
 - [PERGUNTA AÍ! EP. #5 | #carreira #developers](https://www.youtube.com/watch?v=S5Jg5xl-kHA)
-- [Sempre escolha o que vai te libertar, e não o que vai te prender #shorts](https://www.youtube.com/watch?v=xZZejmswLiQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
