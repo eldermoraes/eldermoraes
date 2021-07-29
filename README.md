@@ -26,7 +26,7 @@
 - [Foco é uma questão de escolha | #shorts](https://www.youtube.com/watch?v=19v-7VQKisg)
 - [TRANSIÇÃO DE CARREIRA, COMUNIDADES TECH E MEU NOVO LIVRO | #carreira #developers](https://www.youtube.com/watch?v=c0IIOHzHRGc)
 - [Carreira internacional? Inglês é o de menos! #shorts](https://www.youtube.com/watch?v=BmuucPj1P-M)
-- [PERGUNTA AÍ! EP. #5 | #carreira #developers](https://www.youtube.com/watch?v=S5Jg5xl-kHA)
+- [LIVE DE LANÇAMENTO DO LIVRO "5 PASSOS PARA UMA CARREIRA EXTRAORDINÁRIA" | #carreira #developers](https://www.youtube.com/watch?v=S5Jg5xl-kHA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
