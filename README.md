@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PERGUNTA AÍ | EP #6](https://www.youtube.com/watch?v=1SH2r69Fy6Y)
 - [Você é um “desenvolvedor pato”? | #shorts](https://www.youtube.com/watch?v=s_6dRSnL__A)
 - [LANÇAMENTO DO LIVRO "5 PASSOS PARA UMA CARREIRA EXTRAORDINÁRIA" | #carreira #developers](https://www.youtube.com/watch?v=S5Jg5xl-kHA)
 - [5 passos para uma carreira fantástica como dev | #shorts](https://www.youtube.com/watch?v=r4F8zSNp3so)
 - [Foco é uma questão de escolha | #shorts](https://www.youtube.com/watch?v=19v-7VQKisg)
-- [TRANSIÇÃO DE CARREIRA, COMUNIDADES TECH E MEU NOVO LIVRO | #carreira #developers](https://www.youtube.com/watch?v=c0IIOHzHRGc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
