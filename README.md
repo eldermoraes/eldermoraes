@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Estudo serve pra resolver problemas | #shorts](https://www.youtube.com/watch?v=7Ty2c5Ldl1o)
 - [4 FORMAS DE TER "SORTE" NA CARREIRA](https://www.youtube.com/watch?v=1SH2r69Fy6Y)
 - [Como pronunciar “Kubernetes” corretamente | #shorts](https://www.youtube.com/watch?v=19U5a18SDAc)
 - [Como ser especialista em uma linguagem | #shorts](https://www.youtube.com/watch?v=TJtlS-lyIos)
 - [Você é um “desenvolvedor pato”? | #shorts](https://www.youtube.com/watch?v=s_6dRSnL__A)
-- [LANÇAMENTO DO LIVRO "5 PASSOS PARA UMA CARREIRA EXTRAORDINÁRIA" | #carreira #developers](https://www.youtube.com/watch?v=S5Jg5xl-kHA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
