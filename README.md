@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PERGUNTA AÍ | EP #7](https://www.youtube.com/watch?v=JCrBncOo9Y0)
 - [Engenharia de Dados ou Backend… qual escolher? #shorts](https://www.youtube.com/watch?v=OblBYndit7Q)
 - [Estudo serve pra resolver problemas | #shorts](https://www.youtube.com/watch?v=7Ty2c5Ldl1o)
 - [4 FORMAS DE TER "SORTE" NA CARREIRA](https://www.youtube.com/watch?v=1SH2r69Fy6Y)
 - [Como pronunciar “Kubernetes” corretamente | #shorts](https://www.youtube.com/watch?v=19U5a18SDAc)
-- [Como ser especialista em uma linguagem | #shorts](https://www.youtube.com/watch?v=TJtlS-lyIos)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
