@@ -23,7 +23,7 @@
 
 <!-- YOUTUBE:START -->
 - [Diferença entre API e Framework | #shorts](https://www.youtube.com/watch?v=okY9HvBD-tQ)
-- [PERGUNTA AÍ | EP #7](https://www.youtube.com/watch?v=JCrBncOo9Y0)
+- [4 DICAS PARA A SUA PRÓXIMA ENTREVISTA | #carreira](https://www.youtube.com/watch?v=JCrBncOo9Y0)
 - [Engenharia de Dados ou Backend… qual escolher? #shorts](https://www.youtube.com/watch?v=OblBYndit7Q)
 - [Estudo serve pra resolver problemas | #shorts](https://www.youtube.com/watch?v=7Ty2c5Ldl1o)
 - [4 FORMAS DE TER "SORTE" NA CARREIRA](https://www.youtube.com/watch?v=1SH2r69Fy6Y)
