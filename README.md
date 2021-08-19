@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [COMO TRANSFORMAR SUA CARREIRA EM 15 MINUTOS](https://www.youtube.com/watch?v=keogasMTdQc)
 - [Como ter foco se cada hora me pedem uma coisa diferente? #shorts](https://www.youtube.com/watch?v=pRH1pzTJKiY)
 - [6 DICAS PARA A SUA PRÓXIMA ENTREVISTA | #carreira](https://www.youtube.com/watch?v=JCrBncOo9Y0)
 - [Diferença entre API e Framework | #shorts](https://www.youtube.com/watch?v=okY9HvBD-tQ)
 - [Engenharia de Dados ou Backend… qual escolher? #shorts](https://www.youtube.com/watch?v=OblBYndit7Q)
+- [Estudo serve pra resolver problemas | #shorts](https://www.youtube.com/watch?v=7Ty2c5Ldl1o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
