@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como criar e entregar uma palestra que as pessoas queiram assistir](https://www.youtube.com/watch?v=Zjg7Q00pcPQ)
 - [Como ter conteúdos infinitos para compartilhar | #shorts](https://www.youtube.com/watch?v=8Tx87EkdzCc)
 - [Como é ser Developer Advocate nas maiores empresas de tecnologia do mundo?](https://www.youtube.com/watch?v=iSTcPpWi76U)
 - [Como se tornar relevante | #shorts](https://www.youtube.com/watch?v=JqAmUtkABxU)
 - [COMO TRANSFORMAR SUA CARREIRA EM 15 MINUTOS](https://www.youtube.com/watch?v=keogasMTdQc)
-- [Como ter foco se cada hora me pedem uma coisa diferente? #shorts](https://www.youtube.com/watch?v=pRH1pzTJKiY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
