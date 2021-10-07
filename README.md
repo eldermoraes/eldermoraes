@@ -23,10 +23,10 @@
 
 <!-- YOUTUBE:START -->
 - [Palestrar não é só para palestrantes | #shorts](https://www.youtube.com/watch?v=eMwnk8PhhgQ)
-- [Lições de carreira que aprendi com o Pearl Jam](https://www.youtube.com/watch?v=7_Ti78tuDDc)
 - [Como criar e entregar uma palestra que as pessoas queiram assistir](https://www.youtube.com/watch?v=Zjg7Q00pcPQ)
 - [Como ter conteúdos infinitos para compartilhar | #shorts](https://www.youtube.com/watch?v=8Tx87EkdzCc)
 - [Como é ser Developer Advocate nas maiores empresas de tecnologia do mundo?](https://www.youtube.com/watch?v=iSTcPpWi76U)
+- [Como se tornar relevante | #shorts](https://www.youtube.com/watch?v=JqAmUtkABxU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
