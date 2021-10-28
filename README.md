@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Você é uma referência (mas talvez ainda não saiba)](https://www.youtube.com/watch?v=apSljpMNanI)
 - [Como fugir das modinhas da TI?](https://www.youtube.com/watch?v=bUis3PVccBQ)
 - [O foco não é uma sentença, mas também não pode mudar toda hora | #shorts](https://www.youtube.com/watch?v=ddRJUX7UoFk)
 - [O que é uma carreira em T?](https://www.youtube.com/watch?v=D3iRrBxvhdU)
 - [Lições de carreira que aprendi com o Pearl Jam](https://www.youtube.com/watch?v=7_Ti78tuDDc)
+- [Palestrar não é só para palestrantes | #shorts](https://www.youtube.com/watch?v=eMwnk8PhhgQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
