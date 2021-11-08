@@ -23,7 +23,7 @@
 
 <!-- YOUTUBE:START -->
 - [E se sua carreira voltasse à estaca zero? O que você faria?](https://www.youtube.com/watch?v=00BkEg6li1k)
-- [Você é uma referência (mas talvez ainda não saiba)](https://www.youtube.com/watch?v=apSljpMNanI)
+- [Você é uma referência &lpar;mas talvez ainda não saiba&rpar;](https://www.youtube.com/watch?v=apSljpMNanI)
 - [Como fugir das modinhas da TI?](https://www.youtube.com/watch?v=bUis3PVccBQ)
 - [O foco não é uma sentença, mas também não pode mudar toda hora | #shorts](https://www.youtube.com/watch?v=ddRJUX7UoFk)
 - [O que é uma carreira em T?](https://www.youtube.com/watch?v=D3iRrBxvhdU)
