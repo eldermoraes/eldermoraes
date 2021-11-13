@@ -22,7 +22,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=fCVQoLoI88g)
+- [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=EQa_vcRQjMo)
 - [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=rkEFLtssG7Q)
 - [Faz sentido uma nova versão de Java a cada 6 meses?](https://www.youtube.com/watch?v=3NQYpX7evjA)
 - [E se sua carreira voltasse à estaca zero? O que você faria?](https://www.youtube.com/watch?v=00BkEg6li1k)
