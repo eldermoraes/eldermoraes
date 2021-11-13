@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=tHjRfxWLXsM)
 - [Faz sentido uma nova versão de Java a cada 6 meses?](https://www.youtube.com/watch?v=3NQYpX7evjA)
 - [E se sua carreira voltasse à estaca zero? O que você faria?](https://www.youtube.com/watch?v=00BkEg6li1k)
 - [Você é uma referência &lpar;mas talvez ainda não saiba&rpar;](https://www.youtube.com/watch?v=apSljpMNanI)
 - [Como fugir das modinhas da TI?](https://www.youtube.com/watch?v=bUis3PVccBQ)
-- [O foco não é uma sentença, mas também não pode mudar toda hora | #shorts](https://www.youtube.com/watch?v=ddRJUX7UoFk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
