@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=NJEHopS5RTg)
 - [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=dUVvEs9M918)
 - [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=94cP5a5J2yQ)
 - [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=tHjRfxWLXsM)
 - [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=rkEFLtssG7Q)
-- [Faz sentido uma nova versão de Java a cada 6 meses?](https://www.youtube.com/watch?v=3NQYpX7evjA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
