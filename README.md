@@ -22,7 +22,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=HeUhAXKdGPI)
+- [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=6-SVpo_cIWg)
 - [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=eIsp85o1zzM)
 - [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=i0mn1ZkHtSo)
 - [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=CCbEDAtZCUM)
