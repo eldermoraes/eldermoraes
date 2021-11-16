@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=LRXsnfDz0XM)
 - [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=2QmYsw3zPuI)
 - [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=zxOIdIN1Z6w)
 - [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=6-SVpo_cIWg)
 - [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=HeUhAXKdGPI)
-- [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=J7T230hMu0k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
