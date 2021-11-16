@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=LRXsnfDz0XM)
-- [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=2QmYsw3zPuI)
-- [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=zxOIdIN1Z6w)
-- [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=6-SVpo_cIWg)
-- [Career Conversations with Friends - by Bruno Souza](https://www.youtube.com/watch?v=HeUhAXKdGPI)
+- [Desafios e práticas arquiteturais que te ajudarão a surfar a onda cloud-native - SouJava na Campus](https://www.youtube.com/watch?v=LRXsnfDz0XM)
+- [Live coding utilizando diferentes sistemas de mensageria com Quarkus - SouJava na Campus](https://www.youtube.com/watch?v=2QmYsw3zPuI)
+- [Be the exception! Dicas para dominar exceções em seus códigos Java - SouJava na Campus](https://www.youtube.com/watch?v=zxOIdIN1Z6w)
+- [5 funcionalidades do Quarkus que vão transformar seu dia-a-dia - SouJava na Campus](https://www.youtube.com/watch?v=6-SVpo_cIWg)
+- [Bate papo sobre Kubernetes- SouJava na Campus](https://www.youtube.com/watch?v=HeUhAXKdGPI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
