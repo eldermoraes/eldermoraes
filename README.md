@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que é um Java Champion? Como alguém se torna um? | #shorts](https://www.youtube.com/watch?v=2ipAgDGjEHw)
 - [The Future of Java Technology - TDC Future](https://www.youtube.com/watch?v=e2en_kHTbhU)
 - [Desafios e práticas arquiteturais que te ajudarão a surfar a onda cloud-native - SouJava na Campus](https://www.youtube.com/watch?v=LRXsnfDz0XM)
 - [Live coding utilizando diferentes sistemas de mensageria com Quarkus - SouJava na Campus](https://www.youtube.com/watch?v=2QmYsw3zPuI)
 - [Be the exception! Dicas para dominar exceções em seus códigos Java - SouJava na Campus](https://www.youtube.com/watch?v=zxOIdIN1Z6w)
-- [5 funcionalidades do Quarkus que vão transformar seu dia-a-dia - SouJava na Campus](https://www.youtube.com/watch?v=6-SVpo_cIWg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
