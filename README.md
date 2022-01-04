@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como se tornar um Dev Full Stack | #shorts](https://www.youtube.com/watch?v=0Ceegq0mu8U)
 - [Qual o limite de idade para um dev? #shorts](https://www.youtube.com/watch?v=FWX2mwKYEfQ)
 - [O que é o Projeto Loom? | #shorts](https://www.youtube.com/watch?v=lhi7YwmoaWY)
 - [Como manter a motivação | #shorts](https://www.youtube.com/watch?v=REf21mTbLLk)
 - [O que é um Java Champion? Como alguém se torna um? | #shorts](https://www.youtube.com/watch?v=2ipAgDGjEHw)
-- [The Future of Java Technology - TDC Future](https://www.youtube.com/watch?v=e2en_kHTbhU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
