@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Concorrência em banco de dados usando API REST | #shorts](https://www.youtube.com/watch?v=Z8TUopqVbdo)
 - [Qual a diferença entre Java 8 e 11 | #shorts](https://www.youtube.com/watch?v=OiguxyGw5Gs)
 - [Como se tornar um Dev Full Stack | #shorts](https://www.youtube.com/watch?v=0Ceegq0mu8U)
 - [Qual o limite de idade para um dev? #shorts](https://www.youtube.com/watch?v=FWX2mwKYEfQ)
 - [O que é o Projeto Loom? | #shorts](https://www.youtube.com/watch?v=lhi7YwmoaWY)
-- [Como manter a motivação | #shorts](https://www.youtube.com/watch?v=REf21mTbLLk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
