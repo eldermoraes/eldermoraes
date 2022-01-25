@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Como criar um 2022 incrível para você e sua carreira](https://www.youtube.com/watch?v=2JlvE-Lh4Ic)
 - [Não complica! #shorts](https://www.youtube.com/watch?v=ZTce2zl0s4w)
 - [Quem não souber microservices vai ficar pra trás? #shorts](https://www.youtube.com/watch?v=pA-tEYI3IUg)
 - [Concorrência em banco de dados usando API REST | #shorts](https://www.youtube.com/watch?v=Z8TUopqVbdo)
 - [Qual a diferença entre Java 8 e 11 | #shorts](https://www.youtube.com/watch?v=OiguxyGw5Gs)
+- [Como se tornar um Dev Full Stack | #shorts](https://www.youtube.com/watch?v=0Ceegq0mu8U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
