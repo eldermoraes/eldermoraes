@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Eventalks 00 - Bruno Souza recebe Elder Moraes](https://www.youtube.com/watch?v=W3F8BDmdn8M)
 - [Como reduzir uma imagem de container em até 143x | #containers](https://www.youtube.com/watch?v=LF2mSFvXtZk)
 - [Como criar um 2022 incrível para você e sua carreira](https://www.youtube.com/watch?v=2JlvE-Lh4Ic)
 - [Não complica! #shorts](https://www.youtube.com/watch?v=ZTce2zl0s4w)
 - [Quem não souber microservices vai ficar pra trás? #shorts](https://www.youtube.com/watch?v=pA-tEYI3IUg)
+- [Concorrência em banco de dados usando API REST | #shorts](https://www.youtube.com/watch?v=Z8TUopqVbdo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
