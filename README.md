@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [E DEPOIS DE SÊNIOR, VEM O QUE? - Elias Nogueira](https://www.youtube.com/watch?v=bodnkZ-w57o)
 - [Meu banco de dados sempre cai quando tem muitas requests | #shorts](https://www.youtube.com/watch?v=wep02YxOL84)
 - [Gerenciamento de threads em chamadas REST | #shorts](https://www.youtube.com/watch?v=Agy0Z4WWaqU)
 - [Eventalks 00 - Bruno Souza recebe Elder Moraes](https://www.youtube.com/watch?v=W3F8BDmdn8M)
 - [Como reduzir uma imagem de container em até 143x | #containers](https://www.youtube.com/watch?v=LF2mSFvXtZk)
-- [Como criar um 2022 incrível para você e sua carreira](https://www.youtube.com/watch?v=2JlvE-Lh4Ic)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
