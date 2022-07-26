@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Sessão de Q&amp;A sobre Java, microservices, Kubernetes, service mesh e containers](https://www.youtube.com/watch?v=fTKeDI4btHk)
 - [E DEPOIS DE SÊNIOR, VEM O QUE? - Elias Nogueira](https://www.youtube.com/watch?v=bodnkZ-w57o)
 - [Meu banco de dados sempre cai quando tem muitas requests | #shorts](https://www.youtube.com/watch?v=wep02YxOL84)
 - [Gerenciamento de threads em chamadas REST | #shorts](https://www.youtube.com/watch?v=Agy0Z4WWaqU)
 - [Eventalks 00 - Bruno Souza recebe Elder Moraes](https://www.youtube.com/watch?v=W3F8BDmdn8M)
-- [Como reduzir uma imagem de container em até 143x | #containers](https://www.youtube.com/watch?v=LF2mSFvXtZk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
