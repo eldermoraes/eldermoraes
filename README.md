@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java é difícil? #shorts](https://www.youtube.com/watch?v=DEHQnVti1eA)
+- [Como funciona o service mesh? Entenda em 5 minutos!](https://www.youtube.com/watch?v=NoOia-48b3w)
 - [Conhecimento sem implementação é inútil | #shorts](https://www.youtube.com/watch?v=_kMOvkYDCtg)
 - [Porque manter a versão do Java atualizada?](https://www.youtube.com/watch?v=k_6QP2jDkJk)
 - [Sessão de Q&amp;A sobre Java, microservices, Kubernetes, service mesh e containers](https://www.youtube.com/watch?v=fTKeDI4btHk)
-- [E DEPOIS DE SÊNIOR, VEM O QUE? - Elias Nogueira](https://www.youtube.com/watch?v=bodnkZ-w57o)
-- [Meu banco de dados sempre cai quando tem muitas requests | #shorts](https://www.youtube.com/watch?v=wep02YxOL84)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
