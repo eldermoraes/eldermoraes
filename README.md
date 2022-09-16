@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Aula #3 - Masterclass &quot;Microservices para Devs Java&quot; - Elder Moraes](https://www.youtube.com/watch?v=eMMLTqvDcq4)
+- [Aula #2 - Masterclass &quot;Microservices para Devs Java&quot; - Elder Moraes](https://www.youtube.com/watch?v=sPKW1kZkOw0)
+- [Aula #1 - Masterclass &quot;Microservices para Devs Java&quot; - Elder Moraes](https://www.youtube.com/watch?v=s0LLCC3SLY4)
 - [Porque eu deveria usar microservices? Se é que deveria...](https://www.youtube.com/watch?v=o8eu8VQzeeg)
 - [Como se envolver com comunidades tech?](https://www.youtube.com/watch?v=broZWnpVKUk)
-- [Java é difícil? #shorts](https://www.youtube.com/watch?v=DEHQnVti1eA)
-- [Como funciona o service mesh? Entenda em 5 minutos!](https://www.youtube.com/watch?v=NoOia-48b3w)
-- [Conhecimento sem implementação é inútil | #shorts](https://www.youtube.com/watch?v=_kMOvkYDCtg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
