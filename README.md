@@ -22,9 +22,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Aula #1 - Masterclass &quot;Microservices para Devs Java&quot; - Elder Moraes](https://www.youtube.com/watch?v=s0LLCC3SLY4)
 - [Aula #3 - Masterclass &quot;Microservices para Devs Java&quot; - Elder Moraes](https://www.youtube.com/watch?v=eMMLTqvDcq4)
 - [Aula #2 - Masterclass &quot;Microservices para Devs Java&quot; - Elder Moraes](https://www.youtube.com/watch?v=sPKW1kZkOw0)
-- [Aula #1 - Masterclass &quot;Microservices para Devs Java&quot; - Elder Moraes](https://www.youtube.com/watch?v=s0LLCC3SLY4)
 - [Porque eu deveria usar microservices? Se é que deveria...](https://www.youtube.com/watch?v=o8eu8VQzeeg)
 - [Como se envolver com comunidades tech?](https://www.youtube.com/watch?v=broZWnpVKUk)
 <!-- YOUTUBE:END -->
