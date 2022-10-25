@@ -36,11 +36,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The return of JavaOne](https://eldermoraes.com/the-return-of-javaone/)
 - [Java &amp; containers: what I wish I knew before I used it](https://eldermoraes.com/java-containers-what-i-wish-i-knew-before-i-used-it/)
 - [You don’t need microservices](https://eldermoraes.com/you-dont-need-microservices/)
 - [5 design patterns for microservices with Quarkus and MicroProfile](https://eldermoraes.com/5-design-patterns-for-microservices-with-quarkus-and-microprofile/)
 - [Jakarta EE Cookbook](https://eldermoraes.com/jakarta-ee-cookbook/)
-- [Getting started with MicroProfile using Helidon](https://eldermoraes.com/getting-started-with-microprofile-using-helidon/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eldermoraes.com)
