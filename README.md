@@ -22,9 +22,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Aula #2 - Masterclass &quot;Microservices para Devs Java&quot; - Elder Moraes](https://www.youtube.com/watch?v=UpNeYMZqBuo)
 - [Aula #1 - Masterclass &quot;Microservices para Devs Java&quot; - Elder Moraes](https://www.youtube.com/watch?v=5oPU2ITKfKM)
 - [Aula #3 - Masterclass &quot;Microservices para Devs Java&quot; - Elder Moraes](https://www.youtube.com/watch?v=aW_UlJtIi24)
-- [Aula #2 - Masterclass &quot;Microservices para Devs Java&quot; - Elder Moraes](https://www.youtube.com/watch?v=UpNeYMZqBuo)
 - [ELE É LÍDER DO JUG MAIS ANTIGO DO MUNDO | JAVA CHAMPIONS BRASUCAS C/ RODRIGO GRACIANO | EP #19](https://www.youtube.com/watch?v=N2TSomDgtbQ)
 - [Porque eu deveria usar microservices? Se é que deveria...](https://www.youtube.com/watch?v=o8eu8VQzeeg)
 <!-- YOUTUBE:END -->
