@@ -23,7 +23,7 @@
 
 <!-- YOUTUBE:START -->
 - [Alcançando a especialização em backend Java: O passo a passo](https://www.youtube.com/watch?v=XYNu7WX7_a0)
-- [6 passos para ser um dev backend senior de destaque no mercado](https://www.youtube.com/watch?v=MXNSAnoOyn4)
+- [6 passos para o dev backend senior se destacar no mercado](https://www.youtube.com/watch?v=MXNSAnoOyn4)
 - [ELE É LÍDER DO JUG MAIS ANTIGO DO MUNDO | JAVA CHAMPIONS BRASUCAS C/ RODRIGO GRACIANO | EP #19](https://www.youtube.com/watch?v=N2TSomDgtbQ)
 - [Porque eu deveria usar microservices? Se é que deveria...](https://www.youtube.com/watch?v=o8eu8VQzeeg)
 - [Como se envolver com comunidades tech?](https://www.youtube.com/watch?v=broZWnpVKUk)
