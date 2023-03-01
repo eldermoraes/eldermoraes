@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como estudar e aplicar tecnologias de cloud para backend Java](https://www.youtube.com/watch?v=jwtZaMgVLkg)
 - [Porque se especializar em um framework Java](https://www.youtube.com/watch?v=YUXP4FxMWWc)
 - [O dev especialista ganha do generalista no longo prazo](https://www.youtube.com/watch?v=BViyKCefRNk)
 - [Java no backend: mais Enterprise Edition, menos Standard Edition](https://www.youtube.com/watch?v=noZ7M2pIANs)
 - [Dev é pago para resolver problema, não para escrever código](https://www.youtube.com/watch?v=eoxPnO_jQHY)
-- [Alcançando a especialização em backend Java: O passo a passo](https://www.youtube.com/watch?v=XYNu7WX7_a0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
