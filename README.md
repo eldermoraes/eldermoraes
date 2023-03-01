@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Aplique a Lei de Conway quando estiver definindo uma arquitetura](https://www.youtube.com/watch?v=FWAP-dJ6BPA)
 - [Como estudar e aplicar tecnologias de cloud para backend Java](https://www.youtube.com/watch?v=jwtZaMgVLkg)
 - [Porque se especializar em um framework Java](https://www.youtube.com/watch?v=YUXP4FxMWWc)
 - [O dev especialista ganha do generalista no longo prazo](https://www.youtube.com/watch?v=BViyKCefRNk)
 - [Java no backend: mais Enterprise Edition, menos Standard Edition](https://www.youtube.com/watch?v=noZ7M2pIANs)
-- [Dev é pago para resolver problema, não para escrever código](https://www.youtube.com/watch?v=eoxPnO_jQHY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
