@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Quarkus vai substituir o Jakarta EE? Faço pós EAD ou presencial? Qual lib uso para auditoria?](https://www.youtube.com/watch?v=9mrJKIeYwcQ)
 - [Escolha um cloud provider para se especializar](https://www.youtube.com/watch?v=VseGz3TGhL8)
 - [Aplique a Lei de Conway quando estiver definindo uma arquitetura](https://www.youtube.com/watch?v=FWAP-dJ6BPA)
 - [Como estudar e aplicar tecnologias de cloud para backend Java](https://www.youtube.com/watch?v=jwtZaMgVLkg)
 - [Porque se especializar em um framework Java](https://www.youtube.com/watch?v=YUXP4FxMWWc)
-- [O dev especialista ganha do generalista no longo prazo](https://www.youtube.com/watch?v=BViyKCefRNk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
