@@ -22,7 +22,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Comece pelo p... problema](https://www.youtube.com/watch?v=-MY_D-c8Zfo)
+- [Comece pelo problema](https://www.youtube.com/watch?v=-MY_D-c8Zfo)
 - [Quarkus vai substituir o Jakarta EE? Faço pós EAD ou presencial? Qual lib uso para auditoria?](https://www.youtube.com/watch?v=9mrJKIeYwcQ)
 - [Escolha um cloud provider para se especializar](https://www.youtube.com/watch?v=VseGz3TGhL8)
 - [Aplique a Lei de Conway quando estiver definindo uma arquitetura](https://www.youtube.com/watch?v=FWAP-dJ6BPA)
