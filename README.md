@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Escreva APIs que sejam fáceis de manter e evoluir](https://www.youtube.com/watch?v=xCq5rFUeWYw)
 - [Dev Java no backend precisa dominar containers, e aqui está o porque](https://www.youtube.com/watch?v=JUy6Z83z02c)
 - [Todo dev backend precisa manjar de containers](https://www.youtube.com/watch?v=tiydK4ty_Ps)
 - [Comece pelo problema](https://www.youtube.com/watch?v=-MY_D-c8Zfo)
 - [Quarkus vai substituir o Jakarta EE? Faço pós EAD ou presencial? Qual lib uso para auditoria?](https://www.youtube.com/watch?v=9mrJKIeYwcQ)
-- [Escolha um cloud provider para se especializar](https://www.youtube.com/watch?v=VseGz3TGhL8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
