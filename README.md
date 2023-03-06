@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Conheça os irmãos Implementação e Compartilhamento &lpar;seus melhores amigos&rpar;](https://www.youtube.com/watch?v=uP41Ej-BiM4)
 - [Use um framework que facilite a sua vida &lpar;não é óbvio como parece&rpar;](https://www.youtube.com/watch?v=7dzeBWd9Cnw)
 - [Pense na arquitetura da solução inteira, e não apenas no seu código](https://www.youtube.com/watch?v=RNzxl35ZQ0s)
 - [Escreva APIs que sejam fáceis de manter e evoluir](https://www.youtube.com/watch?v=xCq5rFUeWYw)
 - [Dev Java no backend precisa dominar containers, e aqui está o porque](https://www.youtube.com/watch?v=JUy6Z83z02c)
-- [Todo dev backend precisa manjar de containers](https://www.youtube.com/watch?v=tiydK4ty_Ps)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
