@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Descubra as ferramentas corretas para o dev backend que usa cloud](https://www.youtube.com/watch?v=BlmZ0TbnrHQ)
 - [Como usar Quarkus no backend a partir do que você já sabe](https://www.youtube.com/watch?v=5jL6rowb7k0)
 - [O Quarkus vai substituir o Jakarta EE na vida de um dev backend?](https://www.youtube.com/watch?v=-gqe4zHaBlk)
 - [Aprendendo Quarkus: O guia definitivo para devs backend Java &lpar;seu primeiro projeto no ar ainda hoje&rpar;](https://www.youtube.com/watch?v=vwsfBKJenvw)
 - [O segredo para o dev backend ser reconhecido pelo mercado](https://www.youtube.com/watch?v=eLTNMTZe6mE)
-- [Conheça os irmãos Implementação e Compartilhamento &lpar;seus melhores amigos&rpar;](https://www.youtube.com/watch?v=uP41Ej-BiM4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
