@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ferramentas de auditoria um dev backend precisa conhecer](https://www.youtube.com/watch?v=bpW6xhB0ZvY)
 - [Qual o roadmap para um dev backend? Como aprendo microservices? Iniciante contribui no open source?](https://www.youtube.com/watch?v=XSEpXnwaqdA)
 - [Descubra as ferramentas corretas para o dev backend que usa cloud](https://www.youtube.com/watch?v=BlmZ0TbnrHQ)
 - [Como usar Quarkus no backend a partir do que você já sabe](https://www.youtube.com/watch?v=5jL6rowb7k0)
 - [O Quarkus vai substituir o Jakarta EE na vida de um dev backend?](https://www.youtube.com/watch?v=-gqe4zHaBlk)
-- [Aprendendo Quarkus: O guia definitivo para devs backend Java &lpar;seu primeiro projeto no ar ainda hoje&rpar;](https://www.youtube.com/watch?v=vwsfBKJenvw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
