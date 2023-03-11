@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como um dev backend pode se especializar em Jakarta EE](https://www.youtube.com/watch?v=w9tcvUX6B7w)
 - [Se a sua solução de backend não funciona com containers, você precisa revê-la](https://www.youtube.com/watch?v=-ixoAxrkd_U)
 - [O jeito mais fácil de criar sua primeira aplicação usando Quarkus](https://www.youtube.com/watch?v=iTkg_XtG9-w)
 - [Ferramentas de auditoria um dev backend precisa conhecer](https://www.youtube.com/watch?v=bpW6xhB0ZvY)
 - [Qual o roadmap para um dev backend? Como aprendo microservices? Iniciante contribui no open source?](https://www.youtube.com/watch?v=XSEpXnwaqdA)
-- [Descubra as ferramentas corretas para o dev backend que usa cloud](https://www.youtube.com/watch?v=BlmZ0TbnrHQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
