@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Se a sua solução de backend não funciona com containers, você precisa revê-la](https://www.youtube.com/watch?v=-ixoAxrkd_U)
 - [O jeito mais fácil de criar sua primeira aplicação usando Quarkus](https://www.youtube.com/watch?v=iTkg_XtG9-w)
 - [Ferramentas de auditoria um dev backend precisa conhecer](https://www.youtube.com/watch?v=bpW6xhB0ZvY)
 - [Qual o roadmap para um dev backend? Como aprendo microservices? Iniciante contribui no open source?](https://www.youtube.com/watch?v=XSEpXnwaqdA)
 - [Descubra as ferramentas corretas para o dev backend que usa cloud](https://www.youtube.com/watch?v=BlmZ0TbnrHQ)
-- [Como usar Quarkus no backend a partir do que você já sabe](https://www.youtube.com/watch?v=5jL6rowb7k0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
