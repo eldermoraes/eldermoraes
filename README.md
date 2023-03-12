@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Uma aplicação backend em cloud precisa de serviços gerenciados](https://www.youtube.com/watch?v=pV6f7aZx1Mo)
 - [O recurso do Quarkus que mais facilita a vida do dev backend](https://www.youtube.com/watch?v=fIAiV_XwvDQ)
 - [Como um dev backend pode se especializar em Jakarta EE](https://www.youtube.com/watch?v=w9tcvUX6B7w)
 - [Se a sua solução de backend não funciona com containers, você precisa revê-la](https://www.youtube.com/watch?v=-ixoAxrkd_U)
 - [O jeito mais fácil de criar sua primeira aplicação usando Quarkus](https://www.youtube.com/watch?v=iTkg_XtG9-w)
-- [Ferramentas de auditoria um dev backend precisa conhecer](https://www.youtube.com/watch?v=bpW6xhB0ZvY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
