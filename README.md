@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tenha um painel de controle completo enquanto desenvolve sua aplicação usando Quarkus](https://www.youtube.com/watch?v=so6pErwEQEI)
 - [O que todo dev Java precisa saber &lpar;tem muito senior que vacila nisso&rpar;](https://www.youtube.com/watch?v=s6oVex4L-8s)
 - [Uma aplicação backend em cloud precisa de serviços gerenciados](https://www.youtube.com/watch?v=pV6f7aZx1Mo)
 - [O recurso do Quarkus que mais facilita a vida do dev backend](https://www.youtube.com/watch?v=fIAiV_XwvDQ)
 - [Como um dev backend pode se especializar em Jakarta EE](https://www.youtube.com/watch?v=w9tcvUX6B7w)
-- [Se a sua solução de backend não funciona com containers, você precisa revê-la](https://www.youtube.com/watch?v=-ixoAxrkd_U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
