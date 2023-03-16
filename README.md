@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que é virtual thread? Como integrar Quarkus e Keycloak? Mentoria destrava a carreira?](https://www.youtube.com/watch?v=myssSAgfe0Q)
 - [Os melhores devs backend do mercado são mais limitados &lpar;entenda o porquê&rpar;](https://www.youtube.com/watch?v=4VEVyPKODQ8)
 - [Tenha um painel de controle completo enquanto desenvolve sua aplicação usando Quarkus](https://www.youtube.com/watch?v=so6pErwEQEI)
 - [O que todo dev Java precisa saber &lpar;tem muito senior que vacila nisso&rpar;](https://www.youtube.com/watch?v=s6oVex4L-8s)
 - [Uma aplicação backend em cloud precisa de serviços gerenciados](https://www.youtube.com/watch?v=pV6f7aZx1Mo)
-- [O recurso do Quarkus que mais facilita a vida do dev backend](https://www.youtube.com/watch?v=fIAiV_XwvDQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
