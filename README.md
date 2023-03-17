@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como desenvolver as habilidades que te colocam entre os devs mais bem pagos do mercado](https://www.youtube.com/watch?v=aDHpd5ChF7E)
 - [Conheça a estrutura básica de um projeto criado usando Quarkus](https://www.youtube.com/watch?v=HQJlr4cwy-o)
 - [A dica mais importante para o dev que vai começar a faculdade](https://www.youtube.com/watch?v=nHVaGkc9-Hc)
 - [O que é virtual thread? Como integrar Quarkus e Keycloak? Mentoria destrava a carreira?](https://www.youtube.com/watch?v=myssSAgfe0Q)
 - [Os melhores devs backend do mercado são mais limitados &lpar;entenda o porquê&rpar;](https://www.youtube.com/watch?v=4VEVyPKODQ8)
-- [Tenha um painel de controle completo enquanto desenvolve sua aplicação usando Quarkus](https://www.youtube.com/watch?v=so6pErwEQEI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
