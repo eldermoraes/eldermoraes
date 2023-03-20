@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Conheça os dois métodos do Quarkus para empacotar uma aplicação](https://www.youtube.com/watch?v=mgNo0Rrir8s)
 - [As estruturas de dados mais importantes para um dev Java no backend](https://www.youtube.com/watch?v=s2EAKxzySlA)
 - [Aplicações backend em cloud precisam de ferramentas cloud native](https://www.youtube.com/watch?v=8o_67PQPokM)
 - [Como desenvolver as habilidades que te colocam entre os devs mais bem pagos do mercado](https://www.youtube.com/watch?v=aDHpd5ChF7E)
 - [Conheça a estrutura básica de um projeto criado usando Quarkus](https://www.youtube.com/watch?v=HQJlr4cwy-o)
-- [A dica mais importante para o dev que vai começar a faculdade](https://www.youtube.com/watch?v=nHVaGkc9-Hc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
