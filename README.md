@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Os 3 pilares de carreira dos melhores devs backend do mundo](https://www.youtube.com/watch?v=29HN7u4n1po)
 - [Na vida dos devs, a implementação é mãe do aprendizado](https://www.youtube.com/watch?v=rRMVgMHnB70)
 - [Conheça os dois métodos do Quarkus para empacotar uma aplicação](https://www.youtube.com/watch?v=mgNo0Rrir8s)
 - [As estruturas de dados mais importantes para um dev Java no backend](https://www.youtube.com/watch?v=s2EAKxzySlA)
 - [Aplicações backend em cloud precisam de ferramentas cloud native](https://www.youtube.com/watch?v=8o_67PQPokM)
-- [Como desenvolver as habilidades que te colocam entre os devs mais bem pagos do mercado](https://www.youtube.com/watch?v=aDHpd5ChF7E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
