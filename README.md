@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Evoluir usando legado? Como vencer a falta de tempo pra estudar? Crescer sem plano de carreira?](https://www.youtube.com/watch?v=lVPXhW_HFMw)
 - [Porque o dev especialista em Quarkus tem um alto valor no mercado](https://www.youtube.com/watch?v=P5mIVijANSs)
 - [Porque o Quarkus ainda é menos usado do que o Spring?](https://www.youtube.com/watch?v=KVWbn9cC6t4)
 - [Os 3 pilares de carreira dos melhores devs backend do mundo](https://www.youtube.com/watch?v=29HN7u4n1po)
 - [Na vida dos devs, a implementação é mãe do aprendizado](https://www.youtube.com/watch?v=rRMVgMHnB70)
-- [Conheça os dois métodos do Quarkus para empacotar uma aplicação](https://www.youtube.com/watch?v=mgNo0Rrir8s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
