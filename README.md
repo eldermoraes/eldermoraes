@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Valhalla? Panama? Amber? Loom? Conheça os projetos por trás da plataforma Java](https://www.youtube.com/watch?v=_D6SZiesK10)
 - [Como um dev pode começar a contribuir com projetos opensource](https://www.youtube.com/watch?v=kWNmnuo0Kp8)
 - [Entenda porque ler código vai refinar suas habilidades como dev backend](https://www.youtube.com/watch?v=Wza9jvJ4B-U)
 - [O que são virtual threads e qual a relação com programação reativa](https://www.youtube.com/watch?v=G95wqr8126E)
 - [Os fundamentos de microservices para devs backend](https://www.youtube.com/watch?v=8g4w1UFIFWs)
-- [Cuidado com os supostos roadmaps para devs backend](https://www.youtube.com/watch?v=6GTaL57A6G4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
