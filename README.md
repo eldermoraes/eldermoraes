@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O ChatGPT pode me ajudar como dev backend? Monólito morreu? Como integrar Quarkus e Kafka?](https://www.youtube.com/watch?v=k2t_l5h8GwA)
 - [Certificação é importante? Dá pra ter segurança em legados? Preciso mesmo aprender Kubernetes?](https://www.youtube.com/watch?v=1Coq_b-Eb_s)
 - [O passo a passo para ser um dev backend usando Java](https://www.youtube.com/watch?v=bMOXTETkULo)
 - [Como desenvolver a capacidade de escrever código como os devs mais bem pagos do mercado](https://www.youtube.com/watch?v=yjjc8FVq7hM)
 - [Valhalla? Panama? Amber? Loom? Conheça os projetos por trás da plataforma Java](https://www.youtube.com/watch?v=_D6SZiesK10)
-- [Como um dev pode começar a contribuir com projetos opensource](https://www.youtube.com/watch?v=kWNmnuo0Kp8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
