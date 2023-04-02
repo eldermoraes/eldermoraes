@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Código bom é código na mão do usuário](https://www.youtube.com/watch?v=LYQhppt8y5Q)
 - [Vale a pena fazer uma pós graduação em java &lpar;ou qualquer outra linguagem&rpar;?](https://www.youtube.com/watch?v=Bs5WJ8GB74k)
 - [O ChatGPT pode me ajudar como dev backend? Monólito morreu? Como integrar Quarkus e Kafka?](https://www.youtube.com/watch?v=k2t_l5h8GwA)
 - [Certificação é importante? Dá pra ter segurança em legados? Preciso mesmo aprender Kubernetes?](https://www.youtube.com/watch?v=1Coq_b-Eb_s)
 - [O passo a passo para ser um dev backend usando Java](https://www.youtube.com/watch?v=bMOXTETkULo)
-- [Como desenvolver a capacidade de escrever código como os devs mais bem pagos do mercado](https://www.youtube.com/watch?v=yjjc8FVq7hM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
