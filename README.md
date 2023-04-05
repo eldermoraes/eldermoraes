@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Do estagiário ao sênior, todo dev backend precisa se atentar a isso](https://www.youtube.com/watch?v=0Q5XgkznoPE)
 - [Como equilibrar carreira e vida pessoal: o desafio de todo dev backend](https://www.youtube.com/watch?v=9KZRBIaJcTo)
 - [Tudo o que um dev backend precisa saber sobre service mesh com Istio no Kubernetes](https://www.youtube.com/watch?v=PuT-fcdfHUs)
 - [Microservices pra quem só trabalha com monólitos](https://www.youtube.com/watch?v=BTgrLhAth00)
 - [Código bom é código na mão do usuário](https://www.youtube.com/watch?v=LYQhppt8y5Q)
-- [Vale a pena fazer uma pós graduação em java &lpar;ou qualquer outra linguagem&rpar;?](https://www.youtube.com/watch?v=Bs5WJ8GB74k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
