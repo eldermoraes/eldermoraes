@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A habilidade que faz do dev backend um profissional de fato](https://www.youtube.com/watch?v=UHXvTqaGors)
 - [Porque usar Java em um projeto novo? Quantos anos pra virar sênior? Quais as novidades do Quarkus 3?](https://www.youtube.com/watch?v=A9ec5qcVBzg)
 - [Dev precisa de mentoria?](https://www.youtube.com/watch?v=fgz6CqEqgmM)
 - [Do estagiário ao sênior, todo dev backend precisa se atentar a isso](https://www.youtube.com/watch?v=0Q5XgkznoPE)
 - [Como equilibrar carreira e vida pessoal: o desafio de todo dev backend](https://www.youtube.com/watch?v=9KZRBIaJcTo)
-- [Tudo o que um dev backend precisa saber sobre service mesh com Istio no Kubernetes](https://www.youtube.com/watch?v=PuT-fcdfHUs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
