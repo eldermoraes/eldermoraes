@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Conheça a habilidade que mais traz resultados à sua carreira dev](https://www.youtube.com/watch?v=POOhzZ3ISzI)
 - [Para que serve o serialVersionUID no Java?](https://www.youtube.com/watch?v=4PTMBAZp9TY)
 - [A estratégia infalível para o dev lidar com prazos de entrega reduzidos](https://www.youtube.com/watch?v=hrRSdjuigQo)
 - [A habilidade que faz do dev backend um profissional de fato](https://www.youtube.com/watch?v=UHXvTqaGors)
 - [Porque usar Java em um projeto novo? Quantos anos pra virar sênior? Quais as novidades do Quarkus 3?](https://www.youtube.com/watch?v=A9ec5qcVBzg)
-- [Dev precisa de mentoria?](https://www.youtube.com/watch?v=fgz6CqEqgmM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
