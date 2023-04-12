@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como estar entre os devs mais bem pagos do mercado usando Java no backend](https://www.youtube.com/watch?v=4046bUlm8d8)
 - [Quarkus já é usado por algumas dessas gigantes &lpar;você conhece ao menos uma delas&rpar;](https://www.youtube.com/watch?v=qL2qJwLVODk)
 - [Conheça a habilidade que mais traz resultados à sua carreira dev](https://www.youtube.com/watch?v=POOhzZ3ISzI)
 - [Para que serve o serialVersionUID no Java?](https://www.youtube.com/watch?v=4PTMBAZp9TY)
 - [A estratégia infalível para o dev lidar com prazos de entrega reduzidos](https://www.youtube.com/watch?v=hrRSdjuigQo)
-- [A habilidade que faz do dev backend um profissional de fato](https://www.youtube.com/watch?v=UHXvTqaGors)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
