@@ -22,10 +22,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como estar entre os devs mais bem pagos do mercado usando Java no backend](https://www.youtube.com/watch?v=4046bUlm8d8)
 - [Como aprender tecnologias modernas se preciso trabalhar com legado?](https://www.youtube.com/watch?v=rsrImSRavdQ)
 - [Pedi ao ChatGPT para criar um CRUD usando Quarkus. Deu certo?](https://www.youtube.com/watch?v=HCQe9LNxdGY)
 - [Como um dev backend pode vencer a falta de tempo pra estudar](https://www.youtube.com/watch?v=zTKq033Cj2k)
-- [Como estar entre os devs mais bem pagos do mercado usando Java no backend](https://www.youtube.com/watch?v=4046bUlm8d8)
 - [Quarkus já é usado por algumas dessas gigantes &lpar;você conhece ao menos uma delas&rpar;](https://www.youtube.com/watch?v=qL2qJwLVODk)
 <!-- YOUTUBE:END -->
 
