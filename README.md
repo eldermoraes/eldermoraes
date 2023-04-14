@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Sou dev backend e a empresa não tem plano de carreira. O que eu faço?](https://www.youtube.com/watch?v=xIW83DvyM7g)
 - [Como aprender tecnologias modernas se preciso trabalhar com legado?](https://www.youtube.com/watch?v=rsrImSRavdQ)
 - [Pedi ao ChatGPT para criar um CRUD usando Quarkus. Deu certo?](https://www.youtube.com/watch?v=HCQe9LNxdGY)
 - [Como um dev backend pode vencer a falta de tempo pra estudar](https://www.youtube.com/watch?v=zTKq033Cj2k)
 - [Quarkus já é usado por algumas dessas gigantes &lpar;você conhece ao menos uma delas&rpar;](https://www.youtube.com/watch?v=qL2qJwLVODk)
-- [Conheça a habilidade que mais traz resultados à sua carreira dev](https://www.youtube.com/watch?v=POOhzZ3ISzI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
