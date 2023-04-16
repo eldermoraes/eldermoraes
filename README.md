@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que é Kubernetes? Aprenda em 1 minuto.](https://www.youtube.com/watch?v=98TvsooqMc4)
 - [Dev backend precisa mesmo aprender a usar containers?](https://www.youtube.com/watch?v=5t5LmeMmUv8)
 - [Sou dev backend e a empresa não tem plano de carreira. O que eu faço?](https://www.youtube.com/watch?v=xIW83DvyM7g)
 - [Como aprender tecnologias modernas se preciso trabalhar com legado?](https://www.youtube.com/watch?v=rsrImSRavdQ)
 - [Pedi ao ChatGPT para criar um CRUD usando Quarkus. Deu certo?](https://www.youtube.com/watch?v=HCQe9LNxdGY)
-- [Como um dev backend pode vencer a falta de tempo pra estudar](https://www.youtube.com/watch?v=zTKq033Cj2k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
