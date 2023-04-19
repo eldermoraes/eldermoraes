@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como garantir a segurança do backend de sistemas legados](https://www.youtube.com/watch?v=CP6cog-K4so)
 - [Como um dev backend pode encontrar energia pra estudar apesar do dia corrido](https://www.youtube.com/watch?v=yYQfQ8W0hvQ)
 - [Como um dev backend descobre o que precisa estudar?](https://www.youtube.com/watch?v=y-lcA5Kp5KQ)
 - [O que é Kubernetes? Aprenda em 1 minuto.](https://www.youtube.com/watch?v=98TvsooqMc4)
 - [Dev backend precisa mesmo aprender a usar containers?](https://www.youtube.com/watch?v=5t5LmeMmUv8)
-- [Sou dev backend e a empresa não tem plano de carreira. O que eu faço?](https://www.youtube.com/watch?v=xIW83DvyM7g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
