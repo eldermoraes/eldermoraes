@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Projeto novo, tecnologias novas... como faço pra começar bem?](https://www.youtube.com/watch?v=LPdXWQYGE44)
 - [Qual a diferença entre Continuous Integration, Continuous Delivery e Continuous Deployment?](https://www.youtube.com/watch?v=-40M9ln4GLk)
 - [Será o fim dos monólitos? Microservices venceu de vez?](https://www.youtube.com/watch?v=D-6efRK2snw)
 - [Como garantir a segurança do backend de sistemas legados](https://www.youtube.com/watch?v=CP6cog-K4so)
 - [Como um dev backend pode encontrar energia pra estudar apesar do dia corrido](https://www.youtube.com/watch?v=yYQfQ8W0hvQ)
-- [Como um dev backend descobre o que precisa estudar?](https://www.youtube.com/watch?v=y-lcA5Kp5KQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
