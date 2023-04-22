@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Certificação Java ainda faz diferença na carreira do dev backend?](https://www.youtube.com/watch?v=6OJ2M9Hz2-0)
 - [Ganhar em dólar trabalhando remoto? Como ser competitivo? Dá pra trabalhar em uma empresa de renome?](https://www.youtube.com/watch?v=eS4WUSPgPJc)
 - [Projeto novo, tecnologias novas... como faço pra começar bem?](https://www.youtube.com/watch?v=LPdXWQYGE44)
 - [Qual a diferença entre Continuous Integration, Continuous Delivery e Continuous Deployment?](https://www.youtube.com/watch?v=-40M9ln4GLk)
 - [Será o fim dos monólitos? Microservices venceu de vez?](https://www.youtube.com/watch?v=D-6efRK2snw)
-- [Como garantir a segurança do backend de sistemas legados](https://www.youtube.com/watch?v=CP6cog-K4so)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
