@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que é um POD no Kubernetes?](https://www.youtube.com/watch?v=E8kAojbq2ps)
 - [JPA no Spring e no Jakarta EE: a revelação! :-&rpar;](https://www.youtube.com/watch?v=KvlpOZKf4NM)
 - [O que é over-engineering e como não deixar isso atrapalhar seus projetos](https://www.youtube.com/watch?v=-foRnbP8Vvg)
 - [Certificação Java ainda faz diferença na carreira do dev backend?](https://www.youtube.com/watch?v=6OJ2M9Hz2-0)
 - [Ganhar em dólar trabalhando remoto? Como ser competitivo? Dá pra trabalhar em uma empresa de renome?](https://www.youtube.com/watch?v=eS4WUSPgPJc)
-- [Projeto novo, tecnologias novas... como faço pra começar bem?](https://www.youtube.com/watch?v=LPdXWQYGE44)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
