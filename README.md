@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como devs podem utilizar o ChatGPT para aumentar sua produtividade](https://www.youtube.com/watch?v=-moxvqlcPA0)
 - [Entenda como o engajamento com comunidades opensource vai aumentar o seu salário como dev backend](https://www.youtube.com/watch?v=ugysN2JzVDg)
 - [O que é um POD no Kubernetes?](https://www.youtube.com/watch?v=E8kAojbq2ps)
 - [JPA no Spring e no Jakarta EE: a revelação! :-&rpar;](https://www.youtube.com/watch?v=KvlpOZKf4NM)
 - [O que é over-engineering e como não deixar isso atrapalhar seus projetos](https://www.youtube.com/watch?v=-foRnbP8Vvg)
-- [Certificação Java ainda faz diferença na carreira do dev backend?](https://www.youtube.com/watch?v=6OJ2M9Hz2-0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
