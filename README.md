@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que é mais importante pra um dev na gringa: inglês ou parte técnica?](https://www.youtube.com/watch?v=7sJDlZe5ZRs)
 - [Como devs podem utilizar o ChatGPT para aumentar sua produtividade](https://www.youtube.com/watch?v=-moxvqlcPA0)
 - [Entenda como o engajamento com comunidades opensource vai aumentar o seu salário como dev backend](https://www.youtube.com/watch?v=ugysN2JzVDg)
 - [O que é um POD no Kubernetes?](https://www.youtube.com/watch?v=E8kAojbq2ps)
 - [JPA no Spring e no Jakarta EE: a revelação! :-&rpar;](https://www.youtube.com/watch?v=KvlpOZKf4NM)
-- [O que é over-engineering e como não deixar isso atrapalhar seus projetos](https://www.youtube.com/watch?v=-foRnbP8Vvg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
