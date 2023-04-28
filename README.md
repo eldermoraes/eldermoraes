@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Melhores práticas para acesso a microservices remotos](https://www.youtube.com/watch?v=UZL0VWFDwxA)
 - [Descubra os segredos do uso de Java nativo na construção de aplicações de alta performance](https://www.youtube.com/watch?v=koHyt5Mlf_I)
 - [O que é mais importante pra um dev na gringa: inglês ou parte técnica?](https://www.youtube.com/watch?v=7sJDlZe5ZRs)
 - [Como devs podem utilizar o ChatGPT para aumentar sua produtividade](https://www.youtube.com/watch?v=-moxvqlcPA0)
 - [Entenda como o engajamento com comunidades opensource vai aumentar o seu salário como dev backend](https://www.youtube.com/watch?v=ugysN2JzVDg)
-- [O que é um POD no Kubernetes?](https://www.youtube.com/watch?v=E8kAojbq2ps)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
