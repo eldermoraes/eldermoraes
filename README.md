@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Não é aprender um monte de tecnologias que traz resultado. É isso aqui!](https://www.youtube.com/watch?v=c6zOwfDxgRI)
 - [Mais uma sacada do Kubernetes que muita gente não sabe](https://www.youtube.com/watch?v=ZKbxs9zROI4)
 - [Se te dizem que as melhores vagas só estão nos grandes centros, assista esse vídeo](https://www.youtube.com/watch?v=jp4U0BWBm4A)
 - [Como encontrar uma mentoria que faça sentido pra você](https://www.youtube.com/watch?v=yGFy46FV6W4)
 - [Melhores práticas para acesso a microservices remotos](https://www.youtube.com/watch?v=UZL0VWFDwxA)
-- [Descubra os segredos do uso de Java nativo na construção de aplicações de alta performance](https://www.youtube.com/watch?v=koHyt5Mlf_I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
