@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [É por isso que você não precisa que a sua faculdade seja alinhada ao mercado](https://www.youtube.com/watch?v=7gRNWBFWf-s)
 - [No mundo Java, dominar um framework é essencial para devs backend. Descubra o porque!](https://www.youtube.com/watch?v=jVTijO4c8XA)
 - [Não é aprender um monte de tecnologias que traz resultado. É isso aqui!](https://www.youtube.com/watch?v=c6zOwfDxgRI)
 - [Mais uma sacada do Kubernetes que muita gente não sabe](https://www.youtube.com/watch?v=ZKbxs9zROI4)
 - [Se te dizem que as melhores vagas só estão nos grandes centros, assista esse vídeo](https://www.youtube.com/watch?v=jp4U0BWBm4A)
-- [Como encontrar uma mentoria que faça sentido pra você](https://www.youtube.com/watch?v=yGFy46FV6W4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
