@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Você pensa que é difícil aprender Kubernetes, mas assim fica bem mais fácil](https://www.youtube.com/watch?v=M9j70kbCIAQ)
 - [Por que eu não recomendo que você use compilação nativa em todos os casos](https://www.youtube.com/watch?v=YS0Wi-Z05lE)
 - [Entenda os segredos para escalar transações entre microservices usando Java no backend](https://www.youtube.com/watch?v=ah3tCXgO6vI)
 - [Essa é pra você que precisa fazer transações entre microservices](https://www.youtube.com/watch?v=yaSrnhKof5g)
 - [É por isso que você não precisa que a sua faculdade seja alinhada ao mercado](https://www.youtube.com/watch?v=7gRNWBFWf-s)
-- [No mundo Java, dominar um framework é essencial para devs backend. Descubra o porque!](https://www.youtube.com/watch?v=jVTijO4c8XA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
