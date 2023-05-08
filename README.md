@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Quanto tempo leva para um dev virar senior](https://www.youtube.com/watch?v=XMA9RxKJvvE)
 - [Não há um equilíbrio real entre vida pessoal e profissional](https://www.youtube.com/watch?v=CCKI3pBc03Q)
 - [Você pensa que é difícil aprender Kubernetes, mas assim fica bem mais fácil](https://www.youtube.com/watch?v=M9j70kbCIAQ)
 - [Por que eu não recomendo que você use compilação nativa em todos os casos](https://www.youtube.com/watch?v=YS0Wi-Z05lE)
 - [Entenda os segredos para escalar transações entre microservices usando Java no backend](https://www.youtube.com/watch?v=ah3tCXgO6vI)
-- [Essa é pra você que precisa fazer transações entre microservices](https://www.youtube.com/watch?v=yaSrnhKof5g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
