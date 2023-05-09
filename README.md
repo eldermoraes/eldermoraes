@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Conheça meu livro - Jakarta EE Cookbook](https://www.youtube.com/watch?v=lVlm3EI7LJc)
 - [Quanto tempo leva para um dev virar senior](https://www.youtube.com/watch?v=XMA9RxKJvvE)
 - [Não há um equilíbrio real entre vida pessoal e profissional](https://www.youtube.com/watch?v=CCKI3pBc03Q)
 - [Você pensa que é difícil aprender Kubernetes, mas assim fica bem mais fácil](https://www.youtube.com/watch?v=M9j70kbCIAQ)
 - [Por que eu não recomendo que você use compilação nativa em todos os casos](https://www.youtube.com/watch?v=YS0Wi-Z05lE)
-- [Entenda os segredos para escalar transações entre microservices usando Java no backend](https://www.youtube.com/watch?v=ah3tCXgO6vI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
