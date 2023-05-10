@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Essa é pra você que precisa entender como o Java funciona na JVM](https://www.youtube.com/watch?v=WEERmvaw-6A)
 - [Entenda como Quarkus transformou o Java no backend e porque isso afeta a sua carreira](https://www.youtube.com/watch?v=c2E8R1GcX_8)
 - [Conheça meu livro - Jakarta EE Cookbook](https://www.youtube.com/watch?v=lVlm3EI7LJc)
 - [Quanto tempo leva para um dev virar senior](https://www.youtube.com/watch?v=XMA9RxKJvvE)
 - [Não há um equilíbrio real entre vida pessoal e profissional](https://www.youtube.com/watch?v=CCKI3pBc03Q)
-- [Você pensa que é difícil aprender Kubernetes, mas assim fica bem mais fácil](https://www.youtube.com/watch?v=M9j70kbCIAQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
