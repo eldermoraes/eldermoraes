@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Essa é pra você que precisa decidir se deveria usar Java em seu próximo projeto](https://www.youtube.com/watch?v=rU07kUZ7hH8)
 - [Se você já falhou ao priorizar a sua carreira, veja esse vídeo](https://www.youtube.com/watch?v=0uCfZe3vcrw)
 - [Essa é pra você que precisa entender como o Java funciona na JVM](https://www.youtube.com/watch?v=WEERmvaw-6A)
 - [Entenda como Quarkus transformou o Java no backend e porque isso afeta a sua carreira](https://www.youtube.com/watch?v=c2E8R1GcX_8)
 - [Conheça meu livro - Jakarta EE Cookbook](https://www.youtube.com/watch?v=lVlm3EI7LJc)
-- [Quanto tempo leva para um dev virar senior](https://www.youtube.com/watch?v=XMA9RxKJvvE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
