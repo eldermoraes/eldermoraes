@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Os segredos por trás da compilação nativa no Java](https://www.youtube.com/watch?v=g9R0psTOb_I)
 - [Um guia rápido sobre continuous integration](https://www.youtube.com/watch?v=ZAFbOgY_f-w)
 - [Mentoria para devs: o segredo para escalar os resultados da sua carreira](https://www.youtube.com/watch?v=O-3LjxNNK-Q)
 - [Essa é pra você que precisa decidir se deveria usar Java em seu próximo projeto](https://www.youtube.com/watch?v=rU07kUZ7hH8)
 - [Se você já falhou ao priorizar a sua carreira, veja esse vídeo](https://www.youtube.com/watch?v=0uCfZe3vcrw)
-- [Essa é pra você que precisa entender como o Java funciona na JVM](https://www.youtube.com/watch?v=WEERmvaw-6A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
