@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Se você quer saber o que é continuous delivery, veja esse vídeo](https://www.youtube.com/watch?v=DqJSZQVxctM)
 - [&quot;Não consigo rodar meu Java nativo no Google Cloud Run... o que fiz de errado?&quot;](https://www.youtube.com/watch?v=c4SyFrp_aD4)
 - [A verdade oculta sobre o foco na carreira dev](https://www.youtube.com/watch?v=B2SH886sXkI)
 - [Os segredos por trás da compilação nativa no Java](https://www.youtube.com/watch?v=g9R0psTOb_I)
 - [Um guia rápido sobre continuous integration](https://www.youtube.com/watch?v=ZAFbOgY_f-w)
-- [Mentoria para devs: o segredo para escalar os resultados da sua carreira](https://www.youtube.com/watch?v=O-3LjxNNK-Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
