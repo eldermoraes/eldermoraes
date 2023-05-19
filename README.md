@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Aquilo que não te contaram sobre a Amazon sair dos microservices e  ir para os monólitos](https://www.youtube.com/watch?v=LP3ouITGyFI)
 - [Entender isso fez toda diferença na minha carreira como dev backend](https://www.youtube.com/watch?v=qq7kJ2RSCQQ)
 - [A estratégia definitiva para o dev backend que não tem tempo para estudar](https://www.youtube.com/watch?v=baZNFgRjTsg)
 - [Assista esse vídeo se você quer saber como o Graal VM cria um executável nativo](https://www.youtube.com/watch?v=EE9E0hk-rGI)
 - [Se você quer saber o que é continuous delivery, veja esse vídeo](https://www.youtube.com/watch?v=DqJSZQVxctM)
-- [&quot;Não consigo rodar meu Java nativo no Google Cloud Run... o que fiz de errado?&quot;](https://www.youtube.com/watch?v=c4SyFrp_aD4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
