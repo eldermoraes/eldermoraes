@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que são comunidades de projetos opensource](https://www.youtube.com/watch?v=eh8okR119aU)
 - [O que é um JUG &lpar;Java User Group&rpar;?](https://www.youtube.com/watch?v=BcsU2ByK0Is)
 - [Uma sacada rápida sobre Continuous Deployment](https://www.youtube.com/watch?v=PGL5A0CCmAE)
 - [Você também precisa olhar para escalabilidade assim](https://www.youtube.com/watch?v=aSGPlwWonLQ)
 - [Os segredos por trás da observabilidade no Quarkus](https://www.youtube.com/watch?v=UKfCUSE30Ak)
-- [Aquilo que não te contaram sobre a Amazon sair dos microservices e  ir para os monólitos](https://www.youtube.com/watch?v=LP3ouITGyFI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
