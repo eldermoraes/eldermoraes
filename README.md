@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [&quot;Sendo dev, consigo dar aos meus filhos oportunidades que eu não tive?&quot;](https://www.youtube.com/watch?v=9xdum-bvN5c)
 - [A diferença entre uma uma aplicação Java na JVM e em modo nativo](https://www.youtube.com/watch?v=aPEInyhHu60)
 - [O que são comunidades de projetos opensource](https://www.youtube.com/watch?v=eh8okR119aU)
 - [O que é um JUG &lpar;Java User Group&rpar;?](https://www.youtube.com/watch?v=BcsU2ByK0Is)
 - [Uma sacada rápida sobre Continuous Deployment](https://www.youtube.com/watch?v=PGL5A0CCmAE)
-- [Você também precisa olhar para escalabilidade assim](https://www.youtube.com/watch?v=aSGPlwWonLQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
