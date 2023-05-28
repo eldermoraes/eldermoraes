@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que é um framework](https://www.youtube.com/watch?v=a1fZYINdNbg)
 - [Considere isso ao analisar a performance uma aplicação Java nativa](https://www.youtube.com/watch?v=ZjYQ-Gbs98Y)
 - [A maior desvantagem de usar microservices &lpar;e outras dúvidas de devs que usam Java no backend&rpar;](https://www.youtube.com/watch?v=fptWHZjXZOk)
 - [Essa é para os iniciantes que desejam contribuir com projetos opensource](https://www.youtube.com/watch?v=3dKOHVzt5Iw)
 - [Sou um impostor! E agora?](https://www.youtube.com/watch?v=taWLREIMsl8)
-- [&quot;Sendo dev, consigo dar aos meus filhos oportunidades que eu não tive?&quot;](https://www.youtube.com/watch?v=9xdum-bvN5c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
