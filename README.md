@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que são transações de compensação no Sagas Pattern?](https://www.youtube.com/watch?v=a99IACi9juk)
 - [&quot;Se compilação nativa é tão fantástica, porque não usamos pra tudo?&quot;](https://www.youtube.com/watch?v=T6sMnluf3_o)
 - [O que é um JUG &lpar;Java User Group&rpar;?](https://www.youtube.com/watch?v=oY_Evj1GEvw)
 - [O que é uma transação no contexto de sistemas backend](https://www.youtube.com/watch?v=ON4kE99cx98)
 - [O que é um framework](https://www.youtube.com/watch?v=a1fZYINdNbg)
-- [Considere isso ao analisar a performance uma aplicação Java nativa](https://www.youtube.com/watch?v=ZjYQ-Gbs98Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
