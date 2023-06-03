@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como funciona a coreografia de transação no contexto do Sagas Pattern](https://www.youtube.com/watch?v=f_iIaU2L_lc)
 - [O que faz um Developer Advocate? Saiba tudo sobre umas das profissões mais bem pagas do mundo dev](https://www.youtube.com/watch?v=XQEc9yJngE4)
 - [Orquestração de transações no contexto do Sagas Pattern](https://www.youtube.com/watch?v=6K2SQnqVWwI)
 - [Quarkus 3: tudo sobre a maior release do Java supersônico e subatômico](https://www.youtube.com/watch?v=nRNzgomxyIo)
 - [O que são transações de compensação no Sagas Pattern?](https://www.youtube.com/watch?v=a99IACi9juk)
-- [&quot;Se compilação nativa é tão fantástica, porque não usamos pra tudo?&quot;](https://www.youtube.com/watch?v=T6sMnluf3_o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
