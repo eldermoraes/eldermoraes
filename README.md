@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que é Quarkus e qual problema ele resolve](https://www.youtube.com/watch?v=JNrI39wqliA)
 - [O projeto open source que possui a melhor implementação do Sagas Pattern](https://www.youtube.com/watch?v=hyqPBgGTrPQ)
 - [Como funciona a coreografia de transação no contexto do Sagas Pattern](https://www.youtube.com/watch?v=f_iIaU2L_lc)
 - [O que faz um Developer Advocate? Saiba tudo sobre umas das profissões mais bem pagas do mundo dev](https://www.youtube.com/watch?v=XQEc9yJngE4)
 - [Orquestração de transações no contexto do Sagas Pattern](https://www.youtube.com/watch?v=6K2SQnqVWwI)
-- [Quarkus 3: tudo sobre a maior release do Java supersônico e subatômico](https://www.youtube.com/watch?v=nRNzgomxyIo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
