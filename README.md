@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A estratégia para criar o roadmap de estudos sob medida para a sua carreira](https://www.youtube.com/watch?v=ZtML2Epa5GY)
 - [O que é e como funciona uma mentoria para devs](https://www.youtube.com/watch?v=YJNIl76qWtQ)
 - [O que é Quarkus e qual problema ele resolve](https://www.youtube.com/watch?v=JNrI39wqliA)
 - [O projeto open source que possui a melhor implementação do Sagas Pattern](https://www.youtube.com/watch?v=hyqPBgGTrPQ)
 - [Como funciona a coreografia de transação no contexto do Sagas Pattern](https://www.youtube.com/watch?v=f_iIaU2L_lc)
-- [O que faz um Developer Advocate? Saiba tudo sobre umas das profissões mais bem pagas do mundo dev](https://www.youtube.com/watch?v=XQEc9yJngE4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
