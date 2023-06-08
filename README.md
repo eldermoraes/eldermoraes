@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A principal diferença entre mentoria e curso &lpar;pra ninguém errar mais nisso&rpar;](https://www.youtube.com/watch?v=wlV3baHNnLs)
 - [Onde o Quarkus se sobressai em relação a outros frameworks do mercado](https://www.youtube.com/watch?v=a14qNeh7vhw)
 - [A estratégia para criar o roadmap de estudos sob medida para a sua carreira](https://www.youtube.com/watch?v=ZtML2Epa5GY)
 - [O que é e como funciona uma mentoria para devs](https://www.youtube.com/watch?v=YJNIl76qWtQ)
 - [O que é Quarkus e qual problema ele resolve](https://www.youtube.com/watch?v=JNrI39wqliA)
-- [O projeto open source que possui a melhor implementação do Sagas Pattern](https://www.youtube.com/watch?v=hyqPBgGTrPQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
