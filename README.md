@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Essa foi a maior transformação causada pelo Docker na indústria de sofware](https://www.youtube.com/watch?v=fXkOg5up1hk)
-- [A principal diferença entre mentoria e curso &lpar;pra ninguém errar mais nisso&rpar;](https://www.youtube.com/watch?v=wlV3baHNnLs)
-- [Onde o Quarkus se sobressai em relação a outros frameworks do mercado](https://www.youtube.com/watch?v=a14qNeh7vhw)
-- [A estratégia para criar o roadmap de estudos sob medida para a sua carreira](https://www.youtube.com/watch?v=ZtML2Epa5GY)
-- [O que é e como funciona uma mentoria para devs](https://www.youtube.com/watch?v=YJNIl76qWtQ)
+- [Construa sua reputação com Java no backend e seja referência no mercado](https://www.youtube.com/watch?v=xaqjX93QKJI)
+- [A estratégia para acessar vagas que parecem estar acima do seu nível](https://www.youtube.com/watch?v=MpcgDgd01Uo)
+- [O caminho para uma carreira internacional usando Java no backend](https://www.youtube.com/watch?v=g7YY5LrMxok)
+- [Como contribuir em projetos open source para escalar seus resultados no backend](https://www.youtube.com/watch?v=IyRpAI_zBRc)
+- [Domine o backend com Java e torne-se especialista](https://www.youtube.com/watch?v=L6u7j4Os9ck)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
