@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Se sua carreira no backend é prioridade, você precisa fazer isso](https://www.youtube.com/watch?v=yw8kZg5Baws)
 - [Como funcionam as mentorias para devs](https://www.youtube.com/watch?v=jXev51hiMmA)
 - [Construa sua reputação com Java no backend e seja referência no mercado](https://www.youtube.com/watch?v=xaqjX93QKJI)
 - [A estratégia para acessar vagas que parecem estar acima do seu nível](https://www.youtube.com/watch?v=MpcgDgd01Uo)
 - [O caminho para uma carreira internacional usando Java no backend](https://www.youtube.com/watch?v=g7YY5LrMxok)
-- [Como contribuir em projetos open source para escalar seus resultados no backend](https://www.youtube.com/watch?v=IyRpAI_zBRc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
