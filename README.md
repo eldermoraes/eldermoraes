@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Domine o backend com Java e torne-se especialista](https://www.youtube.com/watch?v=L6u7j4Os9ck)
 - [Porque cada vez mais devs tem buscado mentoria](https://www.youtube.com/watch?v=P9gcGIiRujU)
 - [Se sua carreira no backend é prioridade, você precisa fazer isso](https://www.youtube.com/watch?v=yw8kZg5Baws)
 - [Como funcionam as mentorias para devs](https://www.youtube.com/watch?v=jXev51hiMmA)
 - [Construa sua reputação com Java no backend e seja referência no mercado](https://www.youtube.com/watch?v=xaqjX93QKJI)
-- [A estratégia para acessar vagas que parecem estar acima do seu nível](https://www.youtube.com/watch?v=MpcgDgd01Uo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
