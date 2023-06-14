@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como contribuir em projetos open source para escalar seus resultados no backend](https://www.youtube.com/watch?v=IyRpAI_zBRc)
 - [O que um dev precisa pra ser manter consistente nos estudos](https://www.youtube.com/watch?v=FoWwsInIKBc)
 - [O que é ser um dev backend bem pago?](https://www.youtube.com/watch?v=zwilMmE6WiY)
 - [O que é um dev backend bem pago?](https://www.youtube.com/watch?v=COOMmf_svPA)
 - [Domine o backend com Java e torne-se especialista](https://www.youtube.com/watch?v=L6u7j4Os9ck)
-- [Porque cada vez mais devs tem buscado mentoria](https://www.youtube.com/watch?v=P9gcGIiRujU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
