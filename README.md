@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Amazon saiu dos microservices e voltou aos monólitos? Entenda a verdade sobre isso](https://www.youtube.com/watch?v=UAN_nZJhdjc)
 - [O caminho para uma carreira internacional usando Java no backend](https://www.youtube.com/watch?v=g7YY5LrMxok)
 - [Os diferentes formatos de mentorias para devs](https://www.youtube.com/watch?v=7gL5Ed8fkGs)
 - [Como contribuir em projetos open source para escalar seus resultados no backend](https://www.youtube.com/watch?v=IyRpAI_zBRc)
 - [O que um dev precisa pra ser manter consistente nos estudos](https://www.youtube.com/watch?v=FoWwsInIKBc)
-- [O que é ser um dev backend bem pago?](https://www.youtube.com/watch?v=zwilMmE6WiY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
