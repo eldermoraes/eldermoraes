@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A ferramenta que fez minha carreira crescer 15 anos em 3](https://www.youtube.com/watch?v=zv9X-C6cCps)
 - [A estratégia para acessar vagas que parecem estar acima do seu nível](https://www.youtube.com/watch?v=MpcgDgd01Uo)
 - [A Amazon saiu dos microservices e voltou aos monólitos? Entenda a verdade sobre isso](https://www.youtube.com/watch?v=UAN_nZJhdjc)
 - [O caminho para uma carreira internacional usando Java no backend](https://www.youtube.com/watch?v=g7YY5LrMxok)
 - [Os diferentes formatos de mentorias para devs](https://www.youtube.com/watch?v=7gL5Ed8fkGs)
-- [Como contribuir em projetos open source para escalar seus resultados no backend](https://www.youtube.com/watch?v=IyRpAI_zBRc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
