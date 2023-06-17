@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Porque investir tempo para se envolver com comunidade de projetos open source](https://www.youtube.com/watch?v=M97S4g9TuoU)
+- [Porque investir tempo para se envolver com comunidade de projetos open source](https://www.youtube.com/watch?v=kX62FFkfADE)
 - [Construa sua reputação com Java no backend e seja referência no mercado](https://www.youtube.com/watch?v=xaqjX93QKJI)
 - [A ferramenta que fez minha carreira crescer 15 anos em 3](https://www.youtube.com/watch?v=zv9X-C6cCps)
 - [A estratégia para acessar vagas que parecem estar acima do seu nível](https://www.youtube.com/watch?v=MpcgDgd01Uo)
-- [A Amazon saiu dos microservices e voltou aos monólitos? Entenda a verdade sobre isso](https://www.youtube.com/watch?v=UAN_nZJhdjc)
-- [O caminho para uma carreira internacional usando Java no backend](https://www.youtube.com/watch?v=g7YY5LrMxok)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
