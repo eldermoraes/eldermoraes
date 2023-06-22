@@ -22,8 +22,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Os 3 pilares de carreira dos maiores devs backend do mundo | Aula #2](https://www.youtube.com/watch?v=NFTI4y2U0v4)
 - [As maiores dúvidas de quem quer ser bem pago usando Java no backend | Aula #3](https://www.youtube.com/watch?v=KTZecMwSBzo)
+- [Os 3 pilares de carreira dos maiores devs backend do mundo | Aula #2](https://www.youtube.com/watch?v=NFTI4y2U0v4)
 - [As 2 ciladas que atrapalham o caminho para ser bem pago usando Java no backend | Aula #1](https://www.youtube.com/watch?v=ex063SQp2YM)
 - [Porque investir tempo para se envolver com comunidade de projetos open source](https://www.youtube.com/watch?v=M97S4g9TuoU)
 - [Porque investir tempo para se envolver com comunidade de projetos open source](https://www.youtube.com/watch?v=kX62FFkfADE)
