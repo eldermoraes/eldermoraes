@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [As duas ferramentas pra quem quer fazer compilação nativa com Java](https://www.youtube.com/watch?v=eESw2POz6Rs)
 - [Porque investir tempo para se envolver com comunidade de projetos open source](https://www.youtube.com/watch?v=M97S4g9TuoU)
 - [Porque investir tempo para se envolver com comunidade de projetos open source](https://www.youtube.com/watch?v=kX62FFkfADE)
 - [Construa sua reputação com Java no backend e seja referência no mercado](https://www.youtube.com/watch?v=xaqjX93QKJI)
 - [A ferramenta que fez minha carreira crescer 15 anos em 3](https://www.youtube.com/watch?v=zv9X-C6cCps)
-- [A estratégia para acessar vagas que parecem estar acima do seu nível](https://www.youtube.com/watch?v=MpcgDgd01Uo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
