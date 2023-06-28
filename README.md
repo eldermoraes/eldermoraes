@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Descubra tudo sobre os Java Champions e o que você precisa pra ser um &lpar;ainda que não queira&rpar;](https://www.youtube.com/watch?v=q7a2G7f2SxA)
 - [Entenda como funciona o commit e o rollback em sistemas distribuídos](https://www.youtube.com/watch?v=PaOcDaD8YMw)
 - [Porque um dev backend deveria usar frameworks](https://www.youtube.com/watch?v=-AdHT7IpkAM)
 - [As duas ferramentas pra quem quer fazer compilação nativa com Java](https://www.youtube.com/watch?v=eESw2POz6Rs)
 - [Porque investir tempo para se envolver com comunidade de projetos open source](https://www.youtube.com/watch?v=M97S4g9TuoU)
-- [Porque investir tempo para se envolver com comunidade de projetos open source](https://www.youtube.com/watch?v=kX62FFkfADE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
