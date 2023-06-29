@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tudo o que você precisa saber antes de definir qual JDK usar no seu projeto](https://www.youtube.com/watch?v=ufb7h_LXHNs)
 - [Como comecei minha jornada no SouJava](https://www.youtube.com/watch?v=4bI_JN8GPFI)
 - [Descubra tudo sobre os Java Champions e o que você precisa pra ser um &lpar;ainda que não queira&rpar;](https://www.youtube.com/watch?v=q7a2G7f2SxA)
 - [Entenda como funciona o commit e o rollback em sistemas distribuídos](https://www.youtube.com/watch?v=PaOcDaD8YMw)
 - [Porque um dev backend deveria usar frameworks](https://www.youtube.com/watch?v=-AdHT7IpkAM)
-- [As duas ferramentas pra quem quer fazer compilação nativa com Java](https://www.youtube.com/watch?v=eESw2POz6Rs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
