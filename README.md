@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A prova de que as transações de compensação estão presentes no nosso dia-a-dia](https://www.youtube.com/watch?v=zT0AeP2Qpd8)
 - [Uso um framework ou faço na mão? Como tomar a decisão mais inteligente](https://www.youtube.com/watch?v=E4BWBhYPKTU)
 - [Tudo o que você precisa saber antes de definir qual JDK usar no seu projeto](https://www.youtube.com/watch?v=ufb7h_LXHNs)
 - [Como comecei minha jornada no SouJava](https://www.youtube.com/watch?v=4bI_JN8GPFI)
 - [Descubra tudo sobre os Java Champions e o que você precisa pra ser um &lpar;ainda que não queira&rpar;](https://www.youtube.com/watch?v=q7a2G7f2SxA)
-- [Entenda como funciona o commit e o rollback em sistemas distribuídos](https://www.youtube.com/watch?v=PaOcDaD8YMw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
