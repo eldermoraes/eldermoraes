@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Jakarta EE é coisa do passado?](https://www.youtube.com/watch?v=Bp1c987D5xY)
 - [Não cometa esse erro se deseja se envolver com comunidades open source](https://www.youtube.com/watch?v=iQavAZQ18MI)
 - [O que você precisa dominar se deseja usar Java no backend](https://www.youtube.com/watch?v=SV-jJ-uNDak)
 - [A estratégia para todo dev backend que deseja assumir o controle da sua próxima promoção](https://www.youtube.com/watch?v=eZ7qZ_-6riU)
 - [Descubra como o Jakarta EE definiu as bases do mundo Java atual](https://www.youtube.com/watch?v=mGJoGCjH0pU)
-- [A prova de que as transações de compensação estão presentes no nosso dia-a-dia](https://www.youtube.com/watch?v=zT0AeP2Qpd8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
