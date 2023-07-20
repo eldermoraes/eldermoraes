@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Entenda o design pattern Database per Service](https://www.youtube.com/watch?v=n48zaHq29eA)
 - [Afinal, o que é a síndrome do impostor?](https://www.youtube.com/watch?v=5MjrhOrCDHg)
 - [Aquilo que não te contam sobre certificação se você deseja ser bem pago usando Java no backend](https://www.youtube.com/watch?v=SRT9jDWO1To)
 - [O refactoring improvável da Amazon Prime Video](https://www.youtube.com/watch?v=RbIO7PAcCW0)
 - [Jakarta EE é coisa do passado?](https://www.youtube.com/watch?v=Bp1c987D5xY)
-- [Não cometa esse erro se deseja se envolver com comunidades open source](https://www.youtube.com/watch?v=iQavAZQ18MI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
