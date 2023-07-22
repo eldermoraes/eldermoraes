@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como a Síndrome do Impostor pode paralisar a sua carreira](https://www.youtube.com/watch?v=g1D4d5z1hmg)
 - [O maior erro que os devs cometem ao migrar para microservices](https://www.youtube.com/watch?v=bIn3e07Wouk)
 - [Como conciliar o open source com meus objetivos de carreira](https://www.youtube.com/watch?v=c3kI1DVWaWY)
 - [Entenda o propósito dos devs no mundo &lpar;se é que existe algum&rpar;](https://www.youtube.com/watch?v=4YuLG_n7eZw)
 - [Entenda o design pattern Database per Service](https://www.youtube.com/watch?v=n48zaHq29eA)
-- [Afinal, o que é a síndrome do impostor?](https://www.youtube.com/watch?v=5MjrhOrCDHg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
