@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Essa é a maior missão do dev backend](https://www.youtube.com/watch?v=UJ4XYwCRiUo)
 - [Tem dev que deixa de ser aprovado em muita vaga por causa disso](https://www.youtube.com/watch?v=x7FiKKXaE64)
-- [O maior dev em arquiteturas distribuídas no backend](https://www.youtube.com/watch?v=bSxWtpvYzQY)
+- [O maior erro em arquiteturas distribuídas no backend](https://www.youtube.com/watch?v=bSxWtpvYzQY)
 - [Como a Síndrome do Impostor pode paralisar a sua carreira](https://www.youtube.com/watch?v=g1D4d5z1hmg)
 - [O maior erro que os devs cometem ao migrar para microservices](https://www.youtube.com/watch?v=bIn3e07Wouk)
-- [Como conciliar o open source com meus objetivos de carreira](https://www.youtube.com/watch?v=c3kI1DVWaWY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
