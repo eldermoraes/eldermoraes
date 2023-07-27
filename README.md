@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O impacto do design de componentes na evolução do seu backend](https://www.youtube.com/watch?v=gF5rykKMxww)
 - [A maior sacada de carreira que aprendi com o Pearl Jam | Lições para devs que usam Java no backend](https://www.youtube.com/watch?v=n5vPu2DVraE)
 - [A estratégia infalível para vencer a Síndrome do Impostor](https://www.youtube.com/watch?v=nL-4ZLAbAJ4)
 - [Essa é a maior missão do dev backend](https://www.youtube.com/watch?v=UJ4XYwCRiUo)
 - [Tem dev que deixa de ser aprovado em muita vaga por causa disso](https://www.youtube.com/watch?v=x7FiKKXaE64)
-- [O maior erro em arquiteturas distribuídas no backend](https://www.youtube.com/watch?v=bSxWtpvYzQY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
