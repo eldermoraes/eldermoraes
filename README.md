@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Confira as principais mudanças do Quarkus 3](https://www.youtube.com/watch?v=RLrxmdceLp8)
 - [Quando é o momento de migrar do monólito para microservices?](https://www.youtube.com/watch?v=on1wVvLT1ec)
 - [Como ser bem pago trabalhando com suas tecnologias favoritas no backend](https://www.youtube.com/watch?v=fEACFq5QE5A)
 - [A sacada para devs que desejam enfrentar o medo de falar em público](https://www.youtube.com/watch?v=IoepuEf_86c)
 - [O impacto do design de componentes na evolução do seu backend](https://www.youtube.com/watch?v=gF5rykKMxww)
-- [A maior sacada de carreira que aprendi com o Pearl Jam | Lições para devs que usam Java no backend](https://www.youtube.com/watch?v=n5vPu2DVraE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
