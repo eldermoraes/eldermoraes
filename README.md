@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [4 lições aprendidas com um dos melhores times de engenharia de software do mundo](https://www.youtube.com/watch?v=NpPhaNnG3eI)
 - [Parece que você estuda e não aprende? Então assista esse vídeo | Como estudar tecnologias do backend](https://www.youtube.com/watch?v=wsx83MARf2E)
 - [Confira as principais mudanças do Quarkus 3](https://www.youtube.com/watch?v=RLrxmdceLp8)
 - [Quando é o momento de migrar do monólito para microservices?](https://www.youtube.com/watch?v=on1wVvLT1ec)
 - [Como ser bem pago trabalhando com suas tecnologias favoritas no backend](https://www.youtube.com/watch?v=fEACFq5QE5A)
-- [A sacada para devs que desejam enfrentar o medo de falar em público](https://www.youtube.com/watch?v=IoepuEf_86c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
