@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Qual a desvantagem do microservices em relação aos monólitos?](https://www.youtube.com/watch?v=NBpqHSfP8co)
 - [Java é difícil &lpar;?&rpar; | Mitos e verdade sobre a linguagem mais usada no mundo backend](https://www.youtube.com/watch?v=7NqhRdFJdaI)
 - [Suas maiores dúvidas sobre Java no Backend | Esquenta TDC Business](https://www.youtube.com/watch?v=BBfbV_8lucI)
 - [4 lições aprendidas com um dos melhores times de engenharia de software do mundo](https://www.youtube.com/watch?v=NpPhaNnG3eI)
 - [Parece que você estuda e não aprende? Então assista esse vídeo | Como estudar tecnologias do backend](https://www.youtube.com/watch?v=wsx83MARf2E)
-- [Confira as principais mudanças do Quarkus 3](https://www.youtube.com/watch?v=RLrxmdceLp8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
