@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que é um Developer Advocate? | Dúvidas de devs que usam Java no backend](https://www.youtube.com/watch?v=Z3OH1ZtB_eM)
 - [Os maiores ganhos de performance no Quarkus 3](https://www.youtube.com/watch?v=CznGgvO2g4Q)
 - [Suas maiores dúvidas sobre Java no Backend | Esquenta TDC Business](https://www.youtube.com/watch?v=BBfbV_8lucI)
 - [Qual a desvantagem do microservices em relação aos monólitos?](https://www.youtube.com/watch?v=NBpqHSfP8co)
 - [Java é difícil &lpar;?&rpar; | Mitos e verdade sobre a linguagem mais usada no mundo backend](https://www.youtube.com/watch?v=7NqhRdFJdaI)
-- [4 lições aprendidas com um dos melhores times de engenharia de software do mundo](https://www.youtube.com/watch?v=NpPhaNnG3eI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
