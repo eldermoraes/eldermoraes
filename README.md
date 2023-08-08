@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Os dois ingredientes indispensáveis pra lidar com o tédio na carreira](https://www.youtube.com/watch?v=993L81pq_W0)
 - [3 coisas que um dev backend precisa saber pra definir o que estudar](https://www.youtube.com/watch?v=xlSIHY48tk4)
 - [O que um dev backend precisa saber sobre escalabilidade?](https://www.youtube.com/watch?v=62mYjGdETQg)
 - [Como escolher o que estudar para ser um dev top no backend | O maior erro que muitos devs cometem](https://www.youtube.com/watch?v=LzeyY_A8P1w)
 - [O que é um Developer Advocate? | Dúvidas de devs que usam Java no backend](https://www.youtube.com/watch?v=Z3OH1ZtB_eM)
-- [Os maiores ganhos de performance no Quarkus 3](https://www.youtube.com/watch?v=CznGgvO2g4Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
