@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Qual o benefício para um dev que é visto como especialista?](https://www.youtube.com/watch?v=emDxyc_yCto)
-- [Você é especialista? O que precisa para ser um especialista usando Java no backend?](https://www.youtube.com/watch?v=oIhnQ7bHMIw)
-- [O que significa ser um especialista em Java?](https://www.youtube.com/watch?v=eGBHwQiotPE)
-- [Os dois ingredientes indispensáveis pra lidar com o tédio na carreira](https://www.youtube.com/watch?v=993L81pq_W0)
-- [3 coisas que um dev backend precisa saber pra definir o que estudar](https://www.youtube.com/watch?v=xlSIHY48tk4)
+- [Os segredos de carreira e comunidade para quem usa Java no backend](https://www.youtube.com/watch?v=jSkN3HoL4ns)
+- [Os segredos de mentoria para quem usa Java no backend](https://www.youtube.com/watch?v=hPgNUDGFS8g)
+- [Os segredos da persistência de dados para quem usa Java no backend, c/ Otávio Santana](https://www.youtube.com/watch?v=GmRZfl7fmok)
+- [Os segredos da estrutura de dados para quem usa Java no backend, c/ Professor Isidro](https://www.youtube.com/watch?v=V_y_gFjMGEs)
+- [Os segredos para ser uma referência técnica usando Java no backend](https://www.youtube.com/watch?v=NCYMAlziIVU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
