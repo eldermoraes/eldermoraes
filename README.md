@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Qual o benefício para um dev que é visto como especialista?](https://www.youtube.com/watch?v=emDxyc_yCto)
 - [Você é especialista? O que precisa para ser um especialista usando Java no backend?](https://www.youtube.com/watch?v=oIhnQ7bHMIw)
 - [O que significa ser um especialista em Java?](https://www.youtube.com/watch?v=eGBHwQiotPE)
 - [Os dois ingredientes indispensáveis pra lidar com o tédio na carreira](https://www.youtube.com/watch?v=993L81pq_W0)
 - [3 coisas que um dev backend precisa saber pra definir o que estudar](https://www.youtube.com/watch?v=xlSIHY48tk4)
-- [O que um dev backend precisa saber sobre escalabilidade?](https://www.youtube.com/watch?v=62mYjGdETQg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
