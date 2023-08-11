@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Porque focar no backend e não ser full stack?](https://www.youtube.com/watch?v=AtYzKkLfnwY)
 - [Os segredos de carreira e comunidade para quem usa Java no backend](https://www.youtube.com/watch?v=jSkN3HoL4ns)
 - [Os segredos de mentoria para quem usa Java no backend](https://www.youtube.com/watch?v=hPgNUDGFS8g)
 - [Os segredos da persistência de dados para quem usa Java no backend, c/ Otávio Santana](https://www.youtube.com/watch?v=GmRZfl7fmok)
 - [Os segredos da estrutura de dados para quem usa Java no backend, c/ Professor Isidro](https://www.youtube.com/watch?v=V_y_gFjMGEs)
-- [Os segredos para ser uma referência técnica usando Java no backend](https://www.youtube.com/watch?v=NCYMAlziIVU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
