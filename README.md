@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A estratégia para você construir motivação durante o aprendizado](https://www.youtube.com/watch?v=EXhzBogf_Aw)
 - [Os segredos para ser uma referência técnica usando Java no backend](https://www.youtube.com/watch?v=NCYMAlziIVU)
 - [O caminho para ser reconhecido como especialista em Java no backend](https://www.youtube.com/watch?v=8OdknUPkBf8)
 - [Porque focar no backend e não ser full stack?](https://www.youtube.com/watch?v=AtYzKkLfnwY)
 - [Os segredos de carreira e comunidade para quem usa Java no backend](https://www.youtube.com/watch?v=jSkN3HoL4ns)
-- [Os segredos de mentoria para quem usa Java no backend](https://www.youtube.com/watch?v=hPgNUDGFS8g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
