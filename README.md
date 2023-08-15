@@ -24,9 +24,9 @@
 <!-- YOUTUBE:START -->
 - [A estratégia para você construir motivação durante o aprendizado](https://www.youtube.com/watch?v=EXhzBogf_Aw)
 - [Os segredos para ser uma referência técnica usando Java no backend](https://www.youtube.com/watch?v=NCYMAlziIVU)
-- [O caminho para ser reconhecido como especialista em Java no backend](https://www.youtube.com/watch?v=8OdknUPkBf8)
-- [Porque focar no backend e não ser full stack?](https://www.youtube.com/watch?v=AtYzKkLfnwY)
-- [Os segredos de carreira e comunidade para quem usa Java no backend](https://www.youtube.com/watch?v=jSkN3HoL4ns)
+- [As principais dúvidas de quem quer fazer acima de 18k/mês usando Java no backend](https://www.youtube.com/watch?v=N8yJJ2QlaPc)
+- [Os 3 pilares de carreira dos devs mais bem pagos do mundo backend](https://www.youtube.com/watch?v=J6dpzRb0XUk)
+- [As 2 ciladas que atrapalham a rota para fazer acima de 18k/mês usando Java no backend](https://www.youtube.com/watch?v=OtYuTOkksm0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
