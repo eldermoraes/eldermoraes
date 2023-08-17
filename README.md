@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Os segredos da persistência de dados para quem usa Java no backend, c/ Otávio Santana](https://www.youtube.com/watch?v=GmRZfl7fmok)
 - [Este é o maior benefício de se envolver em projetos open source](https://www.youtube.com/watch?v=ariNS7udPUg)
 - [Os segredos da estrutura de dados para quem usa Java no backend, c/ Professor Isidro](https://www.youtube.com/watch?v=V_y_gFjMGEs)
 - [A estratégia para você construir motivação durante o aprendizado](https://www.youtube.com/watch?v=EXhzBogf_Aw)
 - [Os segredos para ser uma referência técnica usando Java no backend](https://www.youtube.com/watch?v=NCYMAlziIVU)
-- [As principais dúvidas de quem quer fazer acima de 18k/mês usando Java no backend](https://www.youtube.com/watch?v=N8yJJ2QlaPc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
