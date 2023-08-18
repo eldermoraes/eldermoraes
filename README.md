@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [&quot;Esta vaga está acima do meu nível&quot;... será?](https://www.youtube.com/watch?v=Xd1ka5hZ49g)
 - [Os segredos de mentoria para quem usa Java no backend](https://www.youtube.com/watch?v=hPgNUDGFS8g)
 - [Preciso sair do país para construir uma carreira internacional no backend?](https://www.youtube.com/watch?v=hd6LQ52vlu0)
 - [Os segredos da persistência de dados para quem usa Java no backend, c/ Otávio Santana](https://www.youtube.com/watch?v=GmRZfl7fmok)
 - [Este é o maior benefício de se envolver em projetos open source](https://www.youtube.com/watch?v=ariNS7udPUg)
-- [Os segredos da estrutura de dados para quem usa Java no backend, c/ Professor Isidro](https://www.youtube.com/watch?v=V_y_gFjMGEs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
