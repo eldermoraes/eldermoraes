@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Quais as vantagens de uma carreira internacional pra quem usa Java no backend](https://www.youtube.com/watch?v=WKKdZQ1iNtA)
 - [Qual a vantagem do open source sobre o código proprietário?](https://www.youtube.com/watch?v=6xurThOfmSg)
 - [Os segredos de carreira e comunidade para quem usa Java no backend, com Bruno Souza](https://www.youtube.com/watch?v=jSkN3HoL4ns)
 - [&quot;Esta vaga está acima do meu nível&quot;... será?](https://www.youtube.com/watch?v=Xd1ka5hZ49g)
 - [Os segredos de mentoria para quem usa Java no backend](https://www.youtube.com/watch?v=hPgNUDGFS8g)
-- [Preciso sair do país para construir uma carreira internacional no backend?](https://www.youtube.com/watch?v=hd6LQ52vlu0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
