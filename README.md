@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Não cometa esse erro quando iniciar sua jornada no open source](https://www.youtube.com/watch?v=1wEwBZrgo3A)
 - [Não se intimide pela lista de tecnologias que algumas vagas exigem](https://www.youtube.com/watch?v=0awcvTtW3nY)
 - [Quais as vantagens de uma carreira internacional pra quem usa Java no backend](https://www.youtube.com/watch?v=WKKdZQ1iNtA)
 - [Qual a vantagem do open source sobre o código proprietário?](https://www.youtube.com/watch?v=6xurThOfmSg)
 - [Os segredos de carreira e comunidade para quem usa Java no backend, com Bruno Souza](https://www.youtube.com/watch?v=jSkN3HoL4ns)
-- [&quot;Esta vaga está acima do meu nível&quot;... será?](https://www.youtube.com/watch?v=Xd1ka5hZ49g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
