@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Preciso de inglês fluente para ter uma carreira internacional no backend?](https://www.youtube.com/watch?v=07OBNy5PYk0)
 - [As 2 ciladas que atrapalham a rota para fazer acima de 18k/mês usando Java no backend](https://www.youtube.com/watch?v=OtYuTOkksm0)
 - [Não cometa esse erro quando iniciar sua jornada no open source](https://www.youtube.com/watch?v=1wEwBZrgo3A)
 - [Não se intimide pela lista de tecnologias que algumas vagas exigem](https://www.youtube.com/watch?v=0awcvTtW3nY)
 - [Quais as vantagens de uma carreira internacional pra quem usa Java no backend](https://www.youtube.com/watch?v=WKKdZQ1iNtA)
-- [Qual a vantagem do open source sobre o código proprietário?](https://www.youtube.com/watch?v=6xurThOfmSg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
