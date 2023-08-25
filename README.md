@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A melhor estratégia para iniciar a contribuição com open source](https://www.youtube.com/watch?v=GP0xeeeL0fo)
 - [As principais dúvidas de quem quer fazer acima de 18k/mês usando Java no backend](https://www.youtube.com/watch?v=N8yJJ2QlaPc)
 - [Foi aí que eu entendi como funciona a seleção para as melhores vagas do mercado](https://www.youtube.com/watch?v=BkP8_MneA84)
 - [Os 3 pilares de carreira dos devs mais bem pagos do mundo backend](https://www.youtube.com/watch?v=J6dpzRb0XUk)
 - [Preciso de inglês fluente para ter uma carreira internacional no backend?](https://www.youtube.com/watch?v=07OBNy5PYk0)
-- [As 2 ciladas que atrapalham a rota para fazer acima de 18k/mês usando Java no backend](https://www.youtube.com/watch?v=OtYuTOkksm0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
