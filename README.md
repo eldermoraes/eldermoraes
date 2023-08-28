@@ -25,8 +25,8 @@
 - [Escolhi um projeto open source: como começo a contribuir?](https://www.youtube.com/watch?v=rTX7sU3YgRg)
 - [Como eu aprendi inglês mesmo sem ter tido acesso a cursos na infância/juventude](https://www.youtube.com/watch?v=UpNHZ9Hr9Sg)
 - [A melhor estratégia para iniciar a contribuição com open source](https://www.youtube.com/watch?v=GP0xeeeL0fo)
-- [As principais dúvidas de quem quer fazer acima de 18k/mês usando Java no backend](https://www.youtube.com/watch?v=N8yJJ2QlaPc)
 - [Foi aí que eu entendi como funciona a seleção para as melhores vagas do mercado](https://www.youtube.com/watch?v=BkP8_MneA84)
+- [Preciso de inglês fluente para ter uma carreira internacional no backend?](https://www.youtube.com/watch?v=07OBNy5PYk0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
