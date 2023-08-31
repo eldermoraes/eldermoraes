@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como o Dev Services do Quarkus facilita o acesso local a recursos como Kubernetes e bancos de dados](https://www.youtube.com/watch?v=6aJA1ZWOKDw)
 - [A estratégia pra delimitar as tecnologias de backend que você precisa estudar](https://www.youtube.com/watch?v=g8qBlOxt9mg)
 - [Diferenças entre Developer Advocate e Evangelista](https://www.youtube.com/watch?v=2tGKUTh933A)
 - [Como criar oportunidades para aplicar meus estudos na prática](https://www.youtube.com/watch?v=gNhKSVCOfuE)
 - [Escolhi um projeto open source: como começo a contribuir?](https://www.youtube.com/watch?v=rTX7sU3YgRg)
-- [Como eu aprendi inglês mesmo sem ter tido acesso a cursos na infância/juventude](https://www.youtube.com/watch?v=UpNHZ9Hr9Sg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
