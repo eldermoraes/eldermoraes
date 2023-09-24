@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que a reputação de um dev backend tem a ver com a sua carreira | Feat. Bruno Souza](https://www.youtube.com/watch?v=teTTU5CmsOg)
 - [Fui aprovado pra uma vaga como dev, mas não me sinto pronto pra ela...](https://www.youtube.com/watch?v=AKcCwCU5ryA)
 - [Como foi a minha transição para a carreira de Developer Advocate](https://www.youtube.com/watch?v=kaknD-OXk9s)
 - [Pense nisso se deseja considerar a carreira de Developer Advocate](https://www.youtube.com/watch?v=4qquqAE-5Cs)
 - [Que vantagens um dev leva em se tornar um Developer Advocate?](https://www.youtube.com/watch?v=RnbTDuWK3wI)
-- [Como o Dev Services do Quarkus facilita o acesso local a recursos como Kubernetes e bancos de dados](https://www.youtube.com/watch?v=6aJA1ZWOKDw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
