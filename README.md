@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que é Jakarta EE?](https://www.youtube.com/watch?v=Y26srCFC6BQ)
 - [Entenda o maior erro que devs cometem na participação de eventos técnicos](https://www.youtube.com/watch?v=BXoOcjPhMAM)
 - [Qual JDK os devs Java deveriam usar?](https://www.youtube.com/watch?v=lamO3Eglk7w)
 - [Java a cada 6 meses: a maior sacada que todo dev backend pode aplicar para se diferenciar no mercado](https://www.youtube.com/watch?v=aIEFIBWKsBE)
 - [5 requisitos para se tornar um Java Champion](https://www.youtube.com/watch?v=Xjp1pqoZWhQ)
-- [O que a reputação de um dev backend tem a ver com a sua carreira | Feat. Bruno Souza](https://www.youtube.com/watch?v=teTTU5CmsOg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
