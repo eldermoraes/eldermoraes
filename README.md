@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, talvez seja por isso que a sua promoção ainda não aconteceu](https://www.youtube.com/watch?v=U948WYpb6TY)
 - [Essa é a história do Jakarta EE &lpar;antigo J2EE e Java EE&rpar;](https://www.youtube.com/watch?v=iFsyrJiNft8)
 - [Esses são alguns cuidados que todo dev precisa ter na hora de escolher um JDK](https://www.youtube.com/watch?v=LiMF7WWRTaU)
 - [O que acontece com um dev que se torna Java Champion?](https://www.youtube.com/watch?v=bqeRpCGAcaI)
 - [Qual o benefício para um dev em ser referência no mercado?](https://www.youtube.com/watch?v=pJueaUeRfCs)
-- [O que é Jakarta EE?](https://www.youtube.com/watch?v=Y26srCFC6BQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
