@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Os 3 pilares do Graal VM que vão levar seu backend para outro nível](https://www.youtube.com/watch?v=FRqLRlaDULM)
 - [Os dois melhores momentos para um dev se aprofundar nos fundamentos do Java](https://www.youtube.com/watch?v=e4WbJZ740q0)
 - [4 design patterns que o Quarkus implementa de graça pra você](https://www.youtube.com/watch?v=2x33SP5Ewyg)
 - [Dev, talvez seja por isso que a sua promoção ainda não aconteceu](https://www.youtube.com/watch?v=U948WYpb6TY)
 - [Essa é a história do Jakarta EE &lpar;antigo J2EE e Java EE&rpar;](https://www.youtube.com/watch?v=iFsyrJiNft8)
-- [Esses são alguns cuidados que todo dev precisa ter na hora de escolher um JDK](https://www.youtube.com/watch?v=LiMF7WWRTaU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
