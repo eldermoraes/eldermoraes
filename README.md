@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como usar Chaos Engineering para construir microservices resilientes](https://www.youtube.com/watch?v=RreiNR0psuY)
+- [Preciso ser palestrante pra me tornar Java Champion?](https://www.youtube.com/watch?v=JOBqMVHdrtU)
 - [Não cometa esse erro quando estiver construindo sua reputação como dev backend](https://www.youtube.com/watch?v=dr5Jv-rPSTw)
 - [Como usar o princípio FIRST para testar o seu backend do jeito certo](https://www.youtube.com/watch?v=LcNtZyFHOTs)
 - [Os 3 pilares do Graal VM que vão levar seu backend para outro nível](https://www.youtube.com/watch?v=FRqLRlaDULM)
-- [Os dois melhores momentos para um dev se aprofundar nos fundamentos do Java](https://www.youtube.com/watch?v=e4WbJZ740q0)
-- [4 design patterns que o Quarkus implementa de graça pra você](https://www.youtube.com/watch?v=2x33SP5Ewyg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
