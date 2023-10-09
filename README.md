@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [4 fundamentos que todo dev Java tem que dominar](https://www.youtube.com/watch?v=AJs2jS1r_1o)
 - [Há um momento ideal para o dev começar a construir a sua próxima promoção](https://www.youtube.com/watch?v=Tn-pxzagoZk)
 - [Esta é a principal diferença entre o Spring e o Jakarta EE](https://www.youtube.com/watch?v=Z2B5OOCXh_k)
 - [Esse é o maior cuidado que você deve tomar ao escolher um JDK](https://www.youtube.com/watch?v=lwBrYXFLabo)
 - [Como usar Chaos Engineering para construir microservices resilientes](https://www.youtube.com/watch?v=RreiNR0psuY)
-- [Preciso ser palestrante pra me tornar Java Champion?](https://www.youtube.com/watch?v=JOBqMVHdrtU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
