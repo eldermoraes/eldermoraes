@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Aula #3 - Masterclass &quot;Do monólito ao microservice&quot;](https://www.youtube.com/watch?v=RR5iEPtA1PI)
 - [Aula #2 - Masterclass &quot;Do monólito ao microservice&quot;](https://www.youtube.com/watch?v=K1ae3cHoX9o)
 - [Aula #1 - Masterclass &quot;Do monólito ao microservice&quot;](https://www.youtube.com/watch?v=Mko81CP50gs)
 - [O que os devs podem fazer hoje mesmo pra iniciar o caminho de se tornar uma referência](https://www.youtube.com/watch?v=LMvEBRrp18U)
 - [4 fundamentos que todo dev Java tem que dominar](https://www.youtube.com/watch?v=AJs2jS1r_1o)
-- [Há um momento ideal para o dev começar a construir a sua próxima promoção](https://www.youtube.com/watch?v=Tn-pxzagoZk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
