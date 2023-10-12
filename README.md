@@ -22,9 +22,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Aula #4 - Masterclass &quot;Do monólito ao microservice&quot;](https://www.youtube.com/watch?v=OK26IJCIlyc)
 - [Pense nisso ao escolher uma imagem para usar Java em containers](https://www.youtube.com/watch?v=lkGfOUPbecg)
 - [Como é o processo de nomeação de um Java Champion](https://www.youtube.com/watch?v=7noMT6MVJws)
-- [Aula #4 - Masterclass &quot;Do monólito ao microservice&quot;](https://www.youtube.com/watch?v=OK26IJCIlyc)
 - [Aula #3 - Masterclass &quot;Do monólito ao microservice&quot;](https://www.youtube.com/watch?v=RR5iEPtA1PI)
 - [Aula #2 - Masterclass &quot;Do monólito ao microservice&quot;](https://www.youtube.com/watch?v=K1ae3cHoX9o)
 <!-- YOUTUBE:END -->
