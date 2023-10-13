@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Este é o maior benefício que o Jakarta EE traz para devs que usam Java no backend](https://www.youtube.com/watch?v=spff3p00X44)
 - [Aula #5 - Masterclass &quot;Do monólito ao microservice&quot;](https://www.youtube.com/watch?v=VTQvHTArBC0)
 - [Aula #4 - Masterclass &quot;Do monólito ao microservice&quot;](https://www.youtube.com/watch?v=OK26IJCIlyc)
 - [Pense nisso ao escolher uma imagem para usar Java em containers](https://www.youtube.com/watch?v=lkGfOUPbecg)
 - [Como é o processo de nomeação de um Java Champion](https://www.youtube.com/watch?v=7noMT6MVJws)
-- [Aula #3 - Masterclass &quot;Do monólito ao microservice&quot;](https://www.youtube.com/watch?v=RR5iEPtA1PI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
