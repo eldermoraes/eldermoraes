@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Porque usar um framework Java no backend é mais produtivo](https://www.youtube.com/watch?v=EZDfqYR2Ntk)
 - [Qual o principal motivo para um dev buscar se tornar Java Champion](https://www.youtube.com/watch?v=xLFVao5GINg)
 - [Entenda o seu propósito como dev](https://www.youtube.com/watch?v=pEYCy1praAo)
 - [Entenda como funcionam as certificações do Java](https://www.youtube.com/watch?v=P5EpSn5Ei2k)
 - [Essa ferramenta ajuda todo dev a acelerar o caminho da próxima promoção](https://www.youtube.com/watch?v=U85XfH_YSjw)
-- [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=N2EQoTAuTe4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
