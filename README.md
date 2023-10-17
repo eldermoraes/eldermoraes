@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Entenda o seu propósito como dev](https://www.youtube.com/watch?v=pEYCy1praAo)
 - [Entenda como funcionam as certificações do Java](https://www.youtube.com/watch?v=P5EpSn5Ei2k)
 - [Essa ferramenta ajuda todo dev a acelerar o caminho da próxima promoção](https://www.youtube.com/watch?v=U85XfH_YSjw)
 - [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=N2EQoTAuTe4)
 - [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend, e como eles chegaram lá](https://www.youtube.com/watch?v=wIU_c2pOaus)
-- [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=UO88J5RgxTU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
