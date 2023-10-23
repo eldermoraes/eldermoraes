@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=N2EQoTAuTe4)
 - [Afinal, o que é um Java Champion?](https://www.youtube.com/watch?v=byUISsFB_vc)
 - [Entenda o seu impacto como dev no mundo atual](https://www.youtube.com/watch?v=vez5d1LL658)
 - [Qual o impacto de uma certificação Java para um dev backend](https://www.youtube.com/watch?v=UE3T57ACJcQ)
-- [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend, e como eles chegaram lá](https://www.youtube.com/watch?v=wIU_c2pOaus)
+- [Porque usar um framework Java no backend é mais produtivo](https://www.youtube.com/watch?v=EZDfqYR2Ntk)
+- [Qual o principal motivo para um dev buscar se tornar Java Champion](https://www.youtube.com/watch?v=xLFVao5GINg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
