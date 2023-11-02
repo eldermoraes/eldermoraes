@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Descubra o momento ideal para tirar uma certificação Java](https://www.youtube.com/watch?v=mnwI0LgZOpA)
 - [Não cometa esse erro em relação ao Jakarta EE](https://www.youtube.com/watch?v=p5-xssb7TBA)
 - [O que precisa acontecer para alguém se tornar Java Champion?](https://www.youtube.com/watch?v=XQMZ7iaKh3c)
 - [ELE ESTÁ FORMANDO A NOVA GERAÇÃO DE DEVS JAVA | JAVA CHAMPIONS BRASUCAS C/ PROF ISIDRO | EP #20](https://www.youtube.com/watch?v=JteKJubluAY)
 - [Afinal, o que é um Java Champion?](https://www.youtube.com/watch?v=byUISsFB_vc)
-- [Entenda o seu impacto como dev no mundo atual](https://www.youtube.com/watch?v=vez5d1LL658)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
