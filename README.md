@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como funcionam as threads no Java #java #backend #desenvolvedores](https://www.youtube.com/watch?v=p9_yCth1O3w)
 - [O que todo dev pode aprender com o Pearl Jam](https://www.youtube.com/watch?v=Xa7gUsA-1s0)
 - [Descubra o momento ideal para tirar uma certificação Java](https://www.youtube.com/watch?v=mnwI0LgZOpA)
 - [Não cometa esse erro em relação ao Jakarta EE](https://www.youtube.com/watch?v=p5-xssb7TBA)
 - [O que precisa acontecer para alguém se tornar Java Champion?](https://www.youtube.com/watch?v=XQMZ7iaKh3c)
-- [ELE ESTÁ FORMANDO A NOVA GERAÇÃO DE DEVS JAVA | JAVA CHAMPIONS BRASUCAS C/ PROF ISIDRO | EP #20](https://www.youtube.com/watch?v=JteKJubluAY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
