@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Fico na estabilidade ou saio pra ganhar mais? #developer #backend #java](https://www.youtube.com/watch?v=bQvypGpVPZs)
 - [Se aprender em uma, aprende em todas #cloudcomputing #developer #backend](https://www.youtube.com/watch?v=ktYrPa6IL0Y)
 - [A sacada mais importante para construir imagens de containers #dev #backend #docker](https://www.youtube.com/watch?v=wGrS9hHiMHI)
 - [O que esperar do #java em 2024 #dev #carreira #backend](https://www.youtube.com/watch?v=WSSgAIPtp44)
 - [Como funcionam as threads no Java #java #backend #desenvolvedores](https://www.youtube.com/watch?v=p9_yCth1O3w)
-- [O que todo dev pode aprender com o Pearl Jam](https://www.youtube.com/watch?v=Xa7gUsA-1s0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
