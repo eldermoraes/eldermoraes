@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Aprenda o jeito mais simples de implementar um circuit breaker usando Quarkus](https://www.youtube.com/watch?v=6weupcuOfh0)
 - [IA vai tomar lugar dos #devs? #java #developer #carreira](https://www.youtube.com/watch?v=6zMp_UavRG8)
 - [Fico na estabilidade ou saio pra ganhar mais? #developer #backend #java](https://www.youtube.com/watch?v=bQvypGpVPZs)
 - [Se aprender em uma, aprende em todas #cloudcomputing #developer #backend](https://www.youtube.com/watch?v=ktYrPa6IL0Y)
 - [A sacada mais importante para construir imagens de containers #dev #backend #docker](https://www.youtube.com/watch?v=wGrS9hHiMHI)
-- [O que esperar do #java em 2024 #dev #carreira #backend](https://www.youtube.com/watch?v=WSSgAIPtp44)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
