@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O MAIOR ESPECIALISTA EM TESTES DO MUNDO JAVA | JAVA CHAMPIONS BRASUCAS C/ ELIAS NOGUEIRA | EP #21](https://www.youtube.com/watch?v=aR3F8lDMXFY)
 - [Aprenda o jeito mais simples de implementar um circuit breaker usando Quarkus](https://www.youtube.com/watch?v=6weupcuOfh0)
 - [IA vai tomar lugar dos #devs? #java #developer #carreira](https://www.youtube.com/watch?v=6zMp_UavRG8)
 - [Fico na estabilidade ou saio pra ganhar mais? #developer #backend #java](https://www.youtube.com/watch?v=bQvypGpVPZs)
 - [Se aprender em uma, aprende em todas #cloudcomputing #developer #backend](https://www.youtube.com/watch?v=ktYrPa6IL0Y)
-- [A sacada mais importante para construir imagens de containers #dev #backend #docker](https://www.youtube.com/watch?v=wGrS9hHiMHI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
