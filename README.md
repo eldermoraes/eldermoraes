@@ -22,9 +22,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O MAIOR ESPECIALISTA EM TESTES DO MUNDO JAVA | JAVA CHAMPIONS BRASUCAS C/ ELIAS NOGUEIRA | EP #21](https://www.youtube.com/watch?v=aR3F8lDMXFY)
 - [Dev: você é teimoso ou persistente?](https://www.youtube.com/watch?v=XFfj88vzWwU)
 - [Descubra os 5 passos que simplificam a carreira dos devs que usam Java no backend](https://www.youtube.com/watch?v=kJrxwWo2Tfg)
-- [O MAIOR ESPECIALISTA EM TESTES DO MUNDO JAVA | JAVA CHAMPIONS BRASUCAS C/ ELIAS NOGUEIRA | EP #21](https://www.youtube.com/watch?v=aR3F8lDMXFY)
 - [Aprenda o jeito mais simples de implementar um circuit breaker usando Quarkus](https://www.youtube.com/watch?v=6weupcuOfh0)
 - [IA vai tomar lugar dos #devs? #java #developer #carreira](https://www.youtube.com/watch?v=6zMp_UavRG8)
 <!-- YOUTUBE:END -->
