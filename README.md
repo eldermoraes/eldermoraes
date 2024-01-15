@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [7 pilares para ser um especialista em Java no backend](https://www.youtube.com/watch?v=SUVpPqiiIFg)
 - [Descubra o poder da comunidade na carreira do dev backend - feat Luis de Llamas](https://www.youtube.com/watch?v=rp4l3HzBN00)
 - [O jeito mais fácil de fazer um backend serverless com Java](https://www.youtube.com/watch?v=Gq1DCxlI7sk)
 - [Pergunte qualquer coisa sobre Quarkus | Ao vivo no Quarkus Club](https://www.youtube.com/watch?v=Yka84pv_WkA)
 - [O MAIOR ESPECIALISTA EM TESTES DO MUNDO JAVA | JAVA CHAMPIONS BRASUCAS C/ ELIAS NOGUEIRA | EP #21](https://www.youtube.com/watch?v=aR3F8lDMXFY)
-- [Dev: você é teimoso ou persistente?](https://www.youtube.com/watch?v=XFfj88vzWwU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
