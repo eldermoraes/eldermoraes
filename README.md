@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Respostas à suas perguntas | Ao Vivo | Descompila e Descomplica](https://www.youtube.com/watch?v=ka5_9vVrwFw)
 - [Porque focar em Java no backend ao invés de ser fullstack](https://www.youtube.com/watch?v=UzotS13DYkw)
 - [7 pilares para ser um especialista em Java no backend](https://www.youtube.com/watch?v=M5S0tfdNNx4)
 - [Descubra o poder da comunidade na carreira do dev backend - feat Luis de Llamas](https://www.youtube.com/watch?v=rp4l3HzBN00)
 - [O jeito mais fácil de fazer um backend serverless com Java](https://www.youtube.com/watch?v=Gq1DCxlI7sk)
-- [Pergunte qualquer coisa sobre Quarkus | Ao vivo no Quarkus Club](https://www.youtube.com/watch?v=Yka84pv_WkA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
