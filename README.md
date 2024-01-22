@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como se tornar uma autoridade na sua área](https://www.youtube.com/watch?v=kfKPQdphP64)
 - [Descubra como se integrar à comunidade Java e porque isso vai levar sua carreira ao próximo nível](https://www.youtube.com/watch?v=wFj0ayZDnxA)
 - [Sem tempo pra estudar | Como ter foco | Inglês ruim | Perguntas de devs que usam Java no backend](https://www.youtube.com/watch?v=ka5_9vVrwFw)
 - [Porque focar em Java no backend ao invés de ser fullstack](https://www.youtube.com/watch?v=UzotS13DYkw)
 - [7 pilares para ser um especialista em Java no backend](https://www.youtube.com/watch?v=M5S0tfdNNx4)
-- [Descubra o poder da comunidade na carreira do dev backend - feat Luis de Llamas](https://www.youtube.com/watch?v=rp4l3HzBN00)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
