@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Mito ou Verdade: O Java é lento?](https://www.youtube.com/watch?v=dOIttTsII5U)
 - [Simplificando o deploy de código Java no Kubernetes usando Quarkus](https://www.youtube.com/watch?v=lYn-dsbMnbA)
 - [Como se tornar uma autoridade na sua área](https://www.youtube.com/watch?v=kfKPQdphP64)
 - [Descubra como se integrar à comunidade Java e porque isso vai levar sua carreira ao próximo nível](https://www.youtube.com/watch?v=wFj0ayZDnxA)
 - [Sem tempo pra estudar | Como ter foco | Inglês ruim | Perguntas de devs que usam Java no backend](https://www.youtube.com/watch?v=ka5_9vVrwFw)
-- [Porque focar em Java no backend ao invés de ser fullstack](https://www.youtube.com/watch?v=UzotS13DYkw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
