@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Quarkus, Graal VM e compilação nativa: entenda de uma vez por todas](https://www.youtube.com/watch?v=yBd6qzMHJr0)
 - [Faça o Health Check de aplicações distribuídas do jeito certo usando Quarkus](https://www.youtube.com/watch?v=DVqfztzGP2Q)
 - [Entenda a importância de ser uma referência técnica](https://www.youtube.com/watch?v=tb5dDHMrrZk)
 - [Crie aplicações Java resilientes usando Quarkus e a API de Fault Tolerance do MicroProfile](https://www.youtube.com/watch?v=Xwrqd75Z5ew)
 - [Mito ou Verdade: O Java é lento?](https://www.youtube.com/watch?v=dOIttTsII5U)
-- [Simplificando o deploy de código Java no Kubernetes usando Quarkus](https://www.youtube.com/watch?v=lYn-dsbMnbA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
