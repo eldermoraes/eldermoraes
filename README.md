@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Entenda a importância de ser uma referência técnica](https://www.youtube.com/watch?v=tb5dDHMrrZk)
 - [Crie aplicações Java resilientes usando Quarkus e a API de Fault Tolerance do MicroProfile](https://www.youtube.com/watch?v=Xwrqd75Z5ew)
 - [Mito ou Verdade: O Java é lento?](https://www.youtube.com/watch?v=dOIttTsII5U)
 - [Simplificando o deploy de código Java no Kubernetes usando Quarkus](https://www.youtube.com/watch?v=lYn-dsbMnbA)
 - [Como se tornar uma autoridade na sua área](https://www.youtube.com/watch?v=kfKPQdphP64)
-- [Descubra como se integrar à comunidade Java e porque isso vai levar sua carreira ao próximo nível](https://www.youtube.com/watch?v=wFj0ayZDnxA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
