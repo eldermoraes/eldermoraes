@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Entenda a diferença entre mentoria e coach](https://www.youtube.com/watch?v=-cAVEosF0UU)
 - [Persistência de Dados: SQL ou NoSQL](https://www.youtube.com/watch?v=MH1YeY5p2MY)
 - [Quarkus, Graal VM e compilação nativa: entenda de uma vez por todas](https://www.youtube.com/watch?v=yBd6qzMHJr0)
 - [Por que estudar e entender estrutura de dados](https://www.youtube.com/watch?v=wY2TTwfp1Yo)
 - [Faça o Health Check de aplicações distribuídas do jeito certo usando Quarkus](https://www.youtube.com/watch?v=DVqfztzGP2Q)
-- [Entenda a importância de ser uma referência técnica](https://www.youtube.com/watch?v=tb5dDHMrrZk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
