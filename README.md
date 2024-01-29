@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=9puHpMlhYa0)
 - [Isso é para você que acha o Java muito difícil](https://www.youtube.com/watch?v=-QTKQBmevO8)
 - [Entenda a importância da mentoria](https://www.youtube.com/watch?v=H1TTppLXtLk)
-- [Entenda a diferença entre mentoria e coach](https://www.youtube.com/watch?v=-cAVEosF0UU)
+- [Entenda a diferença entre mentoria e coaching para devs](https://www.youtube.com/watch?v=-cAVEosF0UU)
 - [Persistência de Dados: SQL ou NoSQL](https://www.youtube.com/watch?v=MH1YeY5p2MY)
-- [Quarkus, Graal VM e compilação nativa: entenda de uma vez por todas](https://www.youtube.com/watch?v=yBd6qzMHJr0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
