@@ -22,10 +22,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=9puHpMlhYa0)
 - [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=hyGMHrx2t8k)
 - [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend](https://www.youtube.com/watch?v=1TM57Ji60ow)
 - [Saiba minha opinião sobre o Vaadin e Java 21](https://www.youtube.com/watch?v=UQ9oObaW_zk)
-- [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=9puHpMlhYa0)
 - [Isso é para você que acha o Java muito difícil](https://www.youtube.com/watch?v=-QTKQBmevO8)
 <!-- YOUTUBE:END -->
 
