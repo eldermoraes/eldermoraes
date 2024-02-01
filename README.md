@@ -22,10 +22,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend](https://www.youtube.com/watch?v=RT6-4hLafKg)
 - [Todo dev backend precisa olhar para os fundamentos da computação dessa forma](https://www.youtube.com/watch?v=gom6NCLfxgc)
 - [Essa atitude fez muita diferença na minha vida](https://www.youtube.com/watch?v=DQdViNoOu2Q)
 - [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=R7YoVOdZA5I)
-- [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend](https://www.youtube.com/watch?v=RT6-4hLafKg)
 - [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=9puHpMlhYa0)
 <!-- YOUTUBE:END -->
 
