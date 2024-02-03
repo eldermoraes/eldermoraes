@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Você também precisa olhar para a mentoria assim](https://www.youtube.com/watch?v=ARdiF-izAd0)
 - [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=R7YoVOdZA5I)
 - [Entenda a importância de saber a fundo como o framework funciona no backend](https://www.youtube.com/watch?v=F__3_hpNbzw)
 - [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend](https://www.youtube.com/watch?v=RT6-4hLafKg)
 - [Todo dev backend precisa olhar para os fundamentos da computação dessa forma](https://www.youtube.com/watch?v=gom6NCLfxgc)
-- [Essa atitude fez muita diferença na minha vida](https://www.youtube.com/watch?v=DQdViNoOu2Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
