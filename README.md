@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, esse é o segredo para ser referência no backend!](https://www.youtube.com/watch?v=t80C6NQSu3k)
 - [É por isso que quem sabe usar o Java se destaca!](https://www.youtube.com/watch?v=WHPcY2NwPSQ)
 - [É assim que você descobre como começar](https://www.youtube.com/watch?v=QB3GmJIsbQs)
 - [Você também precisa olhar para a mentoria assim](https://www.youtube.com/watch?v=ARdiF-izAd0)
 - [Entenda a importância de saber a fundo como o framework funciona no backend](https://www.youtube.com/watch?v=F__3_hpNbzw)
-- [Todo dev backend precisa olhar para os fundamentos da computação dessa forma](https://www.youtube.com/watch?v=gom6NCLfxgc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
