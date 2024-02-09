@@ -22,7 +22,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Saiba quando NÃO usar o framework](https://www.youtube.com/watch?v=BVDpp1GH0vg)
+- [Saiba quando NÃO usar algum framework](https://www.youtube.com/watch?v=BVDpp1GH0vg)
 - [Estrutura de dados na prática e Insights para dev backend](https://www.youtube.com/watch?v=mTKJnHGdfXs)
 - [Aposto que você já pensou que precisaria disso para ser referência!](https://www.youtube.com/watch?v=UP4I_WlLEdg)
 - [Dev, esse é o segredo para ser referência no backend!](https://www.youtube.com/watch?v=t80C6NQSu3k)
