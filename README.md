@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, é por isso que fazer parte de uma comunidade é essencial para sua carreira!](https://www.youtube.com/watch?v=yCrL97RquMU)
 - [dev, é assim que você encontra uma mentoria de sucesso!](https://www.youtube.com/watch?v=xQgQ8B_r1Ok)
 - [Saiba quando NÃO usar algum framework](https://www.youtube.com/watch?v=BVDpp1GH0vg)
 - [Estrutura de dados na prática e Insights para dev backend](https://www.youtube.com/watch?v=mTKJnHGdfXs)
 - [Aposto que você já pensou que precisaria disso para ser referência!](https://www.youtube.com/watch?v=UP4I_WlLEdg)
-- [Dev, esse é o segredo para ser referência no backend!](https://www.youtube.com/watch?v=t80C6NQSu3k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
