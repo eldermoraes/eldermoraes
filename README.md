@@ -26,7 +26,7 @@
 - [Inversão de dependência com banco de dados c/ Otávio Santana](https://www.youtube.com/watch?v=vN31NfnPEYM)
 - [Dev, é por isso que você precisa entender estrutura de dados](https://www.youtube.com/watch?v=mIjnTh23A7k)
 - [Dev, é por isso que fazer parte de uma comunidade é essencial para sua carreira!](https://www.youtube.com/watch?v=yCrL97RquMU)
-- [dev, é assim que você encontra uma mentoria de sucesso!](https://www.youtube.com/watch?v=xQgQ8B_r1Ok)
+- [Dev, é assim que você encontra uma mentoria de sucesso](https://www.youtube.com/watch?v=xQgQ8B_r1Ok)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
