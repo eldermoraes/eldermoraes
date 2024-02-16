@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Se você não vê vantagem em ir a eventos, esse vídeo é para você!](https://www.youtube.com/watch?v=w7DjYuq76dk)
 - [Como o Java foi conduzido durante os anos e porque isso é importante para um dev backend](https://www.youtube.com/watch?v=zC0jQWD1O5E)
 - [Esse é o maior benefício em se envolver com um JUG](https://www.youtube.com/watch?v=68u6eASZaQk)
 - [Inversão de dependência com banco de dados c/ Otávio Santana](https://www.youtube.com/watch?v=vN31NfnPEYM)
 - [Dev, é por isso que você precisa entender estrutura de dados](https://www.youtube.com/watch?v=mIjnTh23A7k)
-- [Dev, é por isso que fazer parte de uma comunidade é essencial para sua carreira!](https://www.youtube.com/watch?v=yCrL97RquMU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
