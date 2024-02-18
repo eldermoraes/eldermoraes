@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Introdução aos 3 pilares do Graal VM](https://www.youtube.com/watch?v=gNyOdF_Ur6A)
 - [Chris Richardson e Design Patterns para microservices](https://www.youtube.com/watch?v=HYN9f0wpi0c)
 - [Às vezes é preciso algo a mais pra gerar um processo de ruptura na carreira](https://www.youtube.com/watch?v=OK2T-5thgUc)
 - [Se você não vê vantagem em ir a eventos, esse vídeo é para você!](https://www.youtube.com/watch?v=w7DjYuq76dk)
 - [Como o Java foi conduzido durante os anos e porque isso é importante para um dev backend](https://www.youtube.com/watch?v=zC0jQWD1O5E)
-- [Esse é o maior benefício em se envolver com um JUG](https://www.youtube.com/watch?v=68u6eASZaQk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
