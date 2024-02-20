@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que ouvi na faculdade sobre NoSQL](https://www.youtube.com/watch?v=vhQ3ia3L8Zg)
 - [Dev backend, saiba como começar a estudar estrutura de dados](https://www.youtube.com/watch?v=z5IP4LWB9ZU)
 - [Introdução aos 3 pilares do Graal VM](https://www.youtube.com/watch?v=gNyOdF_Ur6A)
 - [Chris Richardson e Design Patterns para microservices](https://www.youtube.com/watch?v=HYN9f0wpi0c)
 - [Às vezes é preciso algo a mais pra gerar um processo de ruptura na carreira](https://www.youtube.com/watch?v=OK2T-5thgUc)
-- [Se você não vê vantagem em ir a eventos, esse vídeo é para você!](https://www.youtube.com/watch?v=w7DjYuq76dk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
