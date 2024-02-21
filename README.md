@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [De dev backend a tech lead: como ser reconhecido e crescer na carreira](https://www.youtube.com/watch?v=gdcNP4LWviY)
 - [As oportunidades que fazer parte de uma comunidade te proporciona como dev backend](https://www.youtube.com/watch?v=GMmkycK7VxM)
 - [O que ouvi na faculdade sobre NoSQL](https://www.youtube.com/watch?v=vhQ3ia3L8Zg)
 - [Dev backend, saiba como começar a estudar estrutura de dados](https://www.youtube.com/watch?v=z5IP4LWB9ZU)
 - [Introdução aos 3 pilares do Graal VM](https://www.youtube.com/watch?v=gNyOdF_Ur6A)
-- [Chris Richardson e Design Patterns para microservices](https://www.youtube.com/watch?v=HYN9f0wpi0c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
