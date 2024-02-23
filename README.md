@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Descubra uma das melhores estratégias para se conectar com novas pessoas](https://www.youtube.com/watch?v=XUiFQFrJeLw)
 - [Qual o grande benefício de ter novas versões do Java?](https://www.youtube.com/watch?v=2FR4JtcTpXk)
 - [De dev backend a tech lead: como ser reconhecido e crescer na carreira](https://www.youtube.com/watch?v=gdcNP4LWviY)
 - [As oportunidades que fazer parte de uma comunidade te proporciona como dev backend](https://www.youtube.com/watch?v=GMmkycK7VxM)
 - [O que ouvi na faculdade sobre NoSQL](https://www.youtube.com/watch?v=vhQ3ia3L8Zg)
-- [Dev backend, saiba como começar a estudar estrutura de dados](https://www.youtube.com/watch?v=z5IP4LWB9ZU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
