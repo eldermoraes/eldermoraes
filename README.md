@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Analisando Languages Performance Benchmark](https://www.youtube.com/watch?v=qUO1ay-L5c0)
 - [Circuit Breaker na prática](https://www.youtube.com/watch?v=9BgniONw8SA)
 - [Descubra uma das melhores estratégias para se conectar com novas pessoas](https://www.youtube.com/watch?v=XUiFQFrJeLw)
 - [Qual o grande benefício de ter novas versões do Java?](https://www.youtube.com/watch?v=2FR4JtcTpXk)
 - [De dev backend a tech lead: como ser reconhecido e crescer na carreira](https://www.youtube.com/watch?v=gdcNP4LWviY)
-- [As oportunidades que fazer parte de uma comunidade te proporciona como dev backend](https://www.youtube.com/watch?v=GMmkycK7VxM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
