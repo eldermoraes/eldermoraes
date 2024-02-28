@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Por que não da para ter o networking como segunda opção na sua carreira](https://www.youtube.com/watch?v=qHKLDT6O7_4)
 - [Essa é para você que deseja entender a fundo o framework](https://www.youtube.com/watch?v=kflt-CKlVX4)
 - [Insights poderosos para estudar estrutura de dados como dev backend](https://www.youtube.com/watch?v=yKmYnZ5Vj00)
 - [Analisando Languages Performance Benchmark](https://www.youtube.com/watch?v=qUO1ay-L5c0)
 - [Circuit Breaker na prática](https://www.youtube.com/watch?v=9BgniONw8SA)
-- [Descubra uma das melhores estratégias para se conectar com novas pessoas](https://www.youtube.com/watch?v=XUiFQFrJeLw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
