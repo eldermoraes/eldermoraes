@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Isso vai influenciar totalmente no seu projeto como dev backend](https://www.youtube.com/watch?v=5Qx3CnXRAWs)
 - [Construção de aplicações complexas: desafios e soluções para devs backend avançados](https://www.youtube.com/watch?v=TrKgO7sTbO4)
 - [Por que não da para ter o networking como segunda opção na sua carreira](https://www.youtube.com/watch?v=qHKLDT6O7_4)
 - [Essa é para você que deseja entender a fundo o framework](https://www.youtube.com/watch?v=kflt-CKlVX4)
 - [Insights poderosos para estudar estrutura de dados como dev backend](https://www.youtube.com/watch?v=yKmYnZ5Vj00)
-- [Analisando Languages Performance Benchmark](https://www.youtube.com/watch?v=qUO1ay-L5c0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
