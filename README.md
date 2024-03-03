@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Por dentro do Pilar da Interoperabilidade no Graal VM](https://www.youtube.com/watch?v=-ZadccqJ-l4)
 - [Por dentro do design pattern Health Check](https://www.youtube.com/watch?v=wnRPGkoq4zA)
 - [Técnicas avançadas de aprendizado acelerado para devs que usam Java no backend](https://www.youtube.com/watch?v=OqkSM1n1s-U)
 - [Se você vai para eventos só assistir palestras, esse vídeo é para você!](https://www.youtube.com/watch?v=wbTLDeObd6E)
 - [Isso vai influenciar totalmente no seu projeto como dev backend](https://www.youtube.com/watch?v=5Qx3CnXRAWs)
-- [Construção de aplicações complexas: desafios e soluções para devs backend avançados](https://www.youtube.com/watch?v=TrKgO7sTbO4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
