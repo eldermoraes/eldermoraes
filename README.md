@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Não deixe que a timidez seja uma barreira na sua carreira!](https://www.youtube.com/watch?v=57M6yKDRGvE)
 - [Não veja o agora como uma barreira para não melhorar!](https://www.youtube.com/watch?v=VQ4TVVl9C58)
 - [É isso que o poder da comunidade pode te proporcionar como dev backend!](https://www.youtube.com/watch?v=OiZQqdSWk7Y)
 - [Se você é um dev imediatista, esse vídeo é para você!](https://www.youtube.com/watch?v=r-wdvdkmlzE)
 - [Por dentro do Pilar da Interoperabilidade no Graal VM](https://www.youtube.com/watch?v=-ZadccqJ-l4)
-- [Por dentro do design pattern Health Check](https://www.youtube.com/watch?v=wnRPGkoq4zA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
