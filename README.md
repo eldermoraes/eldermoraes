@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Introdução à Engenharia de Caos](https://www.youtube.com/watch?v=c11HiPLEfaI)
 - [Segundo ponto do Princípio FIRST: Independent](https://www.youtube.com/watch?v=ziD7pLWh7ZA)
 - [De dev generalista até especialista em Java no backend: a transição que você deveria fazer](https://www.youtube.com/watch?v=3MJJigax-Ik)
 - [Por dentro do Truffle Framework](https://www.youtube.com/watch?v=yQPbt6eVQhw)
 - [5 Passos para devs Java se tornarem arquitetos especializados em backend](https://www.youtube.com/watch?v=e-c03-3GigY)
-- [Não deixe que a timidez seja uma barreira na sua carreira!](https://www.youtube.com/watch?v=57M6yKDRGvE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
