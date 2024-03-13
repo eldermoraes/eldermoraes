@@ -22,7 +22,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Dev, conheça a comissão de aconselhamento &lpar;advisory board&rpar; do Graal VM](https://www.youtube.com/watch?v=NbicDtgRxtU)
+- [Dev, conheça o advisory board do Graal VM](https://www.youtube.com/watch?v=NbicDtgRxtU)
 - [Destrave sua carreira como dev backend participando de eventos](https://www.youtube.com/watch?v=19xHIZeGtaU)
 - [JVM Internals: desvendando as complexidades e performance do Java no backend](https://www.youtube.com/watch?v=9wj3sNWOiYc)
 - [Dev backend, chegou sua hora de entender o mundo serverless](https://www.youtube.com/watch?v=wXaWEuWJVfo)
