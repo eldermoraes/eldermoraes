@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, conheça a comissão de aconselhamento &lpar;advisory board&rpar; do Graal VM](https://www.youtube.com/watch?v=NbicDtgRxtU)
 - [Destrave sua carreira como dev backend participando de eventos](https://www.youtube.com/watch?v=19xHIZeGtaU)
 - [JVM Internals: desvendando as complexidades e performance do Java no backend](https://www.youtube.com/watch?v=9wj3sNWOiYc)
 - [Dev backend, chegou sua hora de entender o mundo serverless](https://www.youtube.com/watch?v=wXaWEuWJVfo)
 - [Introdução à Engenharia de Caos](https://www.youtube.com/watch?v=c11HiPLEfaI)
-- [Segundo ponto do Princípio FIRST: Independent](https://www.youtube.com/watch?v=ziD7pLWh7ZA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
