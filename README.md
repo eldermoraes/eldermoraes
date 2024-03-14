@@ -22,9 +22,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [JVM Internals: desvendando as complexidades e performance do Java no backend](https://www.youtube.com/watch?v=9wj3sNWOiYc)
 - [Dev, conheça o advisory board do Graal VM](https://www.youtube.com/watch?v=NbicDtgRxtU)
 - [Destrave sua carreira como dev backend participando de eventos](https://www.youtube.com/watch?v=19xHIZeGtaU)
-- [JVM Internals: desvendando as complexidades e performance do Java no backend](https://www.youtube.com/watch?v=9wj3sNWOiYc)
 - [Dev backend, chegou sua hora de entender o mundo serverless](https://www.youtube.com/watch?v=wXaWEuWJVfo)
 - [Introdução à Engenharia de Caos](https://www.youtube.com/watch?v=c11HiPLEfaI)
 <!-- YOUTUBE:END -->
