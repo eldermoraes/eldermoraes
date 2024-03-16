@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, utilize o circuit breaker no seu backend](https://www.youtube.com/watch?v=rvuz7Kf9de0)
 - [Dev backend, você precisa conhecer o Quarkus Club](https://www.youtube.com/watch?v=9z0s7TcNrVI)
 - [Terceiro ponto do Princípio FIRST: Repeatable](https://www.youtube.com/watch?v=FBom8nMtmKI)
 - [JVM Internals: desvendando as complexidades e performance do Java no backend](https://www.youtube.com/watch?v=9wj3sNWOiYc)
 - [Dev, conheça o advisory board do Graal VM](https://www.youtube.com/watch?v=NbicDtgRxtU)
-- [Destrave sua carreira como dev backend participando de eventos](https://www.youtube.com/watch?v=19xHIZeGtaU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
