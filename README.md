@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Quarto ponto do Princípio FIRST: Self-Validating](https://www.youtube.com/watch?v=eepz8-bOoH0)
 - [Dev, comece buscando a sua comunidade no backend](https://www.youtube.com/watch?v=0Xq6yGVyz8s)
 - [Dev, saiba como simplificar sua carreira no backend](https://www.youtube.com/watch?v=SyJ03HNdOAg)
 - [Dev, utilize o circuit breaker no seu backend](https://www.youtube.com/watch?v=rvuz7Kf9de0)
 - [Dev backend, você precisa conhecer o Quarkus Club](https://www.youtube.com/watch?v=9z0s7TcNrVI)
-- [Terceiro ponto do Princípio FIRST: Repeatable](https://www.youtube.com/watch?v=FBom8nMtmKI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
