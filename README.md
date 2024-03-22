@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev backend, foque em apenas um Framework](https://www.youtube.com/watch?v=B8oya_7_BeU)
 - [Gerenciamento de tempo para devs backend: como conciliar estudo e carreira Java](https://www.youtube.com/watch?v=eZI_Q6QT9gY)
 - [Dev backend, não implementar essa ação pode gerar uma falha no seu sistema](https://www.youtube.com/watch?v=lYbeBJyn_zQ)
 - [Quarkus é mais simples que Spring? #dev #java #quarkus #spring](https://www.youtube.com/watch?v=cZqh3eHjwf4)
 - [Dev, crie falhas de propósito antes que elas aconteçam inesperadamente](https://www.youtube.com/watch?v=YVPKqq4qj5w)
-- [Porque eu deveria usar Sagas pattern no backend? #carreira #desenvolvedores #developer #dev #java](https://www.youtube.com/watch?v=LL0rkklVBY0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
