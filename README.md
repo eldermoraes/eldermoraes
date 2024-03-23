@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, veja um backend serverless na prática](https://www.youtube.com/watch?v=jFqLXuBJpQ8)
 - [Dev backend, foque em apenas um Framework](https://www.youtube.com/watch?v=B8oya_7_BeU)
 - [Gerenciamento de tempo para devs backend: como conciliar estudo e carreira Java](https://www.youtube.com/watch?v=eZI_Q6QT9gY)
 - [Dev backend, não implementar essa ação pode gerar uma falha no seu sistema](https://www.youtube.com/watch?v=lYbeBJyn_zQ)
 - [Quarkus é mais simples que Spring? #dev #java #quarkus #spring](https://www.youtube.com/watch?v=cZqh3eHjwf4)
-- [Dev, crie falhas de propósito antes que elas aconteçam inesperadamente](https://www.youtube.com/watch?v=YVPKqq4qj5w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
