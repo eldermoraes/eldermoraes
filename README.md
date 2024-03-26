@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Quinto ponto do Princípio FIRST: Timely](https://www.youtube.com/watch?v=avd3FEheETg)
 - [Dev, procure pessoas conectadas com você no backend!](https://www.youtube.com/watch?v=_jx4hQ7lupE)
 - [Dev, saiba como manter uma comunidade backend engajada c/ Luis de Llamas](https://www.youtube.com/watch?v=nn5ypdOXsoU)
 - [Dev, veja um backend serverless na prática](https://www.youtube.com/watch?v=jFqLXuBJpQ8)
 - [Dev backend, foque em apenas um Framework](https://www.youtube.com/watch?v=B8oya_7_BeU)
-- [Gerenciamento de tempo para devs backend: como conciliar estudo e carreira Java](https://www.youtube.com/watch?v=eZI_Q6QT9gY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
