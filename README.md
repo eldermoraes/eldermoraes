@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, saiba como os Containers vão facilitar sua vida no backend!](https://www.youtube.com/watch?v=PrVeIIY6ZKQ)
 - [Dev, saiba além do seu serviço usando métricas](https://www.youtube.com/watch?v=5i1r7fhAnE8)
 - [Quinto ponto do Princípio FIRST: Timely](https://www.youtube.com/watch?v=avd3FEheETg)
 - [Dev, procure pessoas conectadas com você no backend!](https://www.youtube.com/watch?v=_jx4hQ7lupE)
 - [Dev, saiba como manter uma comunidade backend engajada c/ Luis de Llamas](https://www.youtube.com/watch?v=nn5ypdOXsoU)
-- [Dev, veja um backend serverless na prática](https://www.youtube.com/watch?v=jFqLXuBJpQ8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
