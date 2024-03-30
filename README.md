@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev na prática: Modelo de aplicação dentro de uma abordagem de Knative](https://www.youtube.com/watch?v=wl_UXoYiDlc)
 - [Por que ser um dev backend especialista?](https://www.youtube.com/watch?v=kTeYucAikJA)
 - [Dev, saiba como os Containers vão facilitar sua vida no backend!](https://www.youtube.com/watch?v=PrVeIIY6ZKQ)
 - [Dev, saiba além do seu serviço usando métricas](https://www.youtube.com/watch?v=5i1r7fhAnE8)
 - [Quinto ponto do Princípio FIRST: Timely](https://www.youtube.com/watch?v=avd3FEheETg)
-- [Dev, procure pessoas conectadas com você no backend!](https://www.youtube.com/watch?v=_jx4hQ7lupE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
