@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, construa testes efetivos através do princípio F.I.R.S.T.](https://www.youtube.com/watch?v=cMpkYnSb788)
 - [Inovação do Java no backend: tendências pra ficar de olho](https://www.youtube.com/watch?v=9QAWZ_0w_Vg)
 - [Ocupando as melhores vagas de Java no backend: domine as entrevistas das grandes empresas](https://www.youtube.com/watch?v=weyGHcQJv3c)
 - [O dev backend global: como trabalhar com Java remotamente para empresas do mundo todo](https://www.youtube.com/watch?v=kw9kUYaQGM0)
 - [Como manter a motivação para aprender tecnologias e conceitos complexos do backend](https://www.youtube.com/watch?v=VwYEYrQnA0M)
-- [Aprendizado contínuo: como manter-se atualizando no ecossistema de Java no backend](https://www.youtube.com/watch?v=2ARAN0xg09Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
