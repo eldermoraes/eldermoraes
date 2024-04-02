@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dicas de networking para devs Java que não gostam de networking](https://www.youtube.com/watch?v=7dpTMhTjdck)
 - [Java e NoSQL: a persistência do seu backend levada ao próximo nível](https://www.youtube.com/watch?v=-WsD9MkXvIs)
 - [Dev, qual a relação da comunidade backend com empreender?](https://www.youtube.com/watch?v=e4_52uM502E)
 - [Dev, você terá apoio dentro de uma comunidade backend!](https://www.youtube.com/watch?v=b32Q3Ti4y8o)
 - [Mão na massa: backend serverless dentro do Knative](https://www.youtube.com/watch?v=wl_UXoYiDlc)
-- [Por que ser um dev backend especialista?](https://www.youtube.com/watch?v=kTeYucAikJA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
