@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Encontrando sua especialidade: dicas para devs que usam Java no backend](https://www.youtube.com/watch?v=O0wBuzEC3K8)
 - [Fases da teoria de Caos](https://www.youtube.com/watch?v=qtQ6rTsGh8s)
 - [Dicas de networking para devs Java que não gostam de networking](https://www.youtube.com/watch?v=aflwctxUtDA)
 - [O inglês na carreira dev: superando as barreiras de uma vez por todas](https://www.youtube.com/watch?v=qlw_tFFf_0w)
 - [Dev, construa testes efetivos através do princípio F.I.R.S.T.](https://www.youtube.com/watch?v=cMpkYnSb788)
-- [Inovação do Java no backend: tendências pra ficar de olho](https://www.youtube.com/watch?v=9QAWZ_0w_Vg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
