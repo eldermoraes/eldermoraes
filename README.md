@@ -22,8 +22,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [O inglês na carreira dev: superando as barreiras de uma vez por todas](https://www.youtube.com/watch?v=qlw_tFFf_0w)
 - [Dicas de networking para devs Java que não gostam de networking](https://www.youtube.com/watch?v=aflwctxUtDA)
+- [O inglês na carreira dev: superando as barreiras de uma vez por todas](https://www.youtube.com/watch?v=qlw_tFFf_0w)
 - [Dev, construa testes efetivos através do princípio F.I.R.S.T.](https://www.youtube.com/watch?v=cMpkYnSb788)
 - [Inovação do Java no backend: tendências pra ficar de olho](https://www.youtube.com/watch?v=9QAWZ_0w_Vg)
 - [Ocupando as melhores vagas de Java no backend: domine as entrevistas das grandes empresas](https://www.youtube.com/watch?v=weyGHcQJv3c)
