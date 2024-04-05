@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Saiba os principais pontos para aplicar na sua carreira como dev backend!](https://www.youtube.com/watch?v=wwgaDI7GFu0)
 - [Java e NoSQL: a persistência do seu backend levada ao próximo nível](https://www.youtube.com/watch?v=-WsD9MkXvIs)
 - [Aprendizado contínuo: como manter-se atualizado no ecossistema de Java no backend](https://www.youtube.com/watch?v=w0rV6_dsq60)
 - [Dev, aprenda como definir o problema que você vai resolver no backend!](https://www.youtube.com/watch?v=znhoxNSwDaQ)
 - [O inglês na carreira dev: superando as barreiras de uma vez por todas](https://www.youtube.com/watch?v=qlw_tFFf_0w)
-- [Encontrando sua especialidade: dicas para devs que usam Java no backend](https://www.youtube.com/watch?v=O0wBuzEC3K8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
