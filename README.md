@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Encontrando sua especialidade: dicas para devs que usam Java no backend](https://www.youtube.com/watch?v=O0wBuzEC3K8)
 - [Como manter a motivação para aprender tecnologias e conceitos complexos do backend](https://www.youtube.com/watch?v=3y4zN1qis_s)
 - [Desbloqueando o seu potencial no Java: a visão de Java Champions sobre IA, backend e comunidade](https://www.youtube.com/watch?v=f6UTvNmBFok)
 - [Saiba os principais pontos para aplicar na sua carreira como dev backend!](https://www.youtube.com/watch?v=wwgaDI7GFu0)
 - [Java e NoSQL: a persistência do seu backend levada ao próximo nível](https://www.youtube.com/watch?v=-WsD9MkXvIs)
-- [Aprendizado contínuo: como manter-se atualizado no ecossistema de Java no backend](https://www.youtube.com/watch?v=w0rV6_dsq60)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
