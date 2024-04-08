@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev backend, não se preocupe com um futuro tão longe, mas não se esqueça dele!](https://www.youtube.com/watch?v=-6rG4ylkFR8)
 - [Por que focar em Java no backend?](https://www.youtube.com/watch?v=nJw3vzyTjck)
 - [Introdução dos pilares para ser reconhecido como um especialista no backend!](https://www.youtube.com/watch?v=e2sSk4BHj3U)
 - [Encontrando sua especialidade: dicas para devs que usam Java no backend](https://www.youtube.com/watch?v=O0wBuzEC3K8)
 - [Como manter a motivação para aprender tecnologias e conceitos complexos do backend](https://www.youtube.com/watch?v=3y4zN1qis_s)
-- [Desbloqueando o seu potencial no Java: a visão de Java Champions sobre IA, backend e comunidade](https://www.youtube.com/watch?v=f6UTvNmBFok)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
