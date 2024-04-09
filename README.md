@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Introdução à Engenharia de Caos](https://www.youtube.com/watch?v=zsFGjOihRH0)
 - [Aprendizado contínuo: como manter-se atualizado no ecossistema de Java no backend](https://www.youtube.com/watch?v=w0rV6_dsq60)
 - [Dev backend, não se preocupe com um futuro tão longe, mas não se esqueça dele!](https://www.youtube.com/watch?v=-6rG4ylkFR8)
 - [Por que focar em Java no backend?](https://www.youtube.com/watch?v=nJw3vzyTjck)
 - [Introdução dos pilares para ser reconhecido como um especialista no backend!](https://www.youtube.com/watch?v=e2sSk4BHj3U)
-- [Encontrando sua especialidade: dicas para devs que usam Java no backend](https://www.youtube.com/watch?v=O0wBuzEC3K8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
