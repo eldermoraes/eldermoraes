@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, saiba quando usar uma aplicação serverless no seu backend](https://www.youtube.com/watch?v=JDrIFP7PUco)
 - [Como manter a motivação para aprender tecnologias e conceitos complexos do backend](https://www.youtube.com/watch?v=3y4zN1qis_s)
 - [Introdução à Engenharia de Caos](https://www.youtube.com/watch?v=zsFGjOihRH0)
 - [Aprendizado contínuo: como manter-se atualizado no ecossistema de Java no backend](https://www.youtube.com/watch?v=w0rV6_dsq60)
 - [Dev backend, não se preocupe com um futuro tão longe, mas não se esqueça dele!](https://www.youtube.com/watch?v=-6rG4ylkFR8)
-- [Por que focar em Java no backend?](https://www.youtube.com/watch?v=nJw3vzyTjck)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
