@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Amadurecimento profissional na sua carreira backend](https://www.youtube.com/watch?v=bS2fjZEOpyA)
 - [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=T9qnEAnZYaM)
 - [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend](https://www.youtube.com/watch?v=W2LLlbciEbg)
 - [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=9SZqYhFFm2M)
 - [Dev, enterprise ou standard, aonde direcionar seu foco?](https://www.youtube.com/watch?v=sG5CZgCQqDs)
-- [Dev, saiba quando usar uma aplicação serverless no seu backend](https://www.youtube.com/watch?v=JDrIFP7PUco)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
