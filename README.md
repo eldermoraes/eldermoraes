@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [MicroProfile:O mínimo que um dev precisa saber. #shorts #dev #java #devbackend #microprofile](https://www.youtube.com/watch?v=sEEZBxCwXIY)
+- [Dev, entenda a relação de Kubernetes com Engenharia de Caos](https://www.youtube.com/watch?v=FYTFLjxiNOI)
 - [Afinal, o que é um JUG &lpar;Java User Group&rpar;?](https://www.youtube.com/watch?v=9Q9tlmSdAL4)
 - [3 pontos para você descobrir seu foco como dev backend](https://www.youtube.com/watch?v=KC7XuNjOHCY)
 - [Desbloqueando o seu potencial no Java: a visão de Java Champions sobre IA, backend e comunidade](https://www.youtube.com/watch?v=f6UTvNmBFok)
-- [Amadurecimento profissional na sua carreira backend](https://www.youtube.com/watch?v=bS2fjZEOpyA)
-- [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=T9qnEAnZYaM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
