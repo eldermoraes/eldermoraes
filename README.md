@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=9SZqYhFFm2M)
 - [O grande beneficio de focar em Java no backend](https://www.youtube.com/watch?v=ARVaPgWDplQ)
 - [Dev, se você usa o GraalVM já deveria saber disso. #shorts #dev #java #devbackend #graalvm](https://www.youtube.com/watch?v=IjZq3Mayzco)
 - [Dev, entenda Liveness  e Readness no Kubernetes. #shorts #dev #java #devbackend #Liveness #Readness](https://www.youtube.com/watch?v=Q1sxOyiej1I)
 - [Dev especialista em Java: Ler Especificação e Cloud Provider](https://www.youtube.com/watch?v=3vD0ZQfpZPw)
-- [MicroProfile:O mínimo que um dev precisa saber. #shorts #dev #java #devbackend #microprofile](https://www.youtube.com/watch?v=sEEZBxCwXIY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
