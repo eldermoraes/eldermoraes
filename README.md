@@ -23,7 +23,7 @@
 
 <!-- YOUTUBE:START -->
 - [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend](https://www.youtube.com/watch?v=W2LLlbciEbg)
-- [Dev, se você usa o GraalVM já deveria saber disso. #shorts #dev #java #devbackend #graalvm](https://www.youtube.com/watch?v=L0xUOR9iHKE)
+- [Dev, se você está fazendo isso está cometendo um grande erro! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=L0xUOR9iHKE)
 - [Tempo e prioridades na carreira dev backend](https://www.youtube.com/watch?v=66cfCnlZSEM)
 - [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=9SZqYhFFm2M)
 - [O grande beneficio de focar em Java no backend](https://www.youtube.com/watch?v=ARVaPgWDplQ)
