@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Deploy de código Java no Kubernetes na prática](https://www.youtube.com/watch?v=OKz_Gur_5Bg)
+- [Dev, não confunda mais GraalVM com isso. #shorts #dev #java #devbackend #graalvm](https://www.youtube.com/watch?v=-h1pQDr4q_4)
 - [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=T9qnEAnZYaM)
 - [Health Check, você já deveria estar usando. #shorts #dev #java #devbackend #healthcheck](https://www.youtube.com/watch?v=4dPPeKClroo)
 - [Dev, saiba os benefícios de trabalhar em comunidade](https://www.youtube.com/watch?v=33Fty0hi1FY)
-- [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend](https://www.youtube.com/watch?v=W2LLlbciEbg)
-- [Dev, se você está fazendo isso está cometendo um grande erro! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=L0xUOR9iHKE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
