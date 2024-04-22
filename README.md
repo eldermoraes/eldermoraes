@@ -26,7 +26,7 @@
 - [Início de aplicações distribuídas usando Quarkus](https://www.youtube.com/watch?v=ad9F-6Ag6IM)
 - [Deploy de código Java no Kubernetes na prática](https://www.youtube.com/watch?v=OKz_Gur_5Bg)
 - [Dev, não confunda mais GraalVM com isso. #shorts #dev #java #devbackend #graalvm](https://www.youtube.com/watch?v=-h1pQDr4q_4)
-- [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=T9qnEAnZYaM)
+- [Health Check, você já deveria estar usando. #shorts #dev #java #devbackend #healthcheck](https://www.youtube.com/watch?v=4dPPeKClroo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
