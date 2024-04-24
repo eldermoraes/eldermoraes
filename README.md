@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Perguntas de devs backend: Aplicação microservices e falta de coragem](https://www.youtube.com/watch?v=f2VIm7vt_1k)
+- [A grande jogada do Quarkus foi essa #shorts #dev #java #devbackend #Quarkus](https://www.youtube.com/watch?v=MkOi3U9pb4A)
 - [Backend ou Fullstack: Porque ser específico te proporciona oportunidades melhores?](https://www.youtube.com/watch?v=JOVWvjLtEVw)
 - [Dev, desenvolva estas habilidades e se torne um Tech Lead #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=GJASc6lS04k)
 - [2 pilares para ser um especialista em Java no backend](https://www.youtube.com/watch?v=km0GOnX2V1w)
-- [A grande sacada que o Quarkus teve para ser mais rápido #shorts #dev #java #devbackend #Quarkus](https://www.youtube.com/watch?v=ERidLRMBV8U)
-- [Dev, essa é a principal solução em containers no mundo. #shorts #dev #java #devbackend #containers](https://www.youtube.com/watch?v=1KLF2Ok6dTQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
