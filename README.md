@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [É por está razão que o Mandrel existe dev Java. #shorts #dev #java #devbackend #Mandrel](https://www.youtube.com/watch?v=tkUx9FjPZsQ)
+- [O que é Health Check e como adicionar ele na sua aplicação](https://www.youtube.com/watch?v=-3fqAy7fAUM)
 - [Dev, entenda que o Quarkus não é só isso. #shorts #dev #java #devbackend #Quarkus](https://www.youtube.com/watch?v=SzfFUv2ZFs4)
 - [Simplificação do Kubernetes usando Quarkus na prática](https://www.youtube.com/watch?v=7Jui1CqDo84)
 - [Um bom tech lead sabe escolher suas batalhas. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=cdfbqe7SLnw)
-- [Dev, separe um tempo para se envolver com pessoas de mesmo interesse no backend!](https://www.youtube.com/watch?v=TQ6aYs9Rjr0)
-- [Perguntas de devs backend: Aplicação microservices e falta de coragem](https://www.youtube.com/watch?v=f2VIm7vt_1k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
