@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, essas dúvidas já deveriam estar esclarecidas. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=w6mLoMguAiw)
+- [Dev backend, você também acha os processos seletivos muito difíceis?](https://www.youtube.com/watch?v=dzAsBGIU5GY)
 - [Desfazendo dúvidas sobre Quarkus, Graal VM e compilação nativa](https://www.youtube.com/watch?v=Q0MLOIAM8h8)
 - [A pior maneira de assumir responsabilidades. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=5nhP0_CY0Ng)
 - [É por está razão que o Mandrel existe dev Java. #shorts #dev #java #devbackend #Mandrel](https://www.youtube.com/watch?v=tkUx9FjPZsQ)
-- [O que é Health Check e como adicionar ele na sua aplicação](https://www.youtube.com/watch?v=-3fqAy7fAUM)
-- [Dev, entenda que o Quarkus não é só isso. #shorts #dev #java #devbackend #Quarkus](https://www.youtube.com/watch?v=SzfFUv2ZFs4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
