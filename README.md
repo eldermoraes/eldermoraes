@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev backend, você sofre de “Fear of Missing Out”?](https://www.youtube.com/watch?v=VpPrP8cnjz0)
+- [Para ser tech lead um dev tem que dominar estes pontos. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=7NNcvBFsnQA)
 - [Dev, essas dúvidas já deveriam estar esclarecidas. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=w6mLoMguAiw)
 - [Dev backend, você também acha os processos seletivos muito difíceis?](https://www.youtube.com/watch?v=dzAsBGIU5GY)
 - [Desfazendo dúvidas sobre Quarkus, Graal VM e compilação nativa](https://www.youtube.com/watch?v=Q0MLOIAM8h8)
-- [A pior maneira de assumir responsabilidades. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=5nhP0_CY0Ng)
-- [É por está razão que o Mandrel existe dev Java. #shorts #dev #java #devbackend #Mandrel](https://www.youtube.com/watch?v=tkUx9FjPZsQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
