@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Criando os health checks: Liveness e Readiness](https://www.youtube.com/watch?v=zSOOLuLfkgw)
 - [Tech Lead: Essa pode ser a oportunidade para você, dev. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=ZswjnWt6Ib4)
 - [Dev, aprenda a contribuir na sua comunidade backend!](https://www.youtube.com/watch?v=7cbBD3fZKig)
 - [Dev backend, você sofre de “Fear of Missing Out”?](https://www.youtube.com/watch?v=VpPrP8cnjz0)
 - [Para ser tech lead um dev tem que dominar estes pontos. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=7NNcvBFsnQA)
-- [Dev, essas dúvidas já deveriam estar esclarecidas. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=w6mLoMguAiw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
