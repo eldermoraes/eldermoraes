@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Porque um dev iria querer se tornar um Tech Lead? #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=hEV3d9vC2bQ)
+- [Tech Lead: O impacto que você pode gerar. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=eEbKewdwPXY)
+- [Desfazendo a segunda confusão sobre Quarkus, Graal VM e compilação nativa](https://www.youtube.com/watch?v=_MO2ocfOfsk)
 - [Criando os health checks: Liveness e Readiness](https://www.youtube.com/watch?v=zSOOLuLfkgw)
 - [Tech Lead: Essa pode ser a oportunidade para você, dev. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=ZswjnWt6Ib4)
-- [Dev, aprenda a contribuir na sua comunidade backend!](https://www.youtube.com/watch?v=7cbBD3fZKig)
-- [Dev backend, você sofre de “Fear of Missing Out”?](https://www.youtube.com/watch?v=VpPrP8cnjz0)
-- [Para ser tech lead um dev tem que dominar estes pontos. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=7NNcvBFsnQA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
