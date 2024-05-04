@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Sobre o Tech Lead e sua grande oportunidade](https://www.youtube.com/watch?v=z9GaZIPO7wk)
+- [É assim que um dev se torna referência. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=qnO8atA75sk)
 - [Porque um dev iria querer se tornar um Tech Lead? #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=hEV3d9vC2bQ)
 - [Tech Lead: O impacto que você pode gerar. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=eEbKewdwPXY)
 - [Desfazendo a segunda confusão sobre Quarkus, Graal VM e compilação nativa](https://www.youtube.com/watch?v=_MO2ocfOfsk)
-- [Criando os health checks: Liveness e Readiness](https://www.youtube.com/watch?v=zSOOLuLfkgw)
-- [Tech Lead: Essa pode ser a oportunidade para você, dev. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=ZswjnWt6Ib4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
