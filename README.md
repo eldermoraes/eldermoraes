@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, corra por fora caso não esteja satisfeito em algum lugar](https://www.youtube.com/watch?v=x9E_dMNlc1g)
 - [Dev, se decida e comece a crescer como profissional no backend](https://www.youtube.com/watch?v=8tKimZVijww)
 - [Dev, o que não é um Tech Lead. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=LPKdMHyGsYA)
 - [Sobre o Tech Lead e sua grande oportunidade](https://www.youtube.com/watch?v=z9GaZIPO7wk)
 - [É assim que um dev se torna referência. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=qnO8atA75sk)
-- [Porque um dev iria querer se tornar um Tech Lead? #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=hEV3d9vC2bQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
