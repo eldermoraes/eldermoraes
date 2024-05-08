@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Inovação do Java no backend: tendências pra ficar de olho](https://www.youtube.com/watch?v=n2J2_d27kFw)
 - [Vagas para devs no Brasil e processo de aprendizagem](https://www.youtube.com/watch?v=jDetPhxM0eo)
 - [Dev, essas dúvidas não devem parar você. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Wv3hgaevO4U)
 - [Dev, corra por fora caso não esteja satisfeito em algum lugar](https://www.youtube.com/watch?v=x9E_dMNlc1g)
 - [Dev, se decida e comece a crescer como profissional no backend](https://www.youtube.com/watch?v=8tKimZVijww)
-- [Dev, o que não é um Tech Lead. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=LPKdMHyGsYA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
