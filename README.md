@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Se você quer ser Tech Lead comece por aqui](https://www.youtube.com/watch?v=0AezgqnHGwY)
 - [4 dicas para saber por onde começar no backend](https://www.youtube.com/watch?v=-QTFCRqLbaw)
 - [Dev, essa é uma ótima oportunidade de mentorar o seu time. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=7kdPNyXFSr8)
 - [Inovação do Java no backend: tendências pra ficar de olho](https://www.youtube.com/watch?v=n2J2_d27kFw)
 - [Vagas para devs no Brasil e processo de aprendizagem](https://www.youtube.com/watch?v=jDetPhxM0eo)
-- [Dev, essas dúvidas não devem parar você. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Wv3hgaevO4U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
