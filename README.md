@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A ideia sobre acelerar seu aprendizado no backend](https://www.youtube.com/watch?v=WQcPke_pd9g)
 - [Dev, o Health Check precisa destas duas garantias. #shorts #dev #java #devbackend #healthcheck](https://www.youtube.com/watch?v=SGICNOLzulA)
 - [Aplicações complexas no backend](https://www.youtube.com/watch?v=QfwO1dXtnRg)
 - [Se você quer ser Tech Lead comece por aqui](https://www.youtube.com/watch?v=0AezgqnHGwY)
 - [4 dicas para saber por onde começar no backend](https://www.youtube.com/watch?v=-QTFCRqLbaw)
-- [Dev, essa é uma ótima oportunidade de mentorar o seu time. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=7kdPNyXFSr8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
