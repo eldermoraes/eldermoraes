@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que é arquitetura de Software e a importância desse aprendizado](https://www.youtube.com/watch?v=NWtcvrzzvpc)
 - [Dev, o mundo precisa de líderes. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=q8af4bqLcIM)
 - [A ideia sobre acelerar seu aprendizado no backend](https://www.youtube.com/watch?v=WQcPke_pd9g)
 - [Dev, o Health Check precisa destas duas garantias. #shorts #dev #java #devbackend #healthcheck](https://www.youtube.com/watch?v=SGICNOLzulA)
 - [Aplicações complexas no backend](https://www.youtube.com/watch?v=QfwO1dXtnRg)
-- [Se você quer ser Tech Lead comece por aqui](https://www.youtube.com/watch?v=0AezgqnHGwY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
