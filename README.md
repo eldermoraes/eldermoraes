@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, esse é o momento de usar Design Patterns. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=uW71qNKmPK4)
+- [Dev, esse é o momento de usar Design Patterns. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=bh-pdfGvJ7s)
 - [O que é arquitetura de Software e a importância desse aprendizado](https://www.youtube.com/watch?v=NWtcvrzzvpc)
 - [Dev, o mundo precisa de líderes. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=q8af4bqLcIM)
 - [A ideia sobre acelerar seu aprendizado no backend](https://www.youtube.com/watch?v=WQcPke_pd9g)
-- [Dev, o Health Check precisa destas duas garantias. #shorts #dev #java #devbackend #healthcheck](https://www.youtube.com/watch?v=SGICNOLzulA)
-- [Aplicações complexas no backend](https://www.youtube.com/watch?v=QfwO1dXtnRg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
