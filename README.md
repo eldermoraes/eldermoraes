@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tech Lead, assuma essa responsabilidade. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=sUZL05SdApw)
 - [Parte 2: Aplicações complexas no backend](https://www.youtube.com/watch?v=1Plf-coWdcw)
 - [Dev, esse é o momento de usar Design Patterns. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=uW71qNKmPK4)
 - [Dev, esse é o momento de usar Design Patterns. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=bh-pdfGvJ7s)
 - [O que é arquitetura de Software e a importância desse aprendizado](https://www.youtube.com/watch?v=NWtcvrzzvpc)
-- [Dev, o mundo precisa de líderes. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=q8af4bqLcIM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
