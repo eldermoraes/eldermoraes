@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 passos para ser reconhecido em arquitetura de software usando Java no backend](https://www.youtube.com/watch?v=_bEIRAIs9Bs)
 - [Dev, saiba o papel do Java em soluções complexas. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=2W-AJ42eRME)
 - [As três ferramentas para acelerar seu aprendizado no backend](https://www.youtube.com/watch?v=klSS7Sbp14g)
 - [Tech Lead, assuma essa responsabilidade. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=sUZL05SdApw)
 - [Parte 2: Aplicações complexas no backend](https://www.youtube.com/watch?v=1Plf-coWdcw)
-- [Dev, esse é o momento de usar Design Patterns. #shorts #dev #java #devbackend #techlead](https://www.youtube.com/watch?v=uW71qNKmPK4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
