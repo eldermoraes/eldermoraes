@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Estratégias para conciliar trabalho e estudo e se especializar em backend com Java](https://www.youtube.com/watch?v=KbYy0d7gcZA)
 - [Como o inglês impulsiona a carreira e abre oportunidades pra especialistas em Java no backend](https://www.youtube.com/watch?v=BbG-TwSpJJs)
 - [Abraçar aplicações complexas elevará seu nível como dev backend. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=wU4AbzSeCNk)
 - [Reforço das 3 ferramentas para acelerar seu aprendizado no backend](https://www.youtube.com/watch?v=6sXIyaOqlOA)
 - [Arquitetura de software para devs backend. #shorts #dev #java #devbackend #software](https://www.youtube.com/watch?v=ijQJxbJzRqo)
-- [5 passos para ser reconhecido em arquitetura de software usando Java no backend](https://www.youtube.com/watch?v=_bEIRAIs9Bs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
