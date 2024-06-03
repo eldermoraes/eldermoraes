@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como manter-se atualizado e ser reconhecido como especialista em Java no backend](https://www.youtube.com/watch?v=aPjBBQRYGug)
 - [Descomplique as entrevistas técnicas e conquista sua vaga de especialista em Java no backend](https://www.youtube.com/watch?v=FX7qio2NY5A)
 - [Todo dev backend deveria ter esse posicionamento. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=CQkTCPD42nw)
 - [Supere a Síndrome do Impostor e construa a confiança de um especialista em Java no backend](https://www.youtube.com/watch?v=bytMgR3RzSM)
 - [No backend essa habilidade é fundamental. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=CYB8GKFQeNA)
-- [Estratégias para conciliar trabalho e estudo e se especializar em backend com Java](https://www.youtube.com/watch?v=KbYy0d7gcZA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
