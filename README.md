@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Disciplina e produtividade: o segredo dos especialistas em backend com Java](https://www.youtube.com/watch?v=EhXf7LLx1q8)
 - [Vida pessoal e trabalho: guia para especialistas em Java backend](https://www.youtube.com/watch?v=iq7J7p370ck)
 - [Especialista em Java na prática](https://www.youtube.com/watch?v=XYQOhRdGjdo)
 - [Como manter-se atualizado e ser reconhecido como especialista em Java no backend](https://www.youtube.com/watch?v=aPjBBQRYGug)
 - [Descomplique as entrevistas técnicas e conquista sua vaga de especialista em Java no backend](https://www.youtube.com/watch?v=FX7qio2NY5A)
-- [Todo dev backend deveria ter esse posicionamento. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=CQkTCPD42nw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
