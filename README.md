@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=JaY6iiwlFqU)
 - [Além da teoria: como se tornar especialista em backend com Java &lpar;na prática&rpar;](https://www.youtube.com/watch?v=HbwMoByqdQ0)
 - [Dev, para ter mais experiência encare esse desafio. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=ESix6aIGYYc)
 - [O papel do networking pra quem quer ser especialista em Java no backend](https://www.youtube.com/watch?v=ToRtQmFy9XA)
 - [O guia definitivo de estudos para quem quer ser especialista em Java no backend](https://www.youtube.com/watch?v=s6IYXeyUlgs)
-- [Disciplina e produtividade: o segredo dos especialistas em backend com Java](https://www.youtube.com/watch?v=EhXf7LLx1q8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
