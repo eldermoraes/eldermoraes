@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, projetos complexos exigem de você domínio desses dois pontos. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=q5CpwWE6n-g)
+- [A importância de se especializar no backend](https://www.youtube.com/watch?v=VvMfevUzJ0g)
 - [Dev Java, você está passando por isso. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=-fDyIY6ROUc)
 - [Além da teoria: como se tornar especialista em backend com Java &lpar;na prática&rpar;](https://www.youtube.com/watch?v=HbwMoByqdQ0)
 - [Dev, para ter mais experiência encare esse desafio. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=ESix6aIGYYc)
-- [O papel do networking pra quem quer ser especialista em Java no backend](https://www.youtube.com/watch?v=ToRtQmFy9XA)
-- [O guia definitivo de estudos para quem quer ser especialista em Java no backend](https://www.youtube.com/watch?v=s6IYXeyUlgs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
