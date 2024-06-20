@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, saber desses pontos é a base para ser um arquiteto de software. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=BkWOauCY_DE)
 - [Dev, aprenda a criar um plano de estudos eficiente para programação](https://www.youtube.com/watch?v=tu8ulaEYk-Q)
 - [Dev, é isso que te falta para dominar desafios complexos. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Cj1OIvgJpFA)
 - [A importância do foco na sua carreira. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=gER0QTKIElQ)
 - [Dev, projetos complexos exigem de você domínio desses dois pontos. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=q5CpwWE6n-g)
-- [A importância de se especializar no backend](https://www.youtube.com/watch?v=VvMfevUzJ0g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
