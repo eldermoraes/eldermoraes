@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A importância de um backend investir seu tempo em livros](https://www.youtube.com/watch?v=ee8W0pPhPvY)
+- [Dev Java, você tem que ter esse conhecimento. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=GjnAieSFT58)
 - [Como dominar o estudo e a revisão para ser um desenvolvedor de sucesso. #shorts #java #devbackend](https://www.youtube.com/watch?v=HPpGt1PcHIs)
 - [Dev, evolua suas habilidades usando Java no backend. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=yRY67T9eYGc)
 - [Como descobrir o foco da sua carreira e ter sucesso profissional](https://www.youtube.com/watch?v=kEnHDBcSU1U)
-- [Dev, essa é a diferença que trará sucesso para as suas soluções. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=GzTagwx5mi4)
-- [Aprenda a direcionar seus estudos para o sucesso na carreira. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=xEw0SOC6JKk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
