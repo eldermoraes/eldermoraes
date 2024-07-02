@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Descubra seu foco de carreira. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=KO76ibfZBs8)
 - [Como encontrar direção para sua carreira em Java. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=gVpNabzN_5o)
 - [Como a JVM executa o código Java](https://www.youtube.com/watch?v=V0TxV9MbteM)
 - [Como controlar e gerir o seu tempo para estudar. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=09ZAaL1IMJY)
 - [Como começar a estudar. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=2-ApjXoCg3E)
-- [Dev, um arquiteto precisa ter experiência nisso. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=LlAzg9EJ6Vc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
