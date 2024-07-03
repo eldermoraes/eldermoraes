@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Equilíbrio ideal na rotina de estudos como dev](https://www.youtube.com/watch?v=Y_3ZbTNS-88)
+- [Dev backend, saiba como se manter motivado nos estudos](https://www.youtube.com/watch?v=TmmeGY8wYc8)
 - [Descubra seu foco de carreira. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=KO76ibfZBs8)
 - [Como encontrar direção para sua carreira em Java. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=gVpNabzN_5o)
 - [Como a JVM executa o código Java](https://www.youtube.com/watch?v=V0TxV9MbteM)
-- [Como controlar e gerir o seu tempo para estudar. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=09ZAaL1IMJY)
-- [Como começar a estudar. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=2-ApjXoCg3E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
