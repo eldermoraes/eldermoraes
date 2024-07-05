@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Organize sua rotina de estudos como Dev Backend. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=RV3D4wTcllo)
 - [O melhor plano de estudos personalizado para o seu sucesso. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=a8mCQR4EDak)
 - [Equilíbrio ideal na rotina de estudos como dev](https://www.youtube.com/watch?v=Y_3ZbTNS-88)
 - [Dev backend, saiba como se manter motivado nos estudos](https://www.youtube.com/watch?v=TmmeGY8wYc8)
 - [Descubra seu foco de carreira. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=KO76ibfZBs8)
-- [Como encontrar direção para sua carreira em Java. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=gVpNabzN_5o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
