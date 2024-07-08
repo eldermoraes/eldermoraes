@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, descubra como construir um Networking de sucesso](https://www.youtube.com/watch?v=Z6bVL71BU4k)
+- [Práticas essenciais para aprender inglês. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Qnc6nn6-CLo)
 - [Participe de projeto Open Source. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=7--F0vjGkRQ)
 - [Como se tornar um contribuidor do Quarkus. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=YVLXXHEm-Zo)
 - [Organize sua rotina de estudos como Dev Backend. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=RV3D4wTcllo)
-- [O melhor plano de estudos personalizado para o seu sucesso. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=a8mCQR4EDak)
-- [Equilíbrio ideal na rotina de estudos como dev](https://www.youtube.com/watch?v=Y_3ZbTNS-88)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
