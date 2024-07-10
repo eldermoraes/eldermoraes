@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O segredo para se tornar um especialista em Java no backend](https://www.youtube.com/watch?v=q0qNeuqfj1A)
+- [Cursos de inglês para um desenvolvedor. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=kbddWxwzd6M)
 - [Resultados de um dev que aprende e utiliza o inglês. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=9YuMGlcQC5I)
 - [Dev, descubra como construir um Networking de sucesso](https://www.youtube.com/watch?v=Z6bVL71BU4k)
 - [Práticas essenciais para aprender inglês. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Qnc6nn6-CLo)
-- [Participe de projeto Open Source. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=7--F0vjGkRQ)
-- [Como se tornar um contribuidor do Quarkus. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=YVLXXHEm-Zo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
