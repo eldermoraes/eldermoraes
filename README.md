@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Estratégias para se destacar com Networking](https://www.youtube.com/watch?v=2sf2IDP6wfI)
+- [Destravar o inglês pode te abrir oportunidades fantásticas! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=1hrGDbG6jcg)
 - [Tome uma decisão hoje para evitar problemas futuros. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=PQ57t4c5xAs)
 - [O inglês necessário para trabalhar em equipes de engenharia. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=ft9xsf5v7DQ)
 - [Como melhorar seu Networking no mundo Java](https://www.youtube.com/watch?v=FyIEz1V6On4)
-- [Práticas para evitar ao buscar validação do seu inglês. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=6YVNc6M7BoY)
-- [Percepções de um dev após destravar o inglês. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=pedJtGrX_U4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
