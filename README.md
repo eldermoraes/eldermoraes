@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A especialidade certa para sua carreira dev, este é o caminho. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=0NSpsZkYHKM)
 - [Importância de um dev ter domínio mínimo em inglês. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=xKmZKGrLiMQ)
 - [Seja o dono da sua carreira no Backend](https://www.youtube.com/watch?v=UFVSxJg5eqw)
 - [Essa é para o dev backend que quer se destacar em uma área. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=d-w8QpViS1s)
 - [Estratégias para se destacar com Networking](https://www.youtube.com/watch?v=2sf2IDP6wfI)
-- [Destravar o inglês pode te abrir oportunidades fantásticas! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=1hrGDbG6jcg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
