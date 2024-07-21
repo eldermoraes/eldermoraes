@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, é assim que você pode se tornar especialista. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=OeGCkjg8hfw)
 - [O segredo para você colocar em prática o aprendizado de programação. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=19CLrTcCj5Y)
 - [Dicas para um dev que quer destravar seu inglês. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=jKlLPbozJGM)
 - [Dev, descubra a importância do Jakarta NoSQL e Jakarta Data](https://www.youtube.com/watch?v=FQSi1dtWqKc)
 - [Java backend: como destravar sua carreira e aumentar seu salário](https://www.youtube.com/watch?v=6YZYjrH-PwQ)
-- [A especialidade certa para sua carreira dev, este é o caminho. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=0NSpsZkYHKM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
