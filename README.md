@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Esse projeto ajudou bastante na carreira do Otávio Santana!](https://www.youtube.com/watch?v=w13VePvdWhE)
+- [É assim que você cria sua rotina como dev backend. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=rirob1QKYCY)
 - [Entrevistas técnicas: supere a falta de confiança e alcance salários mais altos](https://www.youtube.com/watch?v=snos99BkQCc)
 - [O conhecimento valoriza seu potencial profissional! 😉#shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Mj1vLH_nzEg)
 - [O que um dev não deve fazer se quiser ser um especialista no backend. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=iKB02B6NrDE)
-- [Esse é o segredo para se conectar e crescer na carreira dev backend.](https://www.youtube.com/watch?v=4SimMAGPeic)
-- [Dev, é assim que você pode se tornar especialista. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=OeGCkjg8hfw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
