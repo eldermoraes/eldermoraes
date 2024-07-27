@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como se tornar um especialista em um campo específico. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=GJ2nEcHSu64)
 - [Como vencer a procrastinação e ser bem pago como dev backend Java](https://www.youtube.com/watch?v=X13WbSOXJaE)
 - [A melhor forma de encontrar harmonia e não equilíbrio entre ambos! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=X5XWKMPBWzc)
 - [Dev, é assim que você se mantem atualizado no marcado Java backend](https://www.youtube.com/watch?v=al6RoweYYGU)
 - [Dev, tome ações agora que vão trazer melhores resultados. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=vgryVnqVnQw)
-- [Esse projeto ajudou bastante na carreira do Otávio Santana!](https://www.youtube.com/watch?v=w13VePvdWhE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
