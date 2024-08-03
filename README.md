@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Destravar seu inglês te da acesso a coisas importantes na sua carreira dev! #shorts #dev #devbackend](https://www.youtube.com/watch?v=55YOT02PM8c)
 - [Dev backend, saiba como ir mais longe e mais rápido! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=IitYFW-xa0g)
 - [5 dicas para o sucesso profissional como Dev no Backend](https://www.youtube.com/watch?v=0xjlk1cymG8)
 - [Explorando as possibilidades do Java no Backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=rrggh6Gq6Z4)
 - [As melhores práticas dentro do desenvolvimento de Software](https://www.youtube.com/watch?v=fGwaqIuo9Ow)
-- [Os três pilares para se tornar dev backend Java sênior e ser bem pago #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Og32XRQGEX0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
