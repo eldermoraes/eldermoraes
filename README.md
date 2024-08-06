@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Recursos escassos são mais valiosos, seja um dev especialista! 💡#shorts #dev #java #devbackend](https://www.youtube.com/watch?v=pgOSmoFBO5E)
 - [Além da técnica: habilidades que vão aumentar seu salário como especialista em backend com Java](https://www.youtube.com/watch?v=hKElE_zMdx4)
 - [A importância da escalabilidade horizontal no banco de dados NoSQL](https://www.youtube.com/watch?v=tD9KLdLe6uk)
 - [Estudo e aprendizado no backend é começar a implementar isso! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=hX-yrwHwR_o)
 - [Dev, saiba como descobrir sua paixão e habilidade para o sucesso! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=ZRoY6JkdP4E)
-- [Destravar seu inglês te da acesso a coisas importantes na sua carreira dev! #shorts #dev #devbackend](https://www.youtube.com/watch?v=55YOT02PM8c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
