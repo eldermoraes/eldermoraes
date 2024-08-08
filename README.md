@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, já se perguntou o que estudar para resolver melhor um problema? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=DjWu6o8FzmU)
 - [Tecnologias indispensáveis para ser bem pago como especialista em backend com Java](https://www.youtube.com/watch?v=ZjSlXiwPOAs)
 - [Esse é o segredo para se manter atualizado no mundo Java de forma ativa.](https://www.youtube.com/watch?v=zXLsfG3wrxw)
 - [Dessa forma você consegue se manter atualizado e engajado no backend. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=qqT33ihQ458)
 - [Como usar Quarkus sem abrir mão do seu framework favorito &lpar;e ainda ser mais bem pago por isso&rpar;](https://www.youtube.com/watch?v=Z5Dqi3A7Xjc)
-- [Recursos escassos são mais valiosos, seja um dev especialista! 💡#shorts #dev #java #devbackend](https://www.youtube.com/watch?v=pgOSmoFBO5E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
