@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Saiba porque um dev deveria se manter atualizado dentro do mundo Java #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=86T8SvVN13k)
+- [Dev backend, é assim que você pode elevar sua carreira para o próximo nível](https://www.youtube.com/watch?v=axa-2kebg2A)
 - [Tecnologias emergentes para backend Java vão me ajudar a ser bem pago? #short #dev #java #devbackend](https://www.youtube.com/watch?v=JRSMWcS5d8w)
 - [Essa é a melhor forma pro dev backend encontrar ideias de projetos! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=6FOkEqebn-g)
 - [Persistência de Java em NoSQL: A combinação de mundos para aplicações incríveis](https://www.youtube.com/watch?v=ZLo6fUkFxwI)
-- [Dev, até os grandes projetos estão sempre em atualização e aprendizado #short #dev #java #devbackend](https://www.youtube.com/watch?v=Ri_aSeBcrZo)
-- [Dev, já se perguntou o que estudar para resolver melhor um problema? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=DjWu6o8FzmU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
