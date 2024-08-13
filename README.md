@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java e IA além das modinhas: o que importa para quem é pleno e sênior](https://www.youtube.com/watch?v=56HfwfFxuIc)
 - [Qual impacto das virtual threads na carreira de todo javeiro pleno e sênior](https://www.youtube.com/watch?v=QNpfQujbHdM)
 - [Dev, esse é o segredo da motivação no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=6SR13yAP_LM)
 - [Decisões de carreira que levam devs backend ao topo do mercado](https://www.youtube.com/watch?v=akLZie-220U)
 - [Backend com Java pronto para o Kubernetes: o jeito mais fácil](https://www.youtube.com/watch?v=Oyl1oEtfu7k)
-- [Saiba porque um dev deveria se manter atualizado dentro do mundo Java #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=86T8SvVN13k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
