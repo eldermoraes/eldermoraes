@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, esse é o segredo da motivação no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=6SR13yAP_LM)
 - [Decisões de carreira que levam devs backend ao topo do mercado](https://www.youtube.com/watch?v=akLZie-220U)
 - [Backend com Java pronto para o Kubernetes: o jeito mais fácil](https://www.youtube.com/watch?v=Oyl1oEtfu7k)
 - [Saiba porque um dev deveria se manter atualizado dentro do mundo Java #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=86T8SvVN13k)
 - [Dev backend, é assim que você pode elevar sua carreira para o próximo nível](https://www.youtube.com/watch?v=axa-2kebg2A)
-- [Tecnologias emergentes para backend Java vão me ajudar a ser bem pago? #short #dev #java #devbackend](https://www.youtube.com/watch?v=JRSMWcS5d8w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
