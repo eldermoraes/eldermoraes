@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, é assim que você alcança metas realistas no backend](https://www.youtube.com/watch?v=DBjW1bGHyIc)
+- [Como construir uma carreira internacional sendo especialista em Java #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=8hvwhJ1XoWQ)
 - [Qual impacto das virtual threads na carreira de todo javeiro pleno e sênior](https://www.youtube.com/watch?v=QNpfQujbHdM)
 - [Como superar barreiras e alcançar progresso sendo dev backend #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=6Vs3ugYGS3I)
 - [Sou Javeiro, faço backend, estudo muito, mas não consigo ser bem pago #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=PaqdNI6aglo)
-- [Backend com Java pronto para o Kubernetes: o jeito mais fácil](https://www.youtube.com/watch?v=Oyl1oEtfu7k)
-- [Java e IA além das modinhas: o que importa para quem é pleno e sênior](https://www.youtube.com/watch?v=56HfwfFxuIc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
