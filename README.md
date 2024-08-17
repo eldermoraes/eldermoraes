@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, revisar seu plano e metas é essencial por esses motivos! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=JCp0qc-96fc)
 - [Java e IA além das modinhas: o que importa para quem é pleno e sênior](https://www.youtube.com/watch?v=56HfwfFxuIc)
 - [Dev, é assim que você alcança metas realistas no backend](https://www.youtube.com/watch?v=DBjW1bGHyIc)
 - [Como construir uma carreira internacional sendo especialista em Java #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=8hvwhJ1XoWQ)
 - [Qual impacto das virtual threads na carreira de todo javeiro pleno e sênior](https://www.youtube.com/watch?v=QNpfQujbHdM)
-- [Como superar barreiras e alcançar progresso sendo dev backend #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=6Vs3ugYGS3I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
