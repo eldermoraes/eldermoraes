@@ -22,10 +22,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=0OWQ1G8zdi0)
 - [Foco e motivação nos estudos backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=CnjUiejWNy8)
 - [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend](https://www.youtube.com/watch?v=hyD30BMwAF8)
 - [Transição de Pleno para Sênior #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=bKIRk6cfX80)
-- [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=0OWQ1G8zdi0)
 - [Dev, é assim que a comunidade impulsiona sua carreira no backend](https://www.youtube.com/watch?v=ZKshbR2qGno)
 <!-- YOUTUBE:END -->
 
