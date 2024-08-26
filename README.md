@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O pode da comunidade na sua carreira Java backend! shorts #dev #java #devbackend](https://www.youtube.com/watch?v=ljq_6nCDiDs)
 - [Dev, trabalhe sua mentalidade para crescer no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=RZNkigXFuiM)
 - [A procrastinação trava minha carreira como Java Backend, o que fazer? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=0O9JiZoMZaQ)
 - [O impacto da resolução de problemas no backend](https://www.youtube.com/watch?v=rs7_7xDrQoI)
 - [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=fKMcP9L-ya0)
-- [Dev, é claro onde você quer chegar na sua carreira backend? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=thCi-fIa1X4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
