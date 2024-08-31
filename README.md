@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como garantir um bom salário como especialista em backend com Java! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=_F9xwynE2Ww)
 - [Porque a motivação é importante na sua carreira dev backend](https://www.youtube.com/watch?v=iO5Xh3rbIBo)
 - [Dev, seu foco é o problema que você resolve no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=wpyt1BMdzcA)
 - [Um JUG pode aumentar meu salário como especialista em Java? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=LISfE9NOoek)
 - [Dev, essas são as técnicas para se manter motivado no backend](https://www.youtube.com/watch?v=uEntGtISUjI)
-- [Dev backend, se essa é sua mentalidade esse vídeo é para você! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=8ZHpUirz1Yc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
