@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Banco de Dados orientados a objetos em Java vale a pena? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=r-AYpLbAi5k)
 - [Dev, entenda os fundamentos por trás das suas dúvidas! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=sZGvJMpYArU)
 - [Dev, é assim que você descobre Sua Especialidade no backend](https://www.youtube.com/watch?v=VS-1OHjwz_s)
 - [Dev, seu foco está no problema ou na ferramenta? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=JwdcghmMZd0)
 - [Como garantir um bom salário como especialista em backend com Java! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=_F9xwynE2Ww)
-- [Porque a motivação é importante na sua carreira dev backend](https://www.youtube.com/watch?v=iO5Xh3rbIBo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
