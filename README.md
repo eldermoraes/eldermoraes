@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como o bim validation revoluciona a consistência de dados. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=FMPT4np7OuU)
 - [Isso mudou tudo na minha carreira Java backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=wMceQjK4Mgw)
 - [O segredo para uma Carreira de Destaque no backend](https://www.youtube.com/watch?v=lk3-xoYUy_c)
 - [Banco de Dados orientados a objetos em Java vale a pena? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=r-AYpLbAi5k)
 - [Dev, entenda os fundamentos por trás das suas dúvidas! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=sZGvJMpYArU)
-- [Dev, é assim que você descobre Sua Especialidade no backend](https://www.youtube.com/watch?v=VS-1OHjwz_s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
