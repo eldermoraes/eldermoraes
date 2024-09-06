@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev backend, esse é o objetivo das palestras! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=_byvAPwP12Q)
+- [Quando é o caso de ser especialista em Java no backend](https://www.youtube.com/watch?v=ADsag3JddSs)
 - [Como o bean validation revoluciona a consistência de dados. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=FMPT4np7OuU)
 - [Isso mudou tudo na minha carreira Java backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=wMceQjK4Mgw)
 - [O segredo para uma Carreira de Destaque no backend](https://www.youtube.com/watch?v=lk3-xoYUy_c)
-- [Banco de Dados orientados a objetos em Java vale a pena? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=r-AYpLbAi5k)
-- [Dev, entenda os fundamentos por trás das suas dúvidas! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=sZGvJMpYArU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
