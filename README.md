@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como o Cassandra revoluciona servidores distribuídos como o Netflix! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=t7msSMSd8tg)
 - [Dev backend, esse é o objetivo das palestras! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=_byvAPwP12Q)
 - [Quando é o caso de ser especialista em Java no backend](https://www.youtube.com/watch?v=ADsag3JddSs)
 - [Como o bean validation revoluciona a consistência de dados. #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=FMPT4np7OuU)
 - [Isso mudou tudo na minha carreira Java backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=wMceQjK4Mgw)
-- [O segredo para uma Carreira de Destaque no backend](https://www.youtube.com/watch?v=lk3-xoYUy_c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
