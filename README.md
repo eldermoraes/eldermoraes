@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java no Mundo Serverless?](https://www.youtube.com/watch?v=-zgcLNyJBpo)
 - [Principal erro e mais comum em NoSQL! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=haWZfeS6dRc)
 - [Como a IA pode transformar sua carreira no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=N_0oA_zpzcw)
 - [Como o Cassandra revoluciona servidores distribuídos como o Netflix! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=t7msSMSd8tg)
 - [Dev backend, esse é o objetivo das palestras! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=_byvAPwP12Q)
-- [Quando é o caso de ser especialista em Java no backend](https://www.youtube.com/watch?v=ADsag3JddSs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
