@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Insights práticos para levar sua carreira como dev backend em Java ao próximo nível](https://www.youtube.com/watch?v=l9aU4aQsufw)
 - [Era da IA , Tendências no backend](https://www.youtube.com/watch?v=fjqeHOOWOis)
 - [Dev, o IA pode transformar sua carreira backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=DcrzHax8Fl0)
 - [NoSQL &amp; SQL: Quando usar cada um?](https://www.youtube.com/watch?v=WMKLTdoooqo)
 - [Dev, é assim que você aumenta sua produtividade! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Rj9WMiKGm1U)
-- [Inglês e networking no Java backend](https://www.youtube.com/watch?v=Ad91XKPPInM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
