@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Essa é uma das tendências no mundo Java agora! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=abDiHkDb8Is)
 - [Quarkus e Compilação Nativa no mundo java](https://www.youtube.com/watch?v=pmTNJyRH3kw)
 - [Java não é uma dúvida no mundo Serverless! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=GVTnYGIQiFk)
 - [Decisões em tecnologias de persistência! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=rg5zJkGlpks)
 - [Insights práticos para levar sua carreira como dev backend em Java ao próximo nível](https://www.youtube.com/watch?v=l9aU4aQsufw)
-- [Era da IA , Tendências no backend](https://www.youtube.com/watch?v=fjqeHOOWOis)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
