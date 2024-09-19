@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev backend, é assim que você acelera seu crescimento profissional! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=drQNx3VKuf4)
 - [Dev backend, você precisa quebrar essa barreira](https://www.youtube.com/watch?v=YOjF-U5I-wk)
 - [Dev, aprenda inglês com nativos de forma gratuita! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=LWKbSjLJoGU)
 - [Essa é uma das tendências no mundo Java agora! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=abDiHkDb8Is)
 - [Quarkus e Compilação Nativa no mundo java](https://www.youtube.com/watch?v=pmTNJyRH3kw)
-- [Java não é uma dúvida no mundo Serverless! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=GVTnYGIQiFk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
