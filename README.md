@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ferramentas poderosas para seu desenvolvimento técnico no backend](https://www.youtube.com/watch?v=GW1vYl0q4Oc)
+- [Dev, já ouviu falar no método Pomodoro? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=AgGyyC1rK8U)
 - [Como aprender inglês mudou minha vida como dev backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=TMPUzmhvu-M)
 - [Essa é a chave para gerar mais resultado no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=vK5rf4S_LH8)
 - [Tendências no Java para você dev backend](https://www.youtube.com/watch?v=q5s94Y-cXhw)
-- [Não seja um dev backend que despreza recursos! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=b1_zMUHBVbY)
-- [Dev backend, é assim que você acelera seu crescimento profissional! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=drQNx3VKuf4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
