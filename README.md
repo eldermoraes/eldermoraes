@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dicas para desenvolver seu inglês como dev backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=GnAPlcUCkSQ)
 - [Como Organizar Seu Tempo como dev backend](https://www.youtube.com/watch?v=XnKqT7_V9Xk)
 - [Dev backend, aumente sua empregabilidade fazendo isso! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=41QvAvTFFGo)
 - [Inglês e colaboração em projetos Open Source #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=qlGCOWKlzUw)
 - [Ferramentas poderosas para seu desenvolvimento técnico no backend](https://www.youtube.com/watch?v=GW1vYl0q4Oc)
-- [Dev, já ouviu falar no método Pomodoro? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=AgGyyC1rK8U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
