@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, você já ouviu falar em síndrome do Impostor? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=lift7kASRKE)
 - [Como Definir Metas Realistas e Eficazes para Seu desenvolvimento no backend](https://www.youtube.com/watch?v=oOWkV1PZ2tE)
 - [Dev, o planejamento é o segredo para o sucesso profissional! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=C12EO0vYfYs)
 - [Dicas para desenvolver seu inglês como dev backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=GnAPlcUCkSQ)
 - [Como Organizar Seu Tempo como dev backend](https://www.youtube.com/watch?v=XnKqT7_V9Xk)
-- [Dev backend, aumente sua empregabilidade fazendo isso! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=41QvAvTFFGo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
