@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev backend, você não se acha bom suficiente? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=UNeXtmN8fmE)
 - [Dev, você já revisou ou refez projetos antigos no backend? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=xJXem2YFqPE)
 - [Esse é o poder da mentoria no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=vYl5xnM1DPk)
 - [Se você é um dev backend sem tempo, esse vídeo é para você](https://www.youtube.com/watch?v=c0KhFoM0e_Q)
 - [O online é uma boa alternativa para seu planejamento no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=zrIY0QB6PLQ)
-- [Liberte seu potencial com Java backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=yq7EEG-JxwQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
