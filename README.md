@@ -22,7 +22,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Dev, se compare consigo mesmo! #shorts #dev #java #devbackend #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=qqVY_PiyS48)
+- [Dev, compare-se a si mesmo! #shorts #dev #java #devbackend #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=qqVY_PiyS48)
 - [Essa técnica pode te ajudar a receber uma promoção como dev backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=woJICgug-g8)
 - [Várias pessoas já conseguiram uma promoção fazendo isso como dev backend](https://www.youtube.com/watch?v=KtbjVp7y9lA)
 - [Dev backend, você não se acha bom suficiente? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=UNeXtmN8fmE)
