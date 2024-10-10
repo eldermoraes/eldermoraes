@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Aprenda com suas falhas como dev backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=U4VzVKNQnfI)
 - [Você é esse tipo de dev na hora de entrevistas? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=cPnucFYwKqg)
 - [Dev, é assim que você se prepara para Entrevistas Técnicas](https://www.youtube.com/watch?v=7oIABaNWr0I)
 - [Dev, compare-se a si mesmo! #shorts #dev #java #devbackend #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=qqVY_PiyS48)
 - [Essa técnica pode te ajudar a receber uma promoção como dev backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=woJICgug-g8)
-- [Várias pessoas já conseguiram uma promoção fazendo isso como dev backend](https://www.youtube.com/watch?v=KtbjVp7y9lA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
