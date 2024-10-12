@@ -22,10 +22,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Já domino o backend, mas sinto que estou estagnado no meu salário](https://www.youtube.com/watch?v=rvyWyHBikSU)
 - [Estou com dificuldades para entender as melhores práticas de arquitetura em backend avançado](https://www.youtube.com/watch?v=CJCUYE3BhN8)
 - [Você é esse tipo de dev na hora de entrevistas? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=M1hYvLD8Dpo)
 - [Tenho anos de experiência em backend, mas ainda me sinto perdido nas novas versões de Java](https://www.youtube.com/watch?v=IRZ1ums2x_4)
-- [Já domino o backend, mas sinto que estou estagnado no meu salário](https://www.youtube.com/watch?v=rvyWyHBikSU)
 - [Aprenda com suas falhas como dev backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=U4VzVKNQnfI)
 <!-- YOUTUBE:END -->
 
