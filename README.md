@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Quero me especializar mais em Java, mas sempre me perco na multidão de frameworks](https://www.youtube.com/watch?v=w3fdUJOZNtg)
 - [Você não tem tempo para sua carreira dev? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=8TYZQOjGFDE)
 - [Estratégia definitiva para você lidar com o medo de falhar no backend](https://www.youtube.com/watch?v=39A6xnenkBw)
 - [Dev, desenvolva-se em Comunidade! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=fgyaGkk4h8s)
 - [Faça estudos dirigidos para entrar em grandes empresas como dev backend! #shorts #dev #devbackend](https://www.youtube.com/watch?v=yPFGvCnOUXM)
-- [Já domino o backend, mas sinto que estou estagnado no meu salário](https://www.youtube.com/watch?v=rvyWyHBikSU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
