@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Meu código Java no backend funciona, mas sinto que está longe de ser otimizado](https://www.youtube.com/watch?v=Xh1zPwa-3x8)
 - [Estou com dificuldades para entender as melhores práticas de arquitetura em backend avançado](https://www.youtube.com/watch?v=CJCUYE3BhN8)
 - [Quero me especializar mais em Java, mas sempre me perco na multidão de frameworks](https://www.youtube.com/watch?v=w3fdUJOZNtg)
 - [Você não tem tempo para sua carreira dev? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=8TYZQOjGFDE)
 - [Estratégia definitiva para você lidar com o medo de falhar no backend](https://www.youtube.com/watch?v=39A6xnenkBw)
-- [Dev, desenvolva-se em Comunidade! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=fgyaGkk4h8s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
