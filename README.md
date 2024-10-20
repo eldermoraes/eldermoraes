@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev backend, saiba o que é prioridade em sua vida! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=sbXIgyedG04)
 - [Meu esforço não é valorizado no salário, mesmo entregando soluções complexas em backend](https://www.youtube.com/watch?v=67pjJXsYAus)
 - [Domine sua carreira como dev backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=ebztGnRsI30)
 - [A verdade sobre equilibrar trabalho e vida pessoal como dev backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=AmwOFZ4NUeA)
 - [Tenho experiência em backend, mas meu inglês ainda me impede de avançar](https://www.youtube.com/watch?v=WVyxjM6pUOA)
-- [Estratégia definitiva para você lidar com o medo de falhar no backend](https://www.youtube.com/watch?v=Rt4qc-ZmIZ8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
