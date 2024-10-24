@@ -22,9 +22,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Quero entregar soluções de alto impacto e reconhecimento usando Java no backend](https://www.youtube.com/watch?v=IfB1Us99vh4)
 - [Tendências e novos conhecimentos no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=5HYhnG7_6xo)
 - [Quero me destacar como especialista em backend Java e ser bem pago por isso](https://www.youtube.com/watch?v=bAj7O9ED9UE)
-- [Quero entregar soluções de alto impacto e reconhecimento usando Java no backend](https://www.youtube.com/watch?v=IfB1Us99vh4)
 - [Dev backend, saiba o que é prioridade em sua vida! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=sbXIgyedG04)
 - [Meu esforço não é valorizado no salário, mesmo entregando soluções complexas em backend](https://www.youtube.com/watch?v=67pjJXsYAus)
 <!-- YOUTUBE:END -->
