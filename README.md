@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, a comunicação é sempre essencial! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=I0PtUC4uS9w)
 - [Quero ser reconhecido como referência técnica em Java no backend e ganhar mais por isso](https://www.youtube.com/watch?v=pw3TiHwSteA)
 - [Quero ter um plano claro que vá além do nível sênior como especialista em backend com Java](https://www.youtube.com/watch?v=g5WXhrGY25g)
 - [Quero entregar soluções de alto impacto e reconhecimento usando Java no backend](https://www.youtube.com/watch?v=IfB1Us99vh4)
 - [Tendências e novos conhecimentos no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=5HYhnG7_6xo)
-- [Quero me destacar como especialista em backend Java e ser bem pago por isso](https://www.youtube.com/watch?v=bAj7O9ED9UE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
