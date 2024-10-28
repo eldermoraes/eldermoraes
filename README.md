@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, selecione suas fontes e tendências no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=qQgcO1sEt0w)
+- [Dev backend, você já pensou em criar conteúdo?](https://www.youtube.com/watch?v=_UEg_IYf5Fs)
 - [Dev backend, não se culpe pela falta de tempo! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=TG2sBee9XVg)
 - [Quero ser reconhecido como referência técnica em Java no backend e ganhar mais por isso](https://www.youtube.com/watch?v=pw3TiHwSteA)
 - [Dev backend, não deixe o tempo passar sem progresso! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=yLeWS97dmqo)
-- [Quero ter um plano claro que vá além do nível sênior como especialista em backend com Java](https://www.youtube.com/watch?v=g5WXhrGY25g)
-- [Dev, a comunicação é sempre essencial! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=I0PtUC4uS9w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
