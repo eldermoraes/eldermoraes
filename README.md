@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev backend Remoto vs Presencial: O Que Funciona Melhor? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=RHtGAhPqo28)
 - [Quero melhorar a minha produtividade no backend sem perder a qualidade do meu código Java](https://www.youtube.com/watch?v=rxbGuJ2qsQc)
 - [Dev, saiba como gerenciar prioridades com sucesso](https://www.youtube.com/watch?v=z8RaTvECxSY)
 - [Dev, aplique as novas tendências em seus projetos no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=5_bo4R8m2nk)
 - [Dev backend, é assim que você concilia seus afazeres! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=TtFz0DCWxLM)
-- [Dev, selecione suas fontes e tendências no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=qQgcO1sEt0w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
