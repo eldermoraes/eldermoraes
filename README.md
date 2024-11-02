@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Organização e disciplina no backend #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=HTSbnxpEpng)
 - [Quero melhorar a minha produtividade no backend sem perder a qualidade do meu código Java](https://www.youtube.com/watch?v=rxbGuJ2qsQc)
 - [Dev, domine o conhecimento no backend](https://www.youtube.com/watch?v=TkmdjBUIVMg)
 - [Projetos Open Source e novos conhecimento no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=1BY9fFWblck)
 - [Dev backend Remoto vs Presencial: O Que Funciona Melhor? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=RHtGAhPqo28)
-- [Dev, saiba como gerenciar prioridades com sucesso](https://www.youtube.com/watch?v=z8RaTvECxSY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
