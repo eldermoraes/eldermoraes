@@ -22,8 +22,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Dev backend, saiba como pequenos ajustes podem transformar sua vida! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=GZwgL_O0YE0)
 - [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=H4t12fzBl3M)
+- [Dev backend, saiba como pequenos ajustes podem transformar sua vida! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=GZwgL_O0YE0)
 - [Dicas para devs Java: Vida pessoal vs Trabalho](https://www.youtube.com/watch?v=tEPLmahea9w)
 - [Dev backend, mudança de hábito leva tempo! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=TJSqCo4QU64)
 - [A força do trabalho em grupo no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=7eAXb4xKSsc)
