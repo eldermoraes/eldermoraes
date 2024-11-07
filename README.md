@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=YxHtGI_PqTE)
 - [Dev, saiba como aumentar sua produtividade no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=EZ4YpA65CCQ)
 - [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend](https://www.youtube.com/watch?v=VpDmuaLeFUw)
 - [Disciplina é a chave para resultados no java backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=oe4SwtA5svM)
 - [Disciplina e produtividade: Segredos para devs Java](https://www.youtube.com/watch?v=SYKlyEcvVwY)
-- [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=H4t12fzBl3M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
