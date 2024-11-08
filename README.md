@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Quer ser um especialista em Java, esse é o caminho! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=iFRWkSnEZHI)
+- [Dev, saiba como crescer sendo um profissional cada vez melhor](https://www.youtube.com/watch?v=En0rEWBAGRs)
 - [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=YxHtGI_PqTE)
 - [Dev, saiba como aumentar sua produtividade no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=EZ4YpA65CCQ)
 - [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend](https://www.youtube.com/watch?v=VpDmuaLeFUw)
-- [Disciplina é a chave para resultados no java backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=oe4SwtA5svM)
-- [Disciplina e produtividade: Segredos para devs Java](https://www.youtube.com/watch?v=SYKlyEcvVwY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
