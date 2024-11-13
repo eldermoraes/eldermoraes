@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, essa é a rota para o sucesso no Java backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=bUOOKWTQGY4)
+- [Dev, transforme seu estudo em resultados no backend](https://www.youtube.com/watch?v=6nyrZhfr9_U)
 - [Como construir relações no Java backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=qA5Y6tEE5GI)
 - [Dicas infalíveis para começar seu dia organizado no Java backend](https://www.youtube.com/watch?v=z3TmQuvzvoM)
 - [Dev backend, você pratica a aprendizagem ativa? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=cMaWGIHpAvk)
-- [Clareza é o segredo da produtividade no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=jSBJTRbYxTc)
-- [Quer ser um especialista em Java, esse é o caminho! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=iFRWkSnEZHI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
