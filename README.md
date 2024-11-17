@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O papel do mentor na sua carreira backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=h2aAIcoB07A)
 - [Como contribuir e crescer juntos no java backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=aKFjg-V-CNc)
 - [Encontre sua direção profissional no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=y3G711IuAq8)
 - [Dev backend, tenha uma rotina mais produtiva](https://www.youtube.com/watch?v=d-yz1BpsSGA)
 - [Dev, esse é o segredo para projetos incríveis! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=hoTRqrrJgrM)
-- [Dev, essa é a rota para o sucesso no Java backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=bUOOKWTQGY4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
