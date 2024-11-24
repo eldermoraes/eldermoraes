@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como definir o foco da sua carreira no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=2XRBuPsCAzQ)
 - [Dev backend, a teoria sem prática é vazia! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=ZF52RP4pAbU)
 - [Saiba como se conectar com outros devs backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=cwhPnhN4sSI)
 - [Dev backend, é assim que você faz um Networking Eficaz](https://www.youtube.com/watch?v=TUxpQbmm2No)
 - [Dev, como projetos pessoais podem transformar sua vida profissional! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Gk8pKtvI098)
-- [Relacionamentos genuínos no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=1DiNMLnDmcg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
