@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev backend, isso é muito importante em processos seletivos! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=OlWneJVJT0k)
 - [Como ser uma referência na sua área Java backend](https://www.youtube.com/watch?v=RQoUaB0PYXA)
 - [Dev, você pratica a aprendizagem ativa nos seus estudos? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=ABO6fq0LHTw)
 - [Dev, não cometa esse erro no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=-xTZa1WBZ8w)
 - [Dev, isso pode acelerar seu aprendizado no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=KuYx8StZyJo)
-- [Dev, qual sua desculpa para não fazer Networking?](https://www.youtube.com/watch?v=OlGx15TGKlA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
