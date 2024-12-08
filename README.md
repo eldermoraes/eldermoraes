@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java backend: como se destacar no teste técnico? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=jaKT0f8taK4)
 - [Escolhas Estratégicas no Backend com Java: Mais Projetos e Melhores Salários](https://www.youtube.com/watch?v=S1B2YujYTlo)
 - [Backend Java: dedicação diária que transforma sua carreira! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=s_iokPTSrAM)
 - [Foco no backend Java: menos dúvidas, mais liberdade! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=ueG9dSMTbrE)
 - [Dev, você se prepara para processos técnicos? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=bAbrlMnJ0Xk)
-- [Dev, identifique e supere seus gaps de aprendizado no java backend](https://www.youtube.com/watch?v=VeI7tviwLEY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
