@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Desbloqueie oportunidades represadas na sua carreira Java backend](https://www.youtube.com/watch?v=TDKza-Al1Eg)
 - [Procrastinação custa caro: desenvolva suas habilidades como dev backend! #shorts #java #devbackend](https://www.youtube.com/watch?v=eu3Zddw__QA)
 - [Confiança e preparação: Diferenciais para conquistar as melhores vagas Java Backend](https://www.youtube.com/watch?v=MkpIXA1mkwk)
 - [Backend Java: como seu raciocínio impacta no teste técnico #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=BxVGzm2ma0I)
 - [Java backend: vença a procrastinação nos estudos e projetos! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=SXZyvKdTE3g)
-- [Comunicação técnica no backend Java: pratique e destrave seu potencial! #shorts #java #devbackend](https://www.youtube.com/watch?v=3xYPr93KGpI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
