@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Destaque-se no backend: A importância da comunicação na sua carreira! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=3C2U09XOWq0)
 - [Resultados Represados  Como a procrastinação está bloqueando sua carreira Java](https://www.youtube.com/watch?v=axQ--rOBcJ8)
 - [Suba a montanha: como ir além e se destacar no java backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=PPJq9oWrXIY)
 - [Transforme resultados em oportunidades: Java backend na prática #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=2nyF_tol-3U)
 - [Dev, transmitir confiança pode mudar tudo! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=LaoiU6BHrLU)
-- [Desbloqueie oportunidades represadas na sua carreira Java backend](https://www.youtube.com/watch?v=TDKza-Al1Eg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
