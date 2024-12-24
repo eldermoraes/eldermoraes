@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Comunidade e Liderança: O segredo para Devs Backend Java bem sucedidos](https://www.youtube.com/watch?v=TS-j240VVeA)
+- [Como ser mais valorizado no mercado de desenvolvimento de software?  #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=QACoAhxCc6k)
 - [Por que a especialização é o caminho para o reconhecimento e valorização para devs backend](https://www.youtube.com/watch?v=-Bk2Qc1lSm0)
 - [Backend Java: Quarkus e outros frameworks podem trabalhar juntos! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=6kh3gGQ2GK4)
 - [Trabalho em comunidade: conhecimento, conexões e oportunidades no backend! #shorts #dev #java](https://www.youtube.com/watch?v=_1ZJbJooLZU)
-- [Passo a passo para devs backend: Vencendo a procrastinação e alcançando resultados](https://www.youtube.com/watch?v=GWBRBRA60kQ)
-- [Se comunicar bem: o diferencial que o mercado backend mais precisa hoje! #shorts #java #devbackend](https://www.youtube.com/watch?v=2ysXD6kWIes)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
