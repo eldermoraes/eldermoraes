@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Os segredos para construir uma carreira internacional como especialista Backend](https://www.youtube.com/watch?v=-agVK6JpWmo)
 - [Quanto ganha um especialista em backend &lpar;e como chegar lá&rpar; #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=VH98E-401wc)
 - [O motivo número um que impede o crescimento da sua carreira! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=bQtMvK-SMH4)
 - [Comunidade e Liderança: O segredo para Devs Backend Java bem sucedidos](https://www.youtube.com/watch?v=TS-j240VVeA)
 - [Como ser mais valorizado no mercado de desenvolvimento de software?  #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=QACoAhxCc6k)
-- [Por que a especialização é o caminho para o reconhecimento e valorização para devs backend](https://www.youtube.com/watch?v=-Bk2Qc1lSm0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
