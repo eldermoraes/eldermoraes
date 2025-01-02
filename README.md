@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Serverless com Quarkus: velocidade que redefine padrões no backend!  #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=pukvRG7nI1I)
 - [Quarkus Panache: solução para casos menos complexos #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=wX2mNaeOO3Y)
 - [Você não se sente bom o suficiente para os melhores salários? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=9ekGeWnvIKw)
 - [Do pleno ao especialista: habilidades além do código para levar sua carreira ao próximo nível](https://www.youtube.com/watch?v=71G_qmxcmGs)
 - [Como se tornar o profissional mais desejado pelas vagas mais bem pagas do mercado](https://www.youtube.com/watch?v=F7EGhI_NpxY)
-- [Os segredos para construir uma carreira internacional como especialista Backend](https://www.youtube.com/watch?v=-agVK6JpWmo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
