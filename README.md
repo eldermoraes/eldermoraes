@@ -23,10 +23,10 @@
 
 <!-- YOUTUBE:START -->
 - [Quarkus e compilação nativa: otimizando o Native Image Builder! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=jQgoJ4082YY)
-- [Backend Java: Adote Quarkus sem abrir mão do que você já sabe](https://www.youtube.com/watch?v=Gd_R_Hq3oNA)
 - [Serverless com Quarkus: velocidade que redefine padrões no backend!  #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=pukvRG7nI1I)
 - [Quarkus Panache: solução para casos menos complexos #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=wX2mNaeOO3Y)
 - [Você não se sente bom o suficiente para os melhores salários? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=9ekGeWnvIKw)
+- [Do pleno ao especialista: habilidades além do código para levar sua carreira ao próximo nível](https://www.youtube.com/watch?v=71G_qmxcmGs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
