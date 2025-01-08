@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cloud Native e Java Backend: Containers, Kubernetes e o papel do Quarkus](https://www.youtube.com/watch?v=SDzU2iQsRz8)
+- [Backend Java: foco nas tecnologias que abrem portas no mercado!  #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=S28Fducj77o)
 - [Containers no backend: o conhecimento essencial que não pode esperar! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=tQWYJyjp39k)
 - [Containers e Kubernetes: a base essencial para aplicações no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=HHi7GgnfbR4)
 - [Backend Java: descubra como o Quarkus adapta seus frameworks! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=_NvxgDIxMSo)
-- [Desenvolvimento Java com Quarkus: menos consumo, mais performance! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=qAJCMlgpDdU)
-- [Quarkus e compilação nativa: otimizando o Native Image Builder! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=jQgoJ4082YY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
