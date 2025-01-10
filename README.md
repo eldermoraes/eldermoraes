@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev Backend: minha jornada começou assim! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=cBA33D1JM-c)
 - [Habilidades que vão além do código: como se destacar no mercado Java Backend](https://www.youtube.com/watch?v=gB-4LzEcZf0)
 - [Foco no backend: como evitar distrações e alcançar seus objetivos! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=f6VhyYV3CdI)
 - [Cloud Native e Java Backend: Containers, Kubernetes e o papel do Quarkus](https://www.youtube.com/watch?v=SDzU2iQsRz8)
 - [Backend Java: foco nas tecnologias que abrem portas no mercado!  #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=S28Fducj77o)
-- [Containers no backend: o conhecimento essencial que não pode esperar! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=tQWYJyjp39k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
