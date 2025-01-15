@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Backend Java e open source: como aproveitar a vitória da colaboração! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=qklTTBM3a-I)
 - [Home office e produtividade: o que a pandemia provou para o mercado! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=jun124WhguI)
 - [Backend Java: resolvendo problemas ou criando complexidade? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=HTk67wvI-gA)
 - [Carreira no backend: ser pago para fazer o que ama! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=YedeEg1LlAg)
 - [Como o Quarkus revoluciona o Java backend com extensões e performance](https://www.youtube.com/watch?v=G7VHjND6I0E)
-- [Dev Backend: minha jornada começou assim! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=cBA33D1JM-c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
