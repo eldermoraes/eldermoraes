@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Desenvolvimento inteligente: o impacto da inteligência artificial no backend Java](https://www.youtube.com/watch?v=ZU-PTJxFMWs)
 - [Do pleno ao especialista: habilidades além do código para levar sua carreira ao próximo nível](https://www.youtube.com/watch?v=71G_qmxcmGs)
 - [Backend Java e open source: como aproveitar a vitória da colaboração! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=qklTTBM3a-I)
 - [Home office e produtividade: o que a pandemia provou para o mercado! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=jun124WhguI)
 - [Backend Java: resolvendo problemas ou criando complexidade? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=HTk67wvI-gA)
-- [Carreira no backend: ser pago para fazer o que ama! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=YedeEg1LlAg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
