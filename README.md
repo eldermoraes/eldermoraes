@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Quarkus na prática: health check, REST Client e fallback para aplicações robustas](https://www.youtube.com/watch?v=BP6i2XwgWDQ)
+- [Backend Java: Quarkus e sua revolução nos ambientes distribuídos! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=YVmAFeTw-Es)
+- [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=KibVqXdPYE0)
 - [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend](https://www.youtube.com/watch?v=YL_Y7hva-ec)
 - [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=6G5yciAiyak)
-- [Por que a especialização é o caminho para o reconhecimento e valorização para devs backend](https://www.youtube.com/watch?v=-Bk2Qc1lSm0)
-- [Maturidade no mercado tech: como evoluir além da experiência no backend Java](https://www.youtube.com/watch?v=oEUnggFL24w)
-- [Backend Java e Kubernetes: existe um jeito mais fácil de rodar? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=jq_hNo4qQok)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
