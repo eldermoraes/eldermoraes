@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend](https://www.youtube.com/watch?v=YL_Y7hva-ec)
+- [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=6G5yciAiyak)
 - [Por que a especialização é o caminho para o reconhecimento e valorização para devs backend](https://www.youtube.com/watch?v=-Bk2Qc1lSm0)
 - [Maturidade no mercado tech: como evoluir além da experiência no backend Java](https://www.youtube.com/watch?v=oEUnggFL24w)
 - [Backend Java e Kubernetes: existe um jeito mais fácil de rodar? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=jq_hNo4qQok)
-- [Os segredos para construir uma carreira internacional como especialista Backend](https://www.youtube.com/watch?v=-agVK6JpWmo)
-- [Como se tornar o profissional mais desejado pelas vagas mais bem pagas do mercado](https://www.youtube.com/watch?v=F7EGhI_NpxY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
