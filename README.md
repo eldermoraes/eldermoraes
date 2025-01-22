@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Liveness vs Readiness: como o Kubernetes gerencia sua aplicação! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=OkLkslRh6_I)
 - [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=6G5yciAiyak)
 - [Backend Java: A visão por trás do Quarkus #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=76sQJ8PuEDU)
 - [Quarkus na prática: health check, REST Client e fallback para aplicações robustas](https://www.youtube.com/watch?v=BP6i2XwgWDQ)
 - [Backend Java: Quarkus e sua revolução nos ambientes distribuídos! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=YVmAFeTw-Es)
-- [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=KibVqXdPYE0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
