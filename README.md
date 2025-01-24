@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Backend Java: Usando as boas e velhas blocking APIs! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=90eWzN09TT0)
 - [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=KibVqXdPYE0)
 - [Virtual Threads no Java: mais performance e menos impacto na JVM! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Z7RU2TDif7Y)
 - [Virtual Threads na prática: performance, concorrência e melhores estratégias](https://www.youtube.com/watch?v=4CaeWPgO7UQ)
 - [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend](https://www.youtube.com/watch?v=YL_Y7hva-ec)
-- [Liveness vs Readiness: como o Kubernetes gerencia sua aplicação! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=OkLkslRh6_I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
