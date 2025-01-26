@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Mais eficiência no Java: práticas para trabalhar com Virtual Threads! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Q_W7fkw6LCI)
 - [Performance e escalabilidade no backend Java: o impacto das Virtual Threads](https://www.youtube.com/watch?v=d3fyAa5-15Y)
 - [Backend Java: Quarkus abstrai a complexidade das Virtual Threads! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=MfRZ9-vH5yQ)
 - [Backend Java: Usando as boas e velhas blocking APIs! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=90eWzN09TT0)
 - [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=KibVqXdPYE0)
-- [Virtual Threads no Java: mais performance e menos impacto na JVM! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Z7RU2TDif7Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
