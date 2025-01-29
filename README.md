@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Conversational Chain: interações entre modelos no LangChain! #shorts #java #devbackend](https://www.youtube.com/watch?v=MdK6Opf388U)
 - [Como integrar inteligência artificial ao seu backend Java](https://www.youtube.com/watch?v=Ew53OXopmJ0)
 - [Quarkus: mais que um framework, uma plataforma otimizada para Java! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=2XZ-jRk0tH8)
 - [Virtual Threads e a JVM: mais eficiência no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=EKtjbWzKLNs)
 - [Mais eficiência no Java: práticas para trabalhar com Virtual Threads! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Q_W7fkw6LCI)
-- [Performance e escalabilidade no backend Java: o impacto das Virtual Threads](https://www.youtube.com/watch?v=d3fyAa5-15Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
