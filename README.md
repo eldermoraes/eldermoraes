@@ -22,7 +22,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Backend Java e IA: Resting Point usando o Quarkus! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=AOXw4VieWN4)
+- [Backend Java e IA: Enpoint Rest usando o Quarkus! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=AOXw4VieWN4)
 - [Quarkus e IA: integrando modelos de linguagem ao seu backend Java](https://www.youtube.com/watch?v=A1UDbL30z_c)
 - [Machine Learning: como a IA aprende com dados! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Pjo2cqmpWhI)
 - [Conversational Chain: interações entre modelos no LangChain! #shorts #java #devbackend](https://www.youtube.com/watch?v=MdK6Opf388U)
