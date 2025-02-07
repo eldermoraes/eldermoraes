@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Backend Java: O Jeito certo de se atualizar! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=1bUNSVYc-ao)
 - [Do código à comunidade: como compartilhar conhecimento impulsiona sua carreira](https://www.youtube.com/watch?v=qD3tbEwLuQk)
 - [Backend Java: como entregar aplicações melhores e crescer na carreira #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=g29jqvMTtq8)
 - [Java Virtual Threads na prática: dúvidas, desafios e benefícios](https://www.youtube.com/watch?v=wyXl3qOOgjY)
 - [Embedding Documents: integrando dados do seu negócio ao modelo de IA! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Dz-ujmg5P9s)
-- [Backend Java e IA: Enpoint Rest usando o Quarkus! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=AOXw4VieWN4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
