@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como containers facilitam a migração para novas versões do Java! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=NpNc1Ov5g90)
 - [Dev Backend: Pare de estudar tudo e aprenda só o que impacta seu código! #shorts #java #devbackend](https://www.youtube.com/watch?v=6iN1ORiVPkg)
 - [Backend Java: O Jeito certo de se atualizar! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=1bUNSVYc-ao)
 - [Do código à comunidade: como compartilhar conhecimento impulsiona sua carreira](https://www.youtube.com/watch?v=qD3tbEwLuQk)
 - [Backend Java: como entregar aplicações melhores e crescer na carreira #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=g29jqvMTtq8)
-- [Java Virtual Threads na prática: dúvidas, desafios e benefícios](https://www.youtube.com/watch?v=wyXl3qOOgjY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
