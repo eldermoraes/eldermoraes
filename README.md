@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Estratégia de Entregas Frequentes para Devs Backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=R1zx1f89dZ8)
 - [Dev Backend: O Segredo para Solidificar seu Conhecimento! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=nQ2b3e2orWg)
 - [Dev Backend: A melhor estratégia para implementar novas features do Java](https://www.youtube.com/watch?v=5eBSo50F5zc)
 - [Como containers facilitam a migração para novas versões do Java! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=NpNc1Ov5g90)
 - [Dev Backend: Pare de estudar tudo e aprenda só o que impacta seu código! #shorts #java #devbackend](https://www.youtube.com/watch?v=6iN1ORiVPkg)
-- [Backend Java: O Jeito certo de se atualizar! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=1bUNSVYc-ao)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
