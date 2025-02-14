@@ -22,7 +22,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔍 O Que Está Segurando Sua Carreira Como Dev Backend?](https://www.youtube.com/watch?v=qiXb47KgRYw)
+- [🔍 O Que Está Travando Sua Carreira Como Dev Backend?](https://www.youtube.com/watch?v=qiXb47KgRYw)
 - [Java Backend: O segredo para se atualizar sem ficar sobrecarregado! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=iGTIJDwToOU)
 - [Projetos de manutenção: O maior obstáculo para devs se atualizarem! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=n7H5P2l_yyM)
 - [Atualização de Java: Dicas para não ficar para trás no mercado](https://www.youtube.com/watch?v=DDr-cYBGbzo)
