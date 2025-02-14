@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como controlar seus hábitos pode impulsionar sua carreira no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=GPGDFUw6E-o)
+- [Como sair da estagnação no backend: Estratégias para profissionais experientes](https://www.youtube.com/watch?v=QFHWuidpkp0)
 - [🔍 O Que Está Travando Sua Carreira Como Dev Backend?](https://www.youtube.com/watch?v=qiXb47KgRYw)
 - [Java Backend: O segredo para se atualizar sem ficar sobrecarregado! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=iGTIJDwToOU)
 - [Projetos de manutenção: O maior obstáculo para devs se atualizarem! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=n7H5P2l_yyM)
-- [Atualização de Java: Dicas para não ficar para trás no mercado](https://www.youtube.com/watch?v=DDr-cYBGbzo)
-- [🚀 O Que Separa Devs Backend Comuns dos Que Chegam ao Topo?](https://www.youtube.com/watch?v=YY2HzAMZCak)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
