@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Estudo ativo: A chave para dominar qualquer assunto no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Qdkq02eZ9XQ)
 - [Como estudar arquitetura de software com foco na sua carreira backend](https://www.youtube.com/watch?v=F1Ses5clD08)
 - [Estudo ativo: A chave para dominar qualquer assunto no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=kOTh0hIjpI4)
 - [Como controlar seus hábitos pode impulsionar sua carreira no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=GPGDFUw6E-o)
 - [Como sair da estagnação no backend: Estratégias para profissionais experientes](https://www.youtube.com/watch?v=QFHWuidpkp0)
+- [🔍 O Que Está Travando Sua Carreira Como Dev Backend?](https://www.youtube.com/watch?v=qiXb47KgRYw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
