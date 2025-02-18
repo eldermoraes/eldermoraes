@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Os 3 ERROS FATAIS Que Todos Os Desenvolvedores Backend Devem Evitar](https://www.youtube.com/watch?v=iNHguMLV0lQ)
 - [Dev, saiba como garantir a promoção que você merece! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=ALZKohqnj8E)
 - [Foco na arquitetura certa: o que preciso estudar como dev intermediário #shorts #java #devbackend](https://www.youtube.com/watch?v=k-0Q9r9vaow)
 - [Como estudar arquitetura de software com foco na sua carreira backend](https://www.youtube.com/watch?v=F1Ses5clD08)
 - [Estudo ativo: A chave para dominar qualquer assunto no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=kOTh0hIjpI4)
-- [Como controlar seus hábitos pode impulsionar sua carreira no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=GPGDFUw6E-o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
