@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O erro que trava seu aprendizado no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=5CQeawd1bn4)
 - [Avançando na carreira backend: Identifique quando é hora de mudar! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=KDZo6gTnjnM)
 - [Como se aprofundar no que importa e ignorar o &#39;vai que&#39; da carreira! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=cIjPe1SkR68)
 - [🔥 Mentalidade de Elite: O Segredo dos Devs Backend que Dominam o Mercado](https://www.youtube.com/watch?v=VbSQEwT-ZUo)
 - [Assuma o controle da sua carreira como dev backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=rcPSOQEcCgg)
-- [Dev backend: Estude o que você realmente precisa no seu trabalho! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=szk1xhqS5Cg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
