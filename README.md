@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A verdade sobre performance e otimização que ninguém te conta](https://www.youtube.com/watch?v=I8QxADAk0Pw)
+- [Quer dominar arquitetura de software? Comece do jeito certo! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=0d2H0Z5eWqI)
 - [O erro que trava seu aprendizado no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=5CQeawd1bn4)
 - [Avançando na carreira backend: Identifique quando é hora de mudar! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=KDZo6gTnjnM)
 - [Como se aprofundar no que importa e ignorar o &#39;vai que&#39; da carreira! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=cIjPe1SkR68)
-- [🔥 Mentalidade de Elite: O Segredo dos Devs Backend que Dominam o Mercado](https://www.youtube.com/watch?v=VbSQEwT-ZUo)
-- [Assuma o controle da sua carreira como dev backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=rcPSOQEcCgg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
