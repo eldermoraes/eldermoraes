@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O segredo do sucesso no backend: escolher, testar e se adaptar! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=LIx6I6f1qmQ)
 - [Códigos simples que resolvem problemas complexos! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=yWJBHRSIKTQ)
 - [A verdade sobre performance e otimização que ninguém te conta](https://www.youtube.com/watch?v=I8QxADAk0Pw)
 - [Quer dominar arquitetura de software? Comece do jeito certo! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=0d2H0Z5eWqI)
 - [O erro que trava seu aprendizado no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=5CQeawd1bn4)
-- [Avançando na carreira backend: Identifique quando é hora de mudar! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=KDZo6gTnjnM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
