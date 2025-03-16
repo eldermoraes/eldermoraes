@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Como se destacar e impulsionar sua carreira Dev! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=6rYyZhIMGUk)
 - [Você é responsável por dar o valor às suas tarefas como dev! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=WqcuOERJ-_s)
 - [Se destacando como Dev: contribuir com a comunidade é a chave! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=4CtSdnDMz3Q)
 - [Quer ser valorizado como dev? Mostre impacto real no negócio!  #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=sAU9KcWkWCQ)
 - [Seu inglês está te impedindo de crescer na carreira dev?](https://www.youtube.com/watch?v=eMppNgeXDUA)
-- [Backend Java: Você está se subestimando e travando sua carreira? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=LrCWyIb8OlA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
