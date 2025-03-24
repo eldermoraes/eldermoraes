@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Backend Java: Como construir uma carreira sólida! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=_2IhMy69cwE)
 - [Reconhecimento vem para quem sabe se posicionar!](https://www.youtube.com/watch?v=noxzUFwva6s)
 - [Domine o backend e seja reconhecido pelo que faz de melhor! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=KWFsOqdrJeA)
 - [Dev backend, você é contratado para resolver problemas! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=S6_BKJ-K-Gs)
 - [Dev backend, seja destaque dentro da sua empresa! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=dTWAFy6PsVU)
-- [Veja como assumir desafios pode mudar sua carreira no backend!](https://www.youtube.com/watch?v=oYFsDpCNn6g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
