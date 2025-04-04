@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, visibilidade gera oportunidade! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=lpSnAVclwkQ)
+- [Conhecimento que não resolve problema não vira reconhecimento](https://www.youtube.com/watch?v=ENkm3kLbB2E)
 - [Dev, saiba como impactar sua empresa de verdade! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=nJPmkuQXDzo)
 - [Os melhores profissionais compartilham o que sabem! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=UnB9o7O-AAw)
 - [Dev, compartilhar conhecimento pode impulsionar sua carreira! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=RF0bYcfuaHs)
-- [O segredo dos grandes devs? Clareza sobre onde querem chegar! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=dHYZPnyOeIU)
-- [Crescimento vem do esforço: Evolua no backend java! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=767EmVddaSw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
