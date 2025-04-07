@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Reconhecimento corporativo: quando seu impacto vai além da squad! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=_CCroNSxXgc)
 - [Dev, exerça controle onde pode e assim se destaque no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=-Oda8DticUI)
 - [Foco transforma esforço comum em resultado extraordinário! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=GfLtep-2IOI)
 - [Dev, visibilidade gera oportunidade! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=lpSnAVclwkQ)
 - [Conhecimento que não resolve problema não vira reconhecimento](https://www.youtube.com/watch?v=ENkm3kLbB2E)
-- [Dev, saiba como impactar sua empresa de verdade! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=nJPmkuQXDzo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
