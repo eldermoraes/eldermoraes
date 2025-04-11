@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev, Essa vaga te leva pra onde você quer ir? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=gUMbzh1fN2w)
 - [O caminho real para crescer na carreira como dev que muitos profissionais negligenciam](https://www.youtube.com/watch?v=oIZCRgpxQ_A)
 - [Dev, não é sobre saber tudo. É sobre ser referência em algo! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=jbu8Qfg00Fg)
 - [Se não te aproxima do teu objetivo, é distração! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=FyrwlRYVExY)
 - [Reconhecimento corporativo: quando seu impacto vai além da squad! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=_CCroNSxXgc)
-- [Dev, exerça controle onde pode e assim se destaque no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=-Oda8DticUI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
