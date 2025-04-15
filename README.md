@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Eventos podem mudar sua carreira dev! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=TCwWjtmGYy4)
 - [Dev backend de sucesso não vive de tarefa aleatória](https://www.youtube.com/watch?v=n5ArPkR12gg)
 - [Direção de carreira para quem vive de Java! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=8GJbouIdp_E)
 - [Seu foco define sua produtividade no backend java! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=rW5YyxlXOLA)
 - [Dev, Essa vaga te leva pra onde você quer ir? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=gUMbzh1fN2w)
-- [O caminho real para crescer na carreira como dev que muitos profissionais negligenciam](https://www.youtube.com/watch?v=oIZCRgpxQ_A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
