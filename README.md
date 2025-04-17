@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dev backend: como escalar seus resultados sem pirar! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=woDHpBBFsL0)
 - [Liderança, comunicação e networking: o trio que impulsiona sua carreira](https://www.youtube.com/watch?v=poR-_naxymM)
 - [Dev, especialização atrai boas oportunidades! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=fWPU4qz3zaQ)
 - [Eventos podem mudar sua carreira dev! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=TCwWjtmGYy4)
 - [Dev backend de sucesso não vive de tarefa aleatória](https://www.youtube.com/watch?v=n5ArPkR12gg)
-- [Direção de carreira para quem vive de Java! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=8GJbouIdp_E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
