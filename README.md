@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Resolver problemas complexos te destaca! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=0bKBv1YgUtw)
 - [Networking dev: não é sobre virar extrovertido! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=IfSKccRXhQ0)
 - [Ser produtivo no Java não é sobre correr, é sobre direção](https://www.youtube.com/watch?v=K2FikxIN0rw)
 - [Dev backend: como escalar seus resultados sem pirar! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=woDHpBBFsL0)
 - [Liderança, comunicação e networking: o trio que impulsiona sua carreira](https://www.youtube.com/watch?v=poR-_naxymM)
-- [Dev, especialização atrai boas oportunidades! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=fWPU4qz3zaQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
