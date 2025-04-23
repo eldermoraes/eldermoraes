@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Especialista encara problema complexo, não task fácil! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=qUV_akjrg7s)
 - [Dev, ajude o outro usando o que você já sabe fazer! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=tlVP9MZ3KZo)
 - [Dev backend, se especialize e seja lembrado! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=F_4AYYiq8Gk)
 - [Dev backend, você precisa se fazer entendido! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Yt1aVVltid8)
 - [Resolver problemas complexos te destaca! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=0bKBv1YgUtw)
-- [Networking dev: não é sobre virar extrovertido! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=IfSKccRXhQ0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
