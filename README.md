@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Fazer conteúdo em inglês NÃO te afasta dos devs brasileiros! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=-vrqYGRg-0c)
 - [Dev,  quer construir carreira internacional? Se liga nisso! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=XKyPAUVebSI)
 - [Dev, quer se destacar? Pegue um nicho e torne ele seu território! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=NAwbeHXpUS8)
 - [Vaga genérica, salário genérico. Se destaque! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=gppwM8D4gxM)
 - [O segredo para as vagas bem pagas no backend! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=A86AkbbQ388)
-- [Especialista encara problema complexo, não task fácil! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=qUV_akjrg7s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
