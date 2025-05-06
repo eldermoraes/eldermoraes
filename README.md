@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Você pode estar no Brasil e ainda assim ter uma carreira internacional? #shorts #java #devbackend](https://www.youtube.com/watch?v=prI1lSNIR-c)
 - [Dev, Produzir conteúdo é aumentar suas chances de ser descoberto! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=uv8YY5qBrGc)
 - [Comunidade é o atalho mais rápido para evoluir no backend java! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=wgLC7nw1p0Y)
 - [Conteúdo gera relevância e oportunidades no backend java! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=dFMbzaQ08aY)
 - [Fazer conteúdo em inglês NÃO te afasta dos devs brasileiros! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=-vrqYGRg-0c)
-- [Dev,  quer construir carreira internacional? Se liga nisso! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=XKyPAUVebSI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
