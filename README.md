@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Quer ser desejado pelas vagas mais bem pagas? Seja especialista.](https://www.youtube.com/watch?v=K9965NuCMWA)
+- [Ser especialista é dominar a busca por soluções! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=0vu1hV4z29Y)
 - [Como oportunidades sob medida surgem para especialistas! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=zFrGQADBd1Y)
 - [Por que tantos devs querem trabalhar para empresas internacionais? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Z57bnkF0FOY)
 - [Você pode estar no Brasil e ainda assim ter uma carreira internacional? #shorts #java #devbackend](https://www.youtube.com/watch?v=prI1lSNIR-c)
-- [Dev, Produzir conteúdo é aumentar suas chances de ser descoberto! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=uv8YY5qBrGc)
-- [Comunidade é o atalho mais rápido para evoluir no backend java! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=wgLC7nw1p0Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
