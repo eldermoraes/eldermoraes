@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Mais que um perfil bonito: torne-se referência no que faz! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=vCKjkCYzOD8)
 - [Quer ser desejado pelas vagas mais bem pagas? Seja especialista.](https://www.youtube.com/watch?v=K9965NuCMWA)
 - [Ser especialista é dominar a busca por soluções! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=0vu1hV4z29Y)
 - [Como oportunidades sob medida surgem para especialistas! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=zFrGQADBd1Y)
 - [Por que tantos devs querem trabalhar para empresas internacionais? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Z57bnkF0FOY)
-- [Você pode estar no Brasil e ainda assim ter uma carreira internacional? #shorts #java #devbackend](https://www.youtube.com/watch?v=prI1lSNIR-c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
