@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Carreira Java 2025: Como planejar seu próximo passo?](https://www.youtube.com/watch?v=qM5wVJV2Ys4)
 - [Torne-se referência como Dev backend no que você domina! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=jxoo9HUxJ9E)
 - [Mais que um perfil bonito: torne-se referência no que faz! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=vCKjkCYzOD8)
 - [Quer ser desejado pelas vagas mais bem pagas? Seja especialista.](https://www.youtube.com/watch?v=K9965NuCMWA)
 - [Ser especialista é dominar a busca por soluções! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=0vu1hV4z29Y)
-- [Como oportunidades sob medida surgem para especialistas! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=zFrGQADBd1Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
