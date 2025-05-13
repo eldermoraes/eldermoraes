@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O diferencial de ser raro no mercado Dev! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=J6AkeYC7HyQ)
 - [Autoridade Tech: Como ser reconhecido como especialista em Java?](https://www.youtube.com/watch?v=lJOYNChvbYg)
 - [Carreira Java 2025: Como planejar seu próximo passo?](https://www.youtube.com/watch?v=qM5wVJV2Ys4)
 - [Torne-se referência como Dev backend no que você domina! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=jxoo9HUxJ9E)
 - [Mais que um perfil bonito: torne-se referência no que faz! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=vCKjkCYzOD8)
-- [Quer ser desejado pelas vagas mais bem pagas? Seja especialista.](https://www.youtube.com/watch?v=K9965NuCMWA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
