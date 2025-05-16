@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Generalista ou especialista? O que valoriza mais sua carreira em Java](https://www.youtube.com/watch?v=f45MND8u9fc)
+- [Ser especialista reduz a quantidade, mas eleva a qualidade! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=DqzykZs-cG4)
 - [Ser lembrado como quem resolve: o verdadeiro valor do especialista! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=xYrzCHkchyo)
 - [Produzir conteúdo é turbinar suas oportunidades no mercado java backend](https://www.youtube.com/watch?v=J3mOQ9PZBrs)
 - [Autoridade Tech: Como ser reconhecido como especialista em Java?](https://www.youtube.com/watch?v=lJOYNChvbYg)
-- [O diferencial de ser raro no mercado Dev! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=J6AkeYC7HyQ)
-- [Carreira Java 2025: Como planejar seu próximo passo?](https://www.youtube.com/watch?v=qM5wVJV2Ys4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
