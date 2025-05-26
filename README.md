@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java backend de verdade aprende com prática real e crítica! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=OupIaKgbTIo)
+- [Java backend: quem cresce vê além do código](https://www.youtube.com/watch?v=NOkxwudh0Yo)
 - [IA ameaça seu futuro como dev backend? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=_EZfV-HM_QQ)
 - [Certificação muda sua carreira Java backend? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=QySXyjqmNcY)
 - [Quer ser mais relevante? Compartilhe o que você sabe! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=qRdnqEy3n-o)
-- [Quem lidera sua carreira é você! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=HtyQVGkQy9M)
-- [Especialista em Java: Você também pode se tornar um](https://www.youtube.com/watch?v=-ybkK1uo9yk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
