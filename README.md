@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [As maiores dúvidas de quem deseja ocupar as posições mais bem pagas usando Java no backend](https://www.youtube.com/watch?v=ZkH20x8kSlo)
+- [Os 3 pilares de carreira dos devs mais bem pagos que usam Java no backend](https://www.youtube.com/watch?v=cqpBpGgsd6Q)
 - [As 2 ciladas que atrapalham a jornada rumo às posições mais bem pagas para quem usa Java no backend](https://www.youtube.com/watch?v=42Wwc4mGR5A)
 - [Java backend de verdade aprende com prática real e crítica! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=OupIaKgbTIo)
 - [Java backend: quem cresce vê além do código](https://www.youtube.com/watch?v=NOkxwudh0Yo)
-- [IA ameaça seu futuro como dev backend? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=_EZfV-HM_QQ)
-- [Certificação muda sua carreira Java backend? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=QySXyjqmNcY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
