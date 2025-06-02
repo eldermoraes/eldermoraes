@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Java backend: por que sua carreira travou?](https://www.youtube.com/watch?v=xIiWinInC6Y)
+- [Java backend: especialista pensa além do código da API! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=KGtoGetRaSc)
 - [Como evitar criar um monolito distribuído? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=cwgAt2zg6JM)
 - [Dev Java backend de verdade entende o negócio! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=noZ6HZ0O6vE)
 - [Migrar do Spring pro Quarkus no backend? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=fu1I8k2WF-M)
-- [Java backend de verdade aprende com prática real e crítica! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=OupIaKgbTIo)
-- [Java backend: quem cresce vê além do código](https://www.youtube.com/watch?v=NOkxwudh0Yo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
