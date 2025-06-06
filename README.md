@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O que você tá fazendo pra se destacar no backend Java? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=lovGUP5Efwo)
+- [Backend Java: sem visão de futuro, você não sai do lugar](https://www.youtube.com/watch?v=BwxCMIIAHhQ)
 - [Quais soft skills mais importam em 2025? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=6G16PCdIr6M)
 - [Backend Java: seu próximo passo exige preparo agora! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=m1bSyp2RYgI)
 - [Backend Java: você entrega muito e recebe pouco? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=Qf_PWQqyrqA)
-- [Java backend: por que sua carreira travou?](https://www.youtube.com/watch?v=xIiWinInC6Y)
-- [Java backend: especialista pensa além do código da API! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=KGtoGetRaSc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
