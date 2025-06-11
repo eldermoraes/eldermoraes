@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [O perigo invisível que trava devs Java backend por anos!  #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=B9A6wiAhH_s)
-- [Dev Backend: O segredo da prática diária para evoluir de verdade!  #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=CWB981vopSI)
-- [Backend Java: quem para de aprender, fica pra trás! #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=sfTuRdPfe5U)
+- [O perigo invisível que trava devs Java backend por anos!  #shorts #dev #java #devbackend](https://www.youtube.com/shorts/B9A6wiAhH_s)
+- [Dev Backend: O segredo da prática diária para evoluir de verdade!  #shorts #dev #java #devbackend](https://www.youtube.com/shorts/CWB981vopSI)
+- [Backend Java: quem para de aprender, fica pra trás! #shorts #dev #java #devbackend](https://www.youtube.com/shorts/sfTuRdPfe5U)
 - [A armadilha da zona de conforto que impede sua evolução profissional](https://www.youtube.com/watch?v=ljPo2uJ71cc)
-- [Você pode agir como Tech Lead mesmo sem ter o cargo formal? #shorts #dev #java #devbackend](https://www.youtube.com/watch?v=W4UwQD446ow)
+- [Você pode agir como Tech Lead mesmo sem ter o cargo formal? #shorts #dev #java #devbackend](https://www.youtube.com/shorts/W4UwQD446ow)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
