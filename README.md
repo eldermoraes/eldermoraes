@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=eldermoraes.com&style=for-the-badge&url=https%3A%2F%2Feldermoraes.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/elderjava?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feldermoraes&screen_name=elderjava)
 
-- 📖  [Jakarta EE Cookbook][jakartaeecookbook]
+- 📖  [The Enterprise Guide to AI in Java (Free Whitepaper)][java-ai-whitepaper]
 - 🏆  [Java Champion][javachampions]
 - 🎸 Fun fact: I'm a guitar player!
 
@@ -37,4 +37,5 @@
 [instagram]: https://instagram.com/eldermoraes
 [linkedin]: https://linkedin.com/in/eldermoraes
 [jakartaeecookbook]: http://book.eldermoraes.com
-[javachampions]: http://javachampion.eldermoraes.com
+[javachampions]: https://javachampions.org/members.html
+[java-ai-whitepaper]: https://eldermoraes.com/java-ai-whitepaper/?utm_source=github&utm_medium=organic&utm_campaign=java_ai_whitepaper
