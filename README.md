@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DDD na Prática: Como Bounded Contexts Reduzem o Caos em Sistemas Distribuídos](https://www.youtube.com/watch?v=Q_2svhogA8c)
 - [#java #developer #javachampion](https://www.youtube.com/shorts/LCuTjJp8_tI)
 - [O erro que faz devs Java backend ficarem no mesmo cargo por anos! #shorts #dev #java #devbackend](https://www.youtube.com/shorts/6K5p9Nt50h4)
 - [Backend Java: descubra o que realmente dá valor à sua carreira! #shorts #dev #java #devbackend](https://www.youtube.com/shorts/JcRW0J_SzvY)
 - [3 erros que impedem devs backend de serem reconhecidos e bem pagos](https://www.youtube.com/watch?v=fNEvrJb-w6M)
-- [Quer crescer no backend Java? Participe, contribua e se torne visível no mercado! #shorts #dev #java](https://www.youtube.com/shorts/MM8-BkrQdTM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
