@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O desafio da IA no ecossistema Java vai muito além do código](https://www.youtube.com/shorts/aCytSaZKjt0)
 - [A maioria dos devs que querem usar IA comete esse erro](https://www.youtube.com/shorts/k2KPEOK4qa4)
 - [DDD na Prática: Como Bounded Contexts Reduzem o Caos em Sistemas Distribuídos](https://www.youtube.com/watch?v=Q_2svhogA8c)
 - [#java #developer #javachampion](https://www.youtube.com/shorts/LCuTjJp8_tI)
 - [O erro que faz devs Java backend ficarem no mesmo cargo por anos! #shorts #dev #java #devbackend](https://www.youtube.com/shorts/6K5p9Nt50h4)
-- [Backend Java: descubra o que realmente dá valor à sua carreira! #shorts #dev #java #devbackend](https://www.youtube.com/shorts/JcRW0J_SzvY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
