@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Você se identifica?](https://www.youtube.com/shorts/b7nYyK0yx7M)
 - [A grande oportunidade para devs Java que pouca gente está olhando](https://www.youtube.com/shorts/dLVH_VD2ROg)
 - [Qual desses tipos de Dev Java você quer ser?](https://www.youtube.com/shorts/_PZiMbZwLOA)
 - [O desafio da IA no ecossistema Java vai muito além do código](https://www.youtube.com/shorts/aCytSaZKjt0)
 - [A maioria dos devs que querem usar IA comete esse erro](https://www.youtube.com/shorts/k2KPEOK4qa4)
-- [DDD na Prática: Como Bounded Contexts Reduzem o Caos em Sistemas Distribuídos](https://www.youtube.com/watch?v=Q_2svhogA8c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
