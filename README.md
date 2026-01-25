@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [O IDC acabou de publicar um relatório fazendo uma análise de mercado específica sobre o Java 25.](https://www.youtube.com/shorts/uimvX_NRDw8)
 - [A verdade que me custou um contrato com uma das maiores editoras do mundo](https://www.youtube.com/shorts/2vfXbzDNDrA)
 - [Essa é uma das transformações mais silenciosas do mercado](https://www.youtube.com/shorts/3DqsGjWx2LA)
 - [Tem muito javeiro jogado pra escanteio nas conversas sobre IA, e não tem nada a ver com conhecimento](https://www.youtube.com/shorts/iaXVYCOJq1Y)
 - [Você se identifica?](https://www.youtube.com/shorts/b7nYyK0yx7M)
-- [A grande oportunidade para devs Java que pouca gente está olhando](https://www.youtube.com/shorts/dLVH_VD2ROg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
