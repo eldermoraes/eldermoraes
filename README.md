@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Desenvolver software é igual desossar frango](https://www.youtube.com/shorts/6I8RNwMzyuw)
 - [Feature de Machine Learning, mas feito em Java](https://www.youtube.com/shorts/1HKfR0C3c6g)
 - [A PESSOA POR TRÁS DO RESULTADO | Com Bruno Souza | 42 Bits EP 001](https://www.youtube.com/watch?v=TVs571dsqB0)
 - [O IDC acabou de publicar um relatório fazendo uma análise de mercado específica sobre o Java 25.](https://www.youtube.com/shorts/uimvX_NRDw8)
 - [A verdade que me custou um contrato com uma das maiores editoras do mundo](https://www.youtube.com/shorts/2vfXbzDNDrA)
-- [Essa é uma das transformações mais silenciosas do mercado](https://www.youtube.com/shorts/3DqsGjWx2LA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
