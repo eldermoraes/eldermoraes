@@ -3,8 +3,12 @@
 [![Website](https://img.shields.io/website?label=eldermoraes.com&style=for-the-badge&url=https%3A%2F%2Feldermoraes.com)][website]
 [![Instagram Follow](https://img.shields.io/badge/follow-%40eldermoraes-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_u/eldermoraes)
 
-- 📖  [The Enterprise Guide to AI in Java (Free Whitepaper)][java-ai-whitepaper]
-- 🏆  [Java Champion][javachampions]
+- [Blog][[website]]
+- [X][twitter]
+- [YouTube][youtube]
+- [Instagram][instagram]
+- [LinkedIn][linkedin]
+- 🏆 [Java Champion][javachampions]
 - 🎸 Fun fact: I'm a guitar player!
 
 ### Connect with me:
