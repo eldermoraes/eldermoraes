@@ -26,11 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [FOI A VOCAÇÃO QUE GEROU MINHA CARREIRA | Com Professor isidro | 42 Bits EP 002](https://www.youtube.com/watch?v=x-mZ_oRAUXk)
 - [Quarkus Agent MCP com Claude Code, Codex e Cursor: a decisão arquitetural que passou despercebida](https://www.youtube.com/watch?v=HdguNciW2ew)
 - [Benchmarks de LLM na servem pra nada](https://www.youtube.com/shorts/4_D_tn8HIxk)
 - [Desenvolver software é igual desossar frango](https://www.youtube.com/shorts/6I8RNwMzyuw)
 - [Feature de Machine Learning, mas feito em Java](https://www.youtube.com/shorts/1HKfR0C3c6g)
-- [A PESSOA POR TRÁS DO RESULTADO | Com Bruno Souza | 42 Bits EP 001](https://www.youtube.com/watch?v=TVs571dsqB0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
