@@ -26,11 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [27 anos em 60 segundos](https://www.youtube.com/shorts/7pGH45qgiGw)
 - [Java vs Python](https://www.youtube.com/shorts/fjbW_cAykO8)
 - [FOI A VOCAÇÃO QUE GEROU MINHA CARREIRA | Com Professor Isidro | 42 Bits EP 002](https://www.youtube.com/watch?v=x-mZ_oRAUXk)
 - [Quarkus Agent MCP com Claude Code, Codex e Cursor: a decisão arquitetural que passou despercebida](https://www.youtube.com/watch?v=HdguNciW2ew)
 - [Benchmarks de LLM na servem pra nada](https://www.youtube.com/shorts/4_D_tn8HIxk)
-- [Desenvolver software é igual desossar frango](https://www.youtube.com/shorts/6I8RNwMzyuw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
